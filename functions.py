@@ -20,8 +20,6 @@ def text_summary(user_text, compression_rate):
     summary = 'Das ist eine Testzusammenfassung'
     return summary
 
-from transformers import BertTokenizer
-
 def preprocessing(input_text, tokenizer):
   return tokenizer.encode_plus(
                         input_text,
