@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Summarizer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 4px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .section {
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .slider-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 10px;
+    }
+
+    .slider {
+      width: 70%;
+      margin: 0 10px;
+    }
+
+    #superzoomButton,
+    #contrastButton,
+    #submitButton {
+      padding: 12px 24px;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+
+    #superzoomButton,
+    #contrastButton {
+      background-color: #337ab7;
+      color: #fff;
+    }
+
+    #submitButton {
+      background-color: #4CAF50;
+      color: #fff;
+      font-size: 20px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    #zoomRange {
+      text-align: center;
+      font-size: 14px;
+      color: #666;
+      margin-top: 5px;
+    }
+
+    #classificationCheckbox {
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+
+    textarea {
+      width: 100%;
+      height: 150px;
+      resize: vertical;
+      font-size: 14px;
+      padding: 5px;
+    }
+
+    #uploadSection {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    #uploadSection h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    #uploadButton {
+      display: block;
+      margin: 0 auto;
+      margin-top: 10px;
+    }
+
+    .paragraph {
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+
+    .button-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .button-row button {
+      padding: 12px 24px;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Summarizer</h1>
+
+    <div class="section">
+      <h2>Eingabetext:</h2>
+      <textarea name="user_text" id="user_text"></textarea>
+    </div>
+
+    <div class="section" id="uploadSection">
+      <h2>Lade alternativ dein Dokument hoch:</h2>
+      <input type="file" id="uploadButton">
+    </div>
+
+    <div class="section">
+      <h2>Klassifikation des Textes:</h2>
+      <label for="classificationCheckbox">
+        <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
+        Klassifikation gewünscht
+      </label>
+    </div>
+
+    <div class="section">
+      <h2>Gewünschte Kompressionsrate:</h2>
+      <div class="slider-container">
+        <span>20%</span>
+        <input type="range" id="compressionRate" min="20" max="80" step="1" value="50" class="slider">
+        <span>80%</span>
+      </div>
+      <div id="zoomRange"></div>
+    </div>
+
+    <div class="section">
+      <div class="button-row">
+        <button id="superzoomButton">Superzoom</button>
+        <button id="contrastButton">Kontrast ändern</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <input type="submit" id="submitButton" value="Submit">
+    </div>
+  </div>
+
+  <script>
+    const compressionRate = document.getElementById("compressionRate");
+    const zoomRange = document.getElementById("zoomRange");
+    const superzoomButton = document.getElementById("superzoomButton");
+    const contrastButton = document.getElementById("contrastButton");
+    const classificationCheckbox = document.getElementById("classificationCheckbox");
+
+    compressionRate.addEventListener("input", function() {
+      const zoomValue = compressionRate.value + "%";
+      zoomRange.innerHTML = zoomValue;
+    });
+
+    superzoomButton.addEventListener("click", function() {
+      const htmlElement = document.documentElement;
+      htmlElement.style.zoom = "300%"; // Anpassen der gewünschten Zoomstufe
+    });
+
+    let contrastFlag = false;
+
+    contrastButton.addEventListener("click", function() {
+      const bodyElement = document.body;
+      contrastFlag = !contrastFlag;
+
+      if (contrastFlag) {
+        bodyElement.style.backgroundColor = "#000";
+        bodyElement.style.color = "#fff";
+      } else {
+        bodyElement.style.backgroundColor = "#f9f9f9";
+        bodyElement.style.color = "#333";
+      }
+    });
+  </script>
+</body>
+</html>
