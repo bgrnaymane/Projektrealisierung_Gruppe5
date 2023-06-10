@@ -1,4 +1,4 @@
-#!/Users/bgrnaymane/Documents/GitHub/Projektrealisierung_Gruppe5/.venv/bin/python3
+#!/Users/bgrnaymane/Documents/GitHub/Projektrealisierung_Gruppe5/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
