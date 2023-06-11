@@ -24,5 +24,10 @@ def submit():
         user_text = request.form['user_text']
     compression_rate = request.form['compression_rate']
     user_summary = text_summary(user_text, compression_rate)
-    predicted_class = text_classification(user_text)
-    return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, predicted_class=predicted_class)
+    predicted_class, value_prediction = text_classification(user_text)
+
+    if value_prediction >= 1:
+        pred_class = predicted_class
+    else: 
+        pred_class = 'Der Text konnte nicht klassifiziert werden.'
+    return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, predicted_class=pred_class)

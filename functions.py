@@ -50,7 +50,6 @@ def preprocessing(input_text, tokenizer):
 
 
 def text_classification(user_text):
-    print(user_text)
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -74,8 +73,8 @@ def text_classification(user_text):
     # Forward pass, calculate logit predictions
     with torch.no_grad():
         output = loaded_model(test_ids.to(device), token_type_ids = None, attention_mask = test_attention_mask.to(device))
-    print(output)
     keys = [k for k, v in classes_mapping.items() if v == np.argmax(output.logits.cpu().numpy()).flatten().item()]
+    value_prediction = np.argmax(output)
     predicted_class = keys[0]
 
-    return predicted_class
+    return predicted_class, value_prediction
