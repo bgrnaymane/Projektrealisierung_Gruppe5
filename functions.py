@@ -2,6 +2,11 @@ import pickle
 import torch
 import numpy as np
 from transformers import BertTokenizer, BertForSequenceClassification
+import os
+
+from docx import Document
+from odf import text, teletype
+from odf.opendocument import load
 
 tokenizer = BertTokenizer.from_pretrained(
     'bert-base-uncased',
@@ -9,12 +14,25 @@ tokenizer = BertTokenizer.from_pretrained(
     )
 
 classes_mapping = {
-    'business': 0,
-    'entertainment': 1,
-    'politics': 2,
-    'sport': 3,
-    'tech': 4
+    'Literature': 0,
+    'News': 1,
+    'Blog': 2,
+    'Political speech': 3,
+    'Jurisdiction': 4
 }
+
+def read_docx_file(file_path):
+    doc = Document(file_path)
+    paragraphs = [paragraph.text for paragraph in doc.paragraphs]
+    file_content = '\n'.join(paragraphs)
+    return file_content
+
+# Source: https://stackoverflow.com/questions/51054770/how-to-read-odt-using-python
+def read_odf_file(file):
+    doc = load(file)
+    allparas = doc.getElementsByType(text.P)
+    file_content = teletype.extractText(allparas[0])
+    return file_content
 
 def text_summary(user_text, compression_rate):
     summary = 'Das ist eine Testzusammenfassung'
@@ -32,6 +50,7 @@ def preprocessing(input_text, tokenizer):
 
 
 def text_classification(user_text):
+    print(user_text)
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -55,7 +74,7 @@ def text_classification(user_text):
     # Forward pass, calculate logit predictions
     with torch.no_grad():
         output = loaded_model(test_ids.to(device), token_type_ids = None, attention_mask = test_attention_mask.to(device))
-
+    print(output)
     keys = [k for k, v in classes_mapping.items() if v == np.argmax(output.logits.cpu().numpy()).flatten().item()]
     predicted_class = keys[0]
 

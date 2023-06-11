@@ -1,6 +1,9 @@
 <html>
 <body>
-    <form method="POST" action="/submit">
+    <form method="POST" action="/submit" enctype="multipart/form-data">
+        <label for="txt_file">Laden sie einen Textfile hoch:</label>
+        <input type="file" name = "txt_file" id="txt_file">
+
         <label for="user_text">Text:</label>
         <input type="text" name="user_text" id="user_text"><br><br>
 
