@@ -20,9 +20,9 @@ def submit():
             user_text = file.read().decode('utf-8') 
         else:
             return 'Invalid file format. Only .txt, .docx and .odt files are allowed.'
-    if user_text is None:
+    else:
         user_text = request.form['user_text']
     compression_rate = request.form['compression_rate']
     user_summary = text_summary(user_text, compression_rate)
-    text_class = text_classification(user_text)
-    return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, text_class=text_class)
+    predicted_class = text_classification(user_text)
+    return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, predicted_class=predicted_class)
