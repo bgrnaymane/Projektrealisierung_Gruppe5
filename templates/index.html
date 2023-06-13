@@ -1,16 +1,204 @@
+<!DOCTYPE html>
 <html>
+<head>
+  <title>NLP Tool</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 21px;
+      margin-bottom: 13px;
+    }
+
+    textarea {
+      width: 100%;
+      height: 200px;
+      resize: vertical;
+    }
+
+    input[type="file"] {
+      margin-top: 10px;
+    }
+
+    hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
+
+    .button-row {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .button-row .button {
+      padding: 10px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .button-row .button.high-contrast {
+      background-color: #2ecc71;
+    }
+
+    #submitButton {
+      display: block;
+      margin: 20px auto;
+      padding: 15px 30px;
+      font-size: 20px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    #submitButton.high-contrast {
+      background-color: #2ecc71;
+    }
+
+    /* High Contrast Mode */
+    body.high-contrast {
+      background-color: #0000FF;
+      color: #FFFF00;
+    }
+
+    .container.high-contrast {
+      background-color: #0000FF;
+      color: #FFFF00;
+    }
+
+    .slider-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10px;
+      width: 60%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .slider-value {
+      font-size: 14px;
+      margin: 0 10px;
+    }
+  </style>
+</head>
 <body>
+
+  <div class="container">
+    <h1>NLP Tool</h1>
     <form method="POST" action="/submit" enctype="multipart/form-data">
-        <label for="txt_file">Laden sie einen Textfile hoch:</label>
-        <input type="file" name = "txt_file" id="txt_file">
+    <div class="section">
+      <h2>Eingabetext:</h2>
+      <textarea name="user_text" id="user_text"></textarea>
+    </div>
 
-        <label for="user_text">Text:</label>
-        <input type="text" name="user_text" id="user_text"><br><br>
+    <div id="uploadSection">
+      <h2>Lade alternativ dein Dokument hoch:</h2>
+      
+      <input type="file" name = "txt_file" id="txt_file" accept=".txt, .docx, .odt">
+    <p>Unterstützte Dateiformate: TXT, DOCX, ODT</p>
+    </div>
 
-        <label for="compression_rate">Gewünschte Kompressionsrate:</label>
-        <input type="number" min="1" max="100" name="compression_rate" id="compression_rate"><br><br>
+    <hr>
 
-        <input type="submit" value="Submit">
+    <div class="section">
+      <h2>Verfügbare Optionen:</h2>
+      <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
+      <label for="classificationCheckbox">Klassifikation gewünscht</label>
+      <input type="checkbox" id="summaryCheckbox" name="summaryCheckbox">
+      <label for="summaryCheckbox">Zusammenfassung gewünscht</label>
+    </div>
+
+    <hr>
+
+    <div class="section">
+      <h2>Wähle die Kompressionsrate:</h2>
+      <div class="slider-container">
+        <span>20%</span>
+        <input type="range" id="compression_rate" name="compression_rate" min="20" max="80" step="1" value="50">
+        <span>80%</span>
+      </div>
+      <div class="slider-value" id="rateValue">50%</div>
+    </div>
+
+    <hr>
+
+    <div class="button-row">
+      <button id="superzoomButton" class="button" type="button" onclick="toggleZoom()">Superzoom</button>
+      <button id="contrastButton" class="button" type="button" onclick="toggleContrast()">Kontrast ändern</button>
+    </div>
+
+    <hr>
+
+    <input type="submit" value="Submit" id="submitButton" class="button">
     </form>
+  </div>
+  <script>
+    let zoomed = false;
+    let defaultZoom = "100%";
+
+    function toggleZoom() {
+      const htmlElement = document.documentElement;
+
+      if (zoomed) {
+        htmlElement.style.zoom = defaultZoom;
+        zoomed = false;
+      } else {
+        htmlElement.style.zoom = "300%";
+        zoomed = true;
+      }
+    }
+
+    function toggleContrast() {
+      const body = document.body;
+      const container = document.querySelector(".container");
+      const contrastButton = document.getElementById("contrastButton");
+      const superzoomButton = document.getElementById("superzoomButton");
+      const submitButton = document.getElementById("submitButton");
+
+      body.classList.toggle("high-contrast");
+      container.classList.toggle("high-contrast");
+      contrastButton.classList.toggle("high-contrast");
+      superzoomButton.classList.toggle("high-contrast");
+      submitButton.classList.toggle("high-contrast");
+    }
+
+    const compressionRateSlider = document.getElementById("compressionRate");
+    const rateValue = document.getElementById("rateValue");
+
+    compressionRateSlider.addEventListener("input", function() {
+      const rate = this.value;
+      rateValue.textContent = rate + "%";
+    });
+  </script>
 </body>
 </html>
