@@ -46,7 +46,8 @@
 
     #superzoomButton,
     #contrastButton,
-    #submitButton {
+    #submitButton,
+    #uploadButton {
       padding: 12px 24px;
       font-size: 16px;
       border: none;
@@ -76,9 +77,13 @@
       margin-top: 5px;
     }
 
-    #classificationCheckbox {
-      display: inline-block;
-      vertical-align: middle;
+    .checkbox-group {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .checkbox-group label {
       margin-right: 10px;
     }
 
@@ -125,6 +130,12 @@
       border-radius: 4px;
       cursor: pointer;
     }
+	
+	hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
   </style>
 </head>
 <body>
@@ -136,17 +147,26 @@
       <textarea name="user_text" id="user_text"></textarea>
     </div>
 
-    <div class="section" id="uploadSection">
+    <div id="uploadSection">
       <h2>Lade alternativ dein Dokument hoch:</h2>
-      <input type="file" id="uploadButton">
+      <input type="file" id="uploadButton" accept=".txt,.doc,.docx,.odt">
     </div>
-
+	<hr>
+	
     <div class="section">
-      <h2>Klassifikation des Textes:</h2>
-      <label for="classificationCheckbox">
-        <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
-        Klassifikation gewünscht
-      </label>
+      <h2>Verfügbare Optionen:</h2>
+      <div class="checkbox-group">
+        <label for="classificationCheckbox">
+          <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
+          Klassifikation gewünscht
+        </label>
+      </div>
+      <div class="checkbox-group">
+        <label for="summaryCheckbox">
+          <input type="checkbox" id="summaryCheckbox" name="summaryCheckbox">
+          Zusammenfassung gewünscht
+        </label>
+      </div>
     </div>
 
     <div class="section">
@@ -177,6 +197,8 @@
     const superzoomButton = document.getElementById("superzoomButton");
     const contrastButton = document.getElementById("contrastButton");
     const classificationCheckbox = document.getElementById("classificationCheckbox");
+    const summaryCheckbox = document.getElementById("summaryCheckbox");
+    const uploadButton = document.getElementById("uploadButton");
 
     compressionRate.addEventListener("input", function() {
       const zoomValue = compressionRate.value + "%";

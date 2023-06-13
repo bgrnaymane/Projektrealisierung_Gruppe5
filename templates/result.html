@@ -1,9 +1,141 @@
+<!DOCTYPE html>
 <html>
+<head>
+  <title>Ergebnisse</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .result-window {
+      max-height: 400px;
+      overflow: auto;
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 20px;
+      text-align: left;
+    }
+
+    .result-text {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .result-info {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    .button-row {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .zoom-button,
+    .contrast-button {
+      padding: 10px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
+
+    /* High Contrast Mode */
+    body.high-contrast {
+      background-color: #0000FF;
+      color: #FFFF00;
+    }
+
+    .result-window.high-contrast {
+      background-color: #0000FF;
+      color: #FFFF00;
+    }
+  </style>
+</head>
 <body>
-    <h2>Ergebnisse:</h2>
-    <p>Text: {{ user_text }}</p>
-    <p>Komressionsrate: {{ compression_rate }}</p>
-    <p>Zusammenfassung: {{ user_summary }}</p>
-    <p>Zugewiesene Klasse: {{ text_class }}</p>
+  <h2>Ergebnisse:</h2>
+
+  <div class="result-window">
+    <div class="result-text">
+      <strong>Text:</strong>
+      <br>
+      {{ user_text }}
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="result-info">
+    <strong>Kompressionsrate:</strong>
+    <br>
+    {{ compression_rate }}
+  </div>
+
+  <hr>
+
+  <div class="result-info">
+    <strong>Zusammenfassung:</strong>
+    <br>
+    {{ user_summary }}
+  </div>
+
+  <hr>
+
+  <div class="result-info">
+    <strong>Zugewiesene Klasse:</strong>
+    <br>
+    {{ text_class }}
+  </div>
+
+  <hr>
+
+  <div class="button-row">
+    <button class="zoom-button" onclick="toggleZoom()">Superzoom</button>
+    <button class="contrast-button" onclick="toggleContrast()">Kontrast ändern</button>
+  </div>
+
+  <script>
+    let zoomed = false;
+    let defaultZoom = "100%";
+
+    function toggleZoom() {
+      const htmlElement = document.documentElement;
+
+      if (zoomed) {
+        htmlElement.style.zoom = defaultZoom;
+        zoomed = false;
+      } else {
+        htmlElement.style.zoom = "300%";
+        zoomed = true;
+      }
+    }
+
+    function toggleContrast() {
+      const body = document.body;
+      const resultWindow = document.querySelector(".result-window");
+
+      body.classList.toggle("high-contrast");
+      resultWindow.classList.toggle("high-contrast");
+    }
+  </script>
 </body>
 </html>
