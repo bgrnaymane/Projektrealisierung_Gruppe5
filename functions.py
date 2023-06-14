@@ -74,7 +74,9 @@ def text_classification(user_text):
     with torch.no_grad():
         output = loaded_model(test_ids.to(device), token_type_ids = None, attention_mask = test_attention_mask.to(device))
     keys = [k for k, v in classes_mapping.items() if v == np.argmax(output.logits.cpu().numpy()).flatten().item()]
-    value_prediction = np.argmax(output)
+    value_prediction = torch.max(output.logits).item()
+    print(output)
+    print(value_prediction)
     predicted_class = keys[0]
 
     return predicted_class, value_prediction
