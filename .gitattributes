@@ -1,0 +1,7 @@
+*.csv,[[:space:]]*.txt filter=lfs diff=lfs merge=lfs -text
+data/* filter=lfs diff=lfs merge=lfs -text
+BBC_News_Summary/* filter=lfs diff=lfs merge=lfs -text
+Blogs_result/* filter=lfs diff=lfs merge=lfs -text
+Juristictions/* filter=lfs diff=lfs merge=lfs -text
+Literature/* filter=lfs diff=lfs merge=lfs -text
+Speeches/* filter=lfs diff=lfs merge=lfs -text
