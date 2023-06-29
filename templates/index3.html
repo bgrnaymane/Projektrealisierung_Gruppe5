@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <html>
 <head>
   <title>Summarizer</title>
@@ -86,13 +87,13 @@
 
     /* High Contrast Mode */
     body.high-contrast {
-      background-color: #0000FF;
-      color: #FFFF00;
+      background-color: #000000;
+      color: #008000 ;
     }
 
     .container.high-contrast {
-      background-color: #0000FF;
-      color: #FFFF00;
+      background-color: #000000;
+      color: #008000 ;
     }
 
     .slider-container {
@@ -116,31 +117,33 @@
     <h1>Summarizer</h1>
 
     <div class="section">
-      <h2>Eingabetext:</h2>
+      <h2>Input Text:</h2>
+      <label for="user_text">Enter text:</label>
       <textarea name="user_text" id="user_text"></textarea>
     </div>
 
     <div id="uploadSection">
-      <h2>Lade alternativ dein Dokument hoch:</h2>
-      
+      <h2>Alternatively, upload your document:</h2>
+      <label for="uploadButton">Select document:</label>
       <input type="file" id="uploadButton" accept=".txt, .doc, .docx, .odt">
-	  <p>Unterstützte Dateiformate: TXT, DOC(X), ODT</p>
+	  <p>Supported file formats: TXT, DOC(X), ODT</p>
     </div>
 
     <hr>
 
     <div class="section">
-      <h2>Verfügbare Optionen:</h2>
+      <h2>Available Options:</h2>
+      <label for="classificationCheckbox">Enable classification</label>
       <input type="checkbox" id="classificationCheckbox">
-      <label for="classificationCheckbox">Klassifikation gewünscht</label>
+      <label for="summaryCheckbox">Enable summarization</label>
       <input type="checkbox" id="summaryCheckbox">
-      <label for="summaryCheckbox">Zusammenfassung gewünscht</label>
     </div>
 
     <hr>
 
     <div class="section">
-      <h2>Wähle die Kompressionsrate:</h2>
+      <h2>Select Compression Rate:</h2>
+      <label for="compressionRate">Choose compression rate:</label>
       <div class="slider-container">
         <span>20%</span>
         <input type="range" id="compressionRate" min="20" max="80" step="1" value="50">
@@ -153,7 +156,7 @@
 
     <div class="button-row">
       <button id="superzoomButton" class="button" onclick="toggleZoom()">Superzoom</button>
-      <button id="contrastButton" class="button" onclick="toggleContrast()">Kontrast ändern</button>
+      <button id="contrastButton" class="button" onclick="toggleContrast()">Toggle Contrast</button>
     </div>
 
     <hr>
