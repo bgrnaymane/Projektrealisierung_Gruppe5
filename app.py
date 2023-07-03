@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from functions import text_classification, text_summary, read_docx_file, read_odf_file
+from functions import text_classification, text_summary, read_docx_file, read_odt_file
 
 app = Flask(__name__)
 
@@ -11,22 +11,27 @@ def index():
 def submit():
     user_text = ''
 
+    # Read the file by the user input
     file = request.files['txt_file']
+
+    # If a file was uploaded
     if file:
         if file.filename.endswith('.docx'):
             user_text = read_docx_file(file)
         elif file.filename.endswith('.odt'):
-            user_text = read_odf_file(file)
+            user_text = read_odt_file(file)
         elif file.filename.endswith('.txt'):
             user_text = file.read().decode('utf-8') 
         else:
             return 'Invalid file format. Only .txt, .docx and .odt files are allowed.'
     else:
         user_text = request.form['user_text']
-        
+    
+    # Check the functionalities the user wants to access
     classificationCheckbox = request.form.get('classificationCheckbox')
     summaryCheckbox = request.form.get('summaryCheckbox')
 
+    # Return what the user wants
     if classificationCheckbox and not summaryCheckbox:
         predicted_class, value_prediction = text_classification(user_text)
         if value_prediction >= 1:
