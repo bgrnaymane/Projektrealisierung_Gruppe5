@@ -1,0 +1,9 @@
+sumy 0.11.0
+pip
+setuptools
+wheel
+spacy[cuda-autodetect,transformers,lookups]
+en-core-web-sm
+nltk
+rouge-score
+datasets
