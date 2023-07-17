@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Summarizer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      font-size: 21px;
+      margin-bottom: 13px;
+    }
+
+    textarea {
+      width: 100%;
+      height: 200px;
+      resize: vertical;
+    }
+
+    input[type="file"] {
+      margin-top: 10px;
+    }
+
+    hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
+
+    .button-row {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .button-row .button {
+      padding: 10px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .button-row .button.high-contrast {
+      background-color: #2ecc71;
+    }
+
+    #submitButton {
+      display: block;
+      margin: 20px auto;
+      padding: 15px 30px;
+      font-size: 20px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    #submitButton.high-contrast {
+      background-color: #2ecc71;
+    }
+
+    /* High Contrast Mode */
+    body.high-contrast {
+      background-color: #000000;
+      color: #008000 ;
+    }
+
+    .container.high-contrast {
+      background-color: #000000;
+      color: #008000 ;
+    }
+
+    .slider-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10px;
+      width: 60%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .slider-value {
+      font-size: 14px;
+      margin: 0 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Summarizer</h1>
+
+    <div class="section">
+      <h2>Input Text:</h2>
+      <label for="user_text">Enter text:</label>
+      <textarea name="user_text" id="user_text"></textarea>
+    </div>
+
+    <div id="uploadSection">
+      <h2>Alternatively, upload your document:</h2>
+      <label for="uploadButton">Select document:</label>
+      <input type="file" id="uploadButton" accept=".txt, .doc, .docx, .odt">
+	  <p>Supported file formats: TXT, DOC(X), ODT</p>
+      <div class="button-row">
+        <button id="microphoneButton" class="button" onclick="startSpeechRecognition()">Start Microphone</button>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="section">
+      <h2>Available Options:</h2>
+      <label for="classificationCheckbox">Enable classification</label>
+      <input type="checkbox" id="classificationCheckbox">
+      <label for="summaryCheckbox">Enable summarization</label>
+      <input type="checkbox" id="summaryCheckbox">
+    </div>
+
+    <hr>
+
+    <div class="section">
+      <h2>Select Compression Rate:</h2>
+      <label for="compressionRate">Choose compression rate:</label>
+      <div class="slider-container">
+        <span>20%</span>
+        <input type="range" id="compressionRate" min="20" max="80" step="1" value="50">
+        <span>80%</span>
+      </div>
+      <div class="slider-value" id="rateValue">50%</div>
+    </div>
+
+    <hr>
+
+    <div class="button-row">
+      <button id="superzoomButton" class="button" onclick="toggleZoom()">Superzoom</button>
+      <button id="contrastButton" class="button" onclick="toggleContrast()">Toggle Contrast</button>
+    </div>
+
+    <hr>
+
+    <input type="submit" value="Submit" id="submitButton" class="button">
+  </div>
+
+  <script>
+    let zoomed = false;
+    let defaultZoom = "100%";
+
+    function toggleZoom() {
+      const htmlElement = document.documentElement;
+
+      if (zoomed) {
+        htmlElement.style.zoom = defaultZoom;
+        zoomed = false;
+      } else {
+        htmlElement.style.zoom = "300%";
+        zoomed = true;
+      }
+    }
+
+    function toggleContrast() {
+      const body = document.body;
+      const container = document.querySelector(".container");
+      const contrastButton = document.getElementById("contrastButton");
+      const superzoomButton = document.getElementById("superzoomButton");
+      const microphoneButton = document.getElementById("microphoneButton");
+      const submitButton = document.getElementById("submitButton");
+
+      body.classList.toggle("high-contrast");
+      container.classList.toggle("high-contrast");
+      contrastButton.classList.toggle("high-contrast");
+      superzoomButton.classList.toggle("high-contrast");
+      microphoneButton.classList.toggle("high-contrast");
+      submitButton.classList.toggle("high-contrast");
+    }
+
+    const compressionRateSlider = document.getElementById("compressionRate");
+    const rateValue = document.getElementById("rateValue");
+
+    compressionRateSlider.addEventListener("input", function() {
+      const rate = this.value;
+      rateValue.textContent = rate + "%";
+    });
+
+    function startSpeechRecognition() {
+      const recognition = new webkitSpeechRecognition();
+      const speechOutput = document.getElementById("user_text");
+      speechOutput.textContent = "";
+
+      recognition.onresult = function(event) {
+        const transcript = event.results[0][0].transcript;
+        speechOutput.value = transcript;
+      };
+
+      recognition.start();
+    }
+  </script>
+</body>
+</html>
