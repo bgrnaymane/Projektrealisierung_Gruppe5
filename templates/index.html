@@ -1,81 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Summarizer</title>
+  <title>NLP Tool</title>
+  <!-- The CSS part of the HTML page defines the styling of the NLP Tool web page, including fonts, layout, colors, buttons and a high contrast mode.
+        Inspiration: https://www.w3schools.com/html/default.asp and https://www.w3schools.com/css/default.asp -->
   <style>
-    body {
+      body {
       font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
+      margin: 0;
+      padding: 0;
     }
 
     .container {
-      max-width: 600px;
+      max-width: 800px;
       margin: 0 auto;
       padding: 20px;
-      background-color: #fff;
-      border-radius: 4px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    h1 {
       text-align: center;
     }
 
     .section {
-      margin-bottom: 40px;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 20px;
-    }
-
-    .slider-container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
       margin-bottom: 20px;
     }
 
-    .slider {
-      width: 70%;
-      margin: 0 10px;
-    }
-
-    #superzoomButton,
-    #contrastButton,
-    #submitButton {
-      padding: 12px 24px;
-      font-size: 18px;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
+    h1 {
+      font-size: 28px;
       margin-bottom: 20px;
     }
 
-    #superzoomButton,
-    #contrastButton {
-      background-color: #337ab7;
-      color: #fff;
-    }
-
-    #submitButton {
-      background-color: #4CAF50;
-      color: #fff;
-      font-size: 24px;
-      display: block;
-      margin: 0 auto;
-    }
-
-    #zoomRange {
-      text-align: center;
-      font-size: 14px;
-      color: #666;
-      margin-top: 5px;
-    }
-
-    #classificationCheckbox {
-      display: inline-block;
-      vertical-align: middle;
-      margin-right: 10px;
+    h2 {
+      font-size: 21px;
+      margin-bottom: 13px;
     }
 
     textarea {
@@ -84,117 +38,209 @@
       resize: vertical;
     }
 
-    #uploadSection {
-      margin-bottom: 20px;
-      text-align: center;
-    }
-
-    #uploadSection h2 {
-      font-size: 16px;
-      margin-bottom: 10px;
-    }
-
-    #uploadButton {
-      display: block;
-      margin: 0 auto;
+    input[type="file"] {
       margin-top: 10px;
     }
 
-    .paragraph {
-      margin-bottom: 20px;
+    hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px solid #ccc;
     }
 
     .button-row {
       display: flex;
-      justify-content: space-between;
+      gap: 10px;
+      justify-content: center;
       align-items: center;
       margin-bottom: 20px;
     }
 
-    .button-row button {
-      padding: 12px 24px;
-      font-size: 18px;
+    .button-row .button {
+      padding: 10px;
+      background-color: #337ab7;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .button-row .button.high-contrast {
+      background-color: #2ecc71;
+    }
+
+    #submitButton {
+      display: block;
+      margin: 20px auto;
+      padding: 15px 30px;
+      font-size: 20px;
+      background-color: #337ab7;
+      color: #fff;
       border: none;
       border-radius: 4px;
       cursor: pointer;
     }
+
+    #submitButton.high-contrast {
+      background-color: #2ecc71;
+    }
+
+    body.high-contrast {
+      background-color: #000000;
+      color: #008000;
+    }
+
+    .container.high-contrast {
+      background-color: #000000;
+      color: #008000;
+    }
+
+    .slider-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10px;
+      width: 60%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .slider-value {
+      font-size: 14px;
+      margin: 0 10px;
+    }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Summarizer</h1>
 
+  <div class="container">
+    <h1>NLP Tool</h1>
+    <form method="POST" action="/submit" enctype="multipart/form-data">
     <div class="section">
-      <h2>Eingabetext:</h2>
+      <h2>Input Text:</h2>
       <textarea name="user_text" id="user_text"></textarea>
     </div>
 
-    <div class="section" id="uploadSection">
-      <h2>Lade alternativ dein Dokument hoch:</h2>
-      <input type="file" id="uploadButton" name="uploadButton">
+    <div id="uploadSection">
+      <h2>Alternatively, upload your document:</h2>
+      <input type="file" name="txt_file" id="txt_file" accept=".txt, .docx, .odt">
+      <p>Supported file formats: TXT, DOCX, ODT</p>
+      <h2>Or alternatively, speak in your text:</h2>
+      <p style="font-size: 16px;">Your text will be downloaded afterwards. Please upload the file for a summary or classification.</p>
+      <div class="button-row">
+        <button id="microphoneButton" class="button" type="button" onclick="toggleSpeechRecognition()">Start Microphone</button>
+      </div>
     </div>
 
-    <div class="section">
-      <h2>Klassifikation des Textes:</h2>
-      <label for="classificationCheckbox">
-        <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
-        Klassifikation gewünscht
-      </label>
-    </div>
+    <hr>
 
     <div class="section">
-      <h2>Gewünschte Kompressionsrate:</h2>
+      <h2>Available Options:</h2>
+      <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
+      <label for="classificationCheckbox">Enable classification</label>
+      <input type="checkbox" id="summaryCheckbox" name="summaryCheckbox">
+      <label for="summaryCheckbox">Enable summarization</label>
+    </div>
+
+    <hr>
+
+    <div class="section">
+      <h2>Select Compression Rate:</h2>
       <div class="slider-container">
         <span>20%</span>
-        <input type="range" id="compressionRate" min="20" max="80" step="1" value="50" class="slider">
+        <input type="range" id="compression_rate" name="compression_rate" min="20" max="80" step="1" value="50">
         <span>80%</span>
       </div>
-      <div id="zoomRange"></div>
+      <div class="slider-value" id="rateValue">50%</div>
     </div>
 
-    <div class="section">
-      <div class="button-row">
-        <button id="superzoomButton">Superzoom</button>
-        <button id="contrastButton">Kontrast ändern</button>
-      </div>
+    <hr>
+
+    <div class="button-row">
+      <button id="superzoomButton" class="button" type="button" onclick="toggleZoom()">Superzoom</button>
+      <button id="contrastButton" class="button" type="button" onclick="toggleContrast()">Toggle Contrast</button>
     </div>
 
-    <div class="section">
-      <input type="submit" id="submitButton" value="Submit">
-    </div>
+    <hr>
+
+    <input type="submit" value="Submit" id="submitButton" class="button">
+    </form>
   </div>
-
   <script>
-    const compressionRate = document.getElementById("compressionRate");
-    const zoomRange = document.getElementById("zoomRange");
-    const superzoomButton = document.getElementById("superzoomButton");
-    const contrastButton = document.getElementById("contrastButton");
-    const classificationCheckbox = document.getElementById("classificationCheckbox");
+    let zoomed = false;
+    let defaultZoom = "100%";
+    let recognition = null;
+    let isRecording = false;
 
-    compressionRate.addEventListener("input", function() {
-      const zoomValue = compressionRate.value + "%";
-      zoomRange.innerHTML = zoomValue;
-    });
-
-    superzoomButton.addEventListener("click", function() {
+    //Creation of the Zoom Function: Sets the Zoom to 300%
+    // Inspiration: https://developer.mozilla.org/en-US/docs/Web/CSS/zoom
+    function toggleZoom() {
       const htmlElement = document.documentElement;
-      htmlElement.style.zoom = "300%"; // Anpassen der gewünschten Zoomstufe
-    });
 
-    let contrastFlag = false;
-
-    contrastButton.addEventListener("click", function() {
-      const bodyElement = document.body;
-      contrastFlag = !contrastFlag;
-
-      if (contrastFlag) {
-        bodyElement.style.backgroundColor = "#000";
-        bodyElement.style.color = "#fff";
+      if (zoomed) {
+        htmlElement.style.zoom = defaultZoom;
+        zoomed = false;
       } else {
-        bodyElement.style.backgroundColor = "#f9f9f9";
-        bodyElement.style.color = "#333";
+        htmlElement.style.zoom = "300%";
+        zoomed = true;
       }
+    }
+
+    // Creation of the Contrast Function: Enables a high contrast mode, changing the background color to black and the text color to green (#0000FF, #008000)
+    // Inspiration: https://www.w3schools.com/cssref/css3_pr_filter.php and https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/contrast
+    function toggleContrast() {
+      const body = document.body;
+      const container = document.querySelector(".container");
+      const contrastButton = document.getElementById("contrastButton");
+      const superzoomButton = document.getElementById("superzoomButton");
+      const microphoneButton = document.getElementById("microphoneButton");
+      const submitButton = document.getElementById("submitButton");
+
+      body.classList.toggle("high-contrast");
+      container.classList.toggle("high-contrast");
+      contrastButton.classList.toggle("high-contrast");
+      superzoomButton.classList.toggle("high-contrast");
+      microphoneButton.classList.toggle("high-contrast");
+      submitButton.classList.toggle("high-contrast");
+    }
+
+    const compressionRateSlider = document.getElementById("compression_rate");
+    const rateValue = document.getElementById("rateValue");
+
+    compressionRateSlider.addEventListener("input", function() {
+      const rate = this.value;
+      rateValue.textContent = rate + "%";
     });
+
+    // Creation of the Speech Recognition Function
+    // Inspiration: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API and https://developer.chrome.com/blog/voice-driven-web-apps-introduction-to-the-web-speech-api/
+    function toggleSpeechRecognition() {
+      if (!recognition) {
+        recognition = new webkitSpeechRecognition();
+
+        recognition.onresult = function(event) {
+          const transcript = event.results[0][0].transcript;
+          // Save the text as .txt file locally
+          const textBlob = new Blob([transcript], { type: "text/plain;charset=utf-8" });
+          const a = document.createElement("a");
+          a.href = URL.createObjectURL(textBlob);
+          a.download = "speech_text.txt";
+          a.click();
+        };
+      }
+
+      if (isRecording) {
+        recognition.stop();
+        isRecording = false;
+        document.getElementById("microphoneButton").textContent = "Start Microphone";
+      } else {
+        recognition.start();
+        isRecording = true;
+        document.getElementById("microphoneButton").textContent = "Stop Microphone";
+      }
+    }
   </script>
 </body>
 </html>
+
