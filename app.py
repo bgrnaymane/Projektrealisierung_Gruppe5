@@ -34,10 +34,10 @@ def submit():
     # Return what the user wants
     if classificationCheckbox and not summaryCheckbox:
         predicted_class, value_prediction = text_classification(user_text)
-        if value_prediction >= 1:
+        if value_prediction >= 0.75:
             pred_class = predicted_class
         else: 
-            pred_class = 'Der Text konnte nicht klassifiziert werden.'
+            pred_class = f'Der Text konnte nicht klassifiziert werden. Am ehesten ist er folgender Kategorie zuzuordnen: {predicted_class}'
         return render_template('result.html', user_text=user_text, predicted_class=pred_class)
     
     elif summaryCheckbox and not classificationCheckbox:
@@ -51,9 +51,9 @@ def submit():
         predicted_class, value_prediction = text_classification(user_text)
         user_summary = text_summary(user_text, compression_rate)
         actual_compression_rate = str(round(len(user_summary.split()) / len(user_text.split()) * 100))
-        if value_prediction >= 1:
+        if value_prediction >= 0.75:
             pred_class = predicted_class
         else: 
-            pred_class = 'Der Text konnte nicht klassifiziert werden.'
+            pred_class = f'Der Text konnte nicht klassifiziert werden. Am ehesten ist er folgender Kategorie zuzuordnen: {predicted_class}'
         return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, predicted_class=pred_class, actual_compression_rate=actual_compression_rate)
-
+    
