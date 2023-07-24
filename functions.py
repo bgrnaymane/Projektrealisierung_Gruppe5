@@ -17,6 +17,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import defaultdict
 from nltk.corpus import wordnet as wn
 
+# For the summary
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.decomposition import TruncatedSVD
+from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize
+
 tokenizer = BertTokenizer.from_pretrained(
     'bert-base-uncased',
     do_lower_case = True
@@ -44,8 +50,52 @@ def read_odt_file(file):
     file_content = teletype.extractText(allparas[0])
     return file_content
 
-def text_summary(user_text, compression_rate):
-    summary = 'Das ist eine Testzusammenfassung'
+# Source: 
+# - https://iq.opengenus.org/latent-semantic-analysis-for-text-summarization/
+# - https://towardsdatascience.com/document-summarization-using-latent-semantic-indexing-b747ef2d2af6
+# - https://github.com/luisfredgs/LSA-Text-Summarization
+
+def text_summary(text, compression_rate):
+    compression_rate = int(compression_rate)/100
+    # Split text sentence
+    sentences = sent_tokenize(text) # https://www.guru99.com/tokenize-words-sentences-nltk.html
+    sort_dict = {}
+    for i in range(len(sentences)):
+        sort_dict[i] = sentences[i]
+
+    # Text Vectorization
+    vectorizer = CountVectorizer()
+    term_document_matrix = vectorizer.fit_transform(sentences)
+
+    # LSA-Model
+    num_components = max(int(len(sentences) * (1-compression_rate)), 1)
+    lsa_model = TruncatedSVD(n_components=num_components)
+    lsa_matrix = lsa_model.fit_transform(term_document_matrix)
+
+    # Ranking sentences
+    sentence_scores = lsa_matrix.sum(axis=1)
+    ranking = sorted(range(len(sentence_scores)), key=lambda x: sentence_scores[x], reverse=True)
+
+    ranking_texts = [sort_dict[index] for index in ranking]
+
+    max_words = len(word_tokenize(text)) * (1-compression_rate)
+    words=0
+    chosen_texts = []
+    for text in ranking_texts:
+        if words<=max_words:
+            sen_length = len(word_tokenize(text)) # https://www.guru99.com/tokenize-words-sentences-nltk.html
+            words += sen_length
+            chosen_texts.append(text)
+    
+    chosen_dict = {}
+    for i in range (len(sort_dict)):
+        for text in chosen_texts:
+            if sort_dict[i] == text:
+                chosen_dict[i] = text
+
+    summary_sentences = chosen_dict.values()
+    summary = '. '.join(summary_sentences)
+
     return summary
 
 def text_classification(user_text):

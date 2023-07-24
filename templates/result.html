@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Ergebnisse</title>
+  <title>Results</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -72,11 +72,11 @@
   </style>
 </head>
 <body>
-  <h2>Ergebnisse:</h2>
+  <h2>Results:</h2>
 
   <div class="result-window">
     <div class="result-text">
-      <strong>Eingabetext:</strong>
+      <strong>Input Text:</strong>
       <br>
       <br>
       {{ user_text }}
@@ -87,46 +87,46 @@
   <hr>
 
   <div class="result-info">
-    <strong>Gewünschte Kompressionsrate:</strong>
+    <strong>Desired Compression Rate:</strong>
     <br>
     <br>
     {{ compression_rate }} %
     <br>
     <br>
-    <strong>Tatsächliche Kompressionsrate:</strong>
+    <strong>Actual Compression Rate:</strong>
     <br>
     <br>
     {{ actual_compression_rate }} %
   </div>
-
   {% endif %}
+
   {% if user_summary %}
   <hr>
 
   <div class="result-info">
-    <strong>Zusammenfassung:</strong>
+    <strong>Summary:</strong>
     <br>
     <br>
     {{ user_summary }}
   </div>
-
   {% endif %}
+
   {% if predicted_class %}
   <hr>
 
   <div class="result-info">
-    <strong>Zugewiesene Klasse:</strong>
+    <strong>Predicted Class:</strong>
     <br>
     <br>
     {{ predicted_class }}
   </div>
-
   {% endif %}
+
   <hr>
 
   <div class="button-row">
     <button class="zoom-button" onclick="toggleZoom()">Superzoom</button>
-    <button class="contrast-button" onclick="toggleContrast()">Kontrast ändern</button>
+    <button class="contrast-button" onclick="toggleContrast()">Toggle Contrast</button>
   </div>
 
   <script>

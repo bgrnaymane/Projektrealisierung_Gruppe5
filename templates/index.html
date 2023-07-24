@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <title>NLP Tool</title>
+  <!-- The CSS part of the HTML page defines the styling of the NLP Tool web page, including fonts, layout, colors, buttons and a high contrast mode.
+        Inspiration: https://www.w3schools.com/html/default.asp and https://www.w3schools.com/css/default.asp -->
   <style>
-    body {
+      body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
@@ -84,15 +86,14 @@
       background-color: #2ecc71;
     }
 
-    /* High Contrast Mode */
     body.high-contrast {
       background-color: #000000;
-      color: #008000 ;
+      color: #008000;
     }
 
     .container.high-contrast {
       background-color: #000000;
-      color: #008000 ;
+      color: #008000;
     }
 
     .slider-container {
@@ -117,31 +118,35 @@
     <h1>NLP Tool</h1>
     <form method="POST" action="/submit" enctype="multipart/form-data">
     <div class="section">
-      <h2>Eingabetext:</h2>
+      <h2>Input Text:</h2>
       <textarea name="user_text" id="user_text"></textarea>
     </div>
 
     <div id="uploadSection">
-      <h2>Lade alternativ dein Dokument hoch:</h2>
-      
-      <input type="file" name = "txt_file" id="txt_file" accept=".txt, .docx, .odt">
-    <p>Unterstützte Dateiformate: TXT, DOCX, ODT</p>
+      <h2>Alternatively, upload your document:</h2>
+      <input type="file" name="txt_file" id="txt_file" accept=".txt, .docx, .odt">
+      <p>Supported file formats: TXT, DOCX, ODT</p>
+      <h2>Or alternatively, speak in your text:</h2>
+      <p style="font-size: 16px;">Your text will be downloaded afterwards. Please upload the file for a summary or classification.</p>
+      <div class="button-row">
+        <button id="microphoneButton" class="button" type="button" onclick="toggleSpeechRecognition()">Start Microphone</button>
+      </div>
     </div>
 
     <hr>
 
     <div class="section">
-      <h2>Verfügbare Optionen:</h2>
+      <h2>Available Options:</h2>
       <input type="checkbox" id="classificationCheckbox" name="classificationCheckbox">
-      <label for="classificationCheckbox">Klassifikation gewünscht</label>
+      <label for="classificationCheckbox">Enable classification</label>
       <input type="checkbox" id="summaryCheckbox" name="summaryCheckbox">
-      <label for="summaryCheckbox">Zusammenfassung gewünscht</label>
+      <label for="summaryCheckbox">Enable summarization</label>
     </div>
 
     <hr>
 
     <div class="section">
-      <h2>Wähle die Kompressionsrate:</h2>
+      <h2>Select Compression Rate:</h2>
       <div class="slider-container">
         <span>20%</span>
         <input type="range" id="compression_rate" name="compression_rate" min="20" max="80" step="1" value="50">
@@ -154,7 +159,7 @@
 
     <div class="button-row">
       <button id="superzoomButton" class="button" type="button" onclick="toggleZoom()">Superzoom</button>
-      <button id="contrastButton" class="button" type="button" onclick="toggleContrast()">Kontrast ändern</button>
+      <button id="contrastButton" class="button" type="button" onclick="toggleContrast()">Toggle Contrast</button>
     </div>
 
     <hr>
@@ -165,7 +170,11 @@
   <script>
     let zoomed = false;
     let defaultZoom = "100%";
+    let recognition = null;
+    let isRecording = false;
 
+    //Creation of the Zoom Function: Sets the Zoom to 300%
+    // Inspiration: https://developer.mozilla.org/en-US/docs/Web/CSS/zoom
     function toggleZoom() {
       const htmlElement = document.documentElement;
 
@@ -178,21 +187,25 @@
       }
     }
 
+    // Creation of the Contrast Function: Enables a high contrast mode, changing the background color to black and the text color to green (#0000FF, #008000)
+    // Inspiration: https://www.w3schools.com/cssref/css3_pr_filter.php and https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/contrast
     function toggleContrast() {
       const body = document.body;
       const container = document.querySelector(".container");
       const contrastButton = document.getElementById("contrastButton");
       const superzoomButton = document.getElementById("superzoomButton");
+      const microphoneButton = document.getElementById("microphoneButton");
       const submitButton = document.getElementById("submitButton");
 
       body.classList.toggle("high-contrast");
       container.classList.toggle("high-contrast");
       contrastButton.classList.toggle("high-contrast");
       superzoomButton.classList.toggle("high-contrast");
+      microphoneButton.classList.toggle("high-contrast");
       submitButton.classList.toggle("high-contrast");
     }
 
-    const compressionRateSlider = document.getElementById("compressionRate");
+    const compressionRateSlider = document.getElementById("compression_rate");
     const rateValue = document.getElementById("rateValue");
 
     compressionRateSlider.addEventListener("input", function() {
@@ -200,6 +213,33 @@
       rateValue.textContent = rate + "%";
     });
 
+    // Creation of the Speech Recognition Function
+    // Inspiration: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API and https://developer.chrome.com/blog/voice-driven-web-apps-introduction-to-the-web-speech-api/
+    function toggleSpeechRecognition() {
+      if (!recognition) {
+        recognition = new webkitSpeechRecognition();
+
+        recognition.onresult = function(event) {
+          const transcript = event.results[0][0].transcript;
+          // Save the text as .txt file locally
+          const textBlob = new Blob([transcript], { type: "text/plain;charset=utf-8" });
+          const a = document.createElement("a");
+          a.href = URL.createObjectURL(textBlob);
+          a.download = "speech_text.txt";
+          a.click();
+        };
+      }
+
+      if (isRecording) {
+        recognition.stop();
+        isRecording = false;
+        document.getElementById("microphoneButton").textContent = "Start Microphone";
+      } else {
+        recognition.start();
+        isRecording = true;
+        document.getElementById("microphoneButton").textContent = "Stop Microphone";
+      }
+    }
   </script>
 </body>
 </html>
