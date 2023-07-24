@@ -3,3 +3,6 @@ numpy
 scipy
 smart_open
 Cython
+random
+os
+nltk
