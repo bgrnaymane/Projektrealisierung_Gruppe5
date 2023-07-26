@@ -1,10 +1,13 @@
 from flask import Flask, render_template, request
-from functions import text_classification, text_summary, read_docx_file, read_odt_file
+from functions import text_classification, lsa_summarizer, textrank_summarizer, read_docx_file, read_odt_file
+import spacy
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index4.html')
+    # https://machinelearningprojects.net/deploy-a-flask-app-online/
+    app.config['nlp'] = spacy.load("en_core_web_sm")
+    return render_template('index.html')
 
 @app.route('/submit', methods=['POST'])
 def submit():
@@ -33,7 +36,7 @@ def submit():
     # Return what the user wants
     if classificationCheckbox and not summaryCheckbox:
         predicted_class, value_prediction = text_classification(user_text)
-        if value_prediction >= 0.75:
+        if value_prediction >= 0.65:
             pred_class = predicted_class
         else: 
             pred_class = f'Text classification failed. The class with the highest probability is: {predicted_class}'
@@ -41,18 +44,17 @@ def submit():
     
     elif summaryCheckbox and not classificationCheckbox:
         compression_rate = int(request.form['compression_rate'])
-        user_summary = text_summary(user_text, compression_rate)
+        user_summary = lsa_summarizer(user_text, compression_rate)
         actual_compression_rate = str(100 - (round(len(user_summary.split()) / len(user_text.split()) * 100)))
         return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, actual_compression_rate=actual_compression_rate)
     
     elif classificationCheckbox and summaryCheckbox:
         compression_rate = int(request.form['compression_rate'])
         predicted_class, value_prediction = text_classification(user_text)
-        user_summary = text_summary(user_text, compression_rate)
+        user_summary = lsa_summarizer(user_text, compression_rate)
         actual_compression_rate = str(100 - (round(len(user_summary.split()) / len(user_text.split()) * 100)))
-        if value_prediction >= 0.75:
+        if value_prediction >= 0.65:
             pred_class = predicted_class
         else: 
             pred_class = f'Text classification failed. The class with the highest probability is: {predicted_class}'
         return render_template('result.html', user_text=user_text, compression_rate=compression_rate, user_summary=user_summary, predicted_class=pred_class, actual_compression_rate=actual_compression_rate)
-    
