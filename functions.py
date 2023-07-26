@@ -53,8 +53,11 @@ def read_docx_file(file_path):
 # Source: https://stackoverflow.com/questions/51054770/how-to-read-odt-using-python
 def read_odt_file(file):
     doc = load(file)
-    allparas = doc.getElementsByType(text.P)
-    file_content = teletype.extractText(allparas[0])
+    content = []
+    for elem in doc.getElementsByType(text.P):
+        text_content = teletype.extractText(elem)
+        content.append(text_content)
+    file_content = "\n".join(content)
     return file_content
 
 # Source: 

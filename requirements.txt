@@ -17,3 +17,4 @@ networkx
 gensim
 scipy
 NetworkX
+odfpy
