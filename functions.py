@@ -211,7 +211,9 @@ def text_classification(user_text):
 
     # load the created model
     filename = './models/finalized_model.sav'
+    print(filename)
     loaded_model = pickle.load(open(filename, 'rb'))
+    print(loaded_model)
 
     # Get prediction in the form of probabilities
     prediction = loaded_model.predict_proba(transformed_text) # https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html

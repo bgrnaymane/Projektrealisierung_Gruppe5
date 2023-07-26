@@ -4,7 +4,7 @@ transformers
 tensorflow
 tensorflow_datasets
 pandas==2.0.3
-scikit-learn
+scikit-learn==1.1.1
 matplotlib
 nltk
 sumy==0.11.0
