@@ -60,11 +60,6 @@ def read_odt_file(file):
     file_content = "\n".join(content)
     return file_content
 
-# Source: 
-# - https://iq.opengenus.org/latent-semantic-analysis-for-text-summarization/
-# - https://towardsdatascience.com/document-summarization-using-latent-semantic-indexing-b747ef2d2af6
-# - https://github.com/luisfredgs/LSA-Text-Summarization
-
 # Function for Tokenization, Remove stopwords, Lowercasing, Lemmatization, Remove punctuation
 def preprocess_text(text):
     # Source: https://stackoverflow.com/questions/18214612/how-to-access-app-config-in-a-blueprint
@@ -108,7 +103,6 @@ def textrank_summarizer(text, compression_rate):
     except:
         return 'Error'
     sentence_scores = list(scores.values())
-    print(sentence_scores)
     # Print the sentence scores
     ranking = sorted(range(len(sentence_scores)), key=lambda x: sentence_scores[x], reverse=True)
 
@@ -134,6 +128,11 @@ def textrank_summarizer(text, compression_rate):
 
     return summary
 
+# Source: 
+# - https://iq.opengenus.org/latent-semantic-analysis-for-text-summarization/
+# - https://towardsdatascience.com/document-summarization-using-latent-semantic-indexing-b747ef2d2af6
+# - https://github.com/luisfredgs/LSA-Text-Summarization
+
 def lsa_summarizer(text, compression_rate):
     compression_rate = compression_rate/100
     # Split text sentence
@@ -149,10 +148,7 @@ def lsa_summarizer(text, compression_rate):
     vectorizer = CountVectorizer()
     term_document_matrix = vectorizer.fit_transform(preprocessed_sentences)
     # LSA-Model
-    print(int(len(preprocessed_sentences)))
-    print(compression_rate)
     num_components = max(int(len(preprocessed_sentences) * compression_rate), 1)
-    print(num_components)
     lsa_model = TruncatedSVD(n_components=num_components)
     lsa_matrix = lsa_model.fit_transform(term_document_matrix)
 
@@ -227,53 +223,3 @@ def text_classification(user_text):
     predicted_value_max = max(prediction[0])
 
     return predicted_class[0], predicted_value_max
-
-
-
-
-
-
-
-# def preprocessing(input_text, tokenizer):
-#   return tokenizer.encode_plus(
-#                         input_text,
-#                         add_special_tokens = True,
-#                         max_length = 32,
-#                         pad_to_max_length = True,
-#                         return_attention_mask = True,
-#                         return_tensors = 'pt'
-#                    )
-
-
-# def text_classification(user_text):
-
-#     # When a gpu is available it gets used. Otherwise the cpu gets used
-#     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
-#     # load the created model
-#     filename = './models/finalized_model.sav'
-#     loaded_model = pickle.load(open(filename, 'rb'))
-
-#     # Preprocessing of the text to be used by the Bert-Model
-#     test_ids = []
-#     test_attention_mask = []
-#     encoding = preprocessing(user_text, tokenizer)
-#     test_ids.append(encoding['input_ids'])
-#     test_attention_mask.append(encoding['attention_mask'])
-#     test_ids = torch.cat(test_ids, dim = 0)
-#     test_attention_mask = torch.cat(test_attention_mask, dim = 0)
-
-#     # Get the prediction from the model
-#     with torch.no_grad():
-#         output = loaded_model(test_ids.to(device), token_type_ids = None, attention_mask = test_attention_mask.to(device))
-#     keys = [k for k, v in classes_mapping.items() if v == np.argmax(output.logits.cpu().numpy()).flatten().item()]
-#     value_prediction = torch.max(output.logits).item()
-
-#     # Print the output-tensor
-#     print(output)
-
-#     # Get the predicted class
-#     predicted_class = keys[0]
-
-#     # Return the predicted class and the value for this prediction, so that the treshold value can be used
-#     return predicted_class, value_prediction
