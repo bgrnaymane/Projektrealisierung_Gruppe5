@@ -38,8 +38,6 @@ https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de
 1. Starten der Webapp: `flask run` im lokalen Projektverzeichnis
 
 
-## Beispiele
-
 
 
 
