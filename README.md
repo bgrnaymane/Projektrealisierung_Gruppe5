@@ -30,6 +30,7 @@ die o.g. Anforderungen bereits komplett abdecken!
 https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de/EjJkGARKPY1Jifgyz47zhDcBhckA8x31IoJbr9b7uDt6nw?e=QOGNX9
   - finalized_model.sav in dem Order "models" einfügen
   - blogtext.csv in dem Order "data\Blogs" einfügen
+4. Installation von spaCy en_core_web_sm: `python -m spacy download en_core_web_sm`
 
 
 ## Verwendung
