@@ -10,7 +10,7 @@ nltk
 sumy==0.11.0
 setuptools
 wheel
-spacy[cuda-autodetect,transformers,lookups]
+spacy
 rouge
 datasets
 networkx
