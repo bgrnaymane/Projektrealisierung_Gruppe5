@@ -2,8 +2,8 @@
 ## Organisatorisches
 
 ### Projektrealisierung_Gruppe5
-Teammitglieder: Amina Uicker-Darwish, Aymane Bouguer, Jan Rüdt, Lukas Bonn
-Kurs: WWI20DSA
+Teammitglieder: Amina Uicker-Darwish, Aymane Bouguer, Jan Rüdt, Lukas Bonn\\
+Kurs: WWI20DSA\\
 Dozierende: Enzo Hilzinger, Michael Lang
 
 ### Projektziele: 
