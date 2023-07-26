@@ -13,3 +13,7 @@ wheel
 spacy[cuda-autodetect,transformers,lookups]
 rouge
 datasets
+networkx
+gensim
+scipy
+NetworkX

@@ -22,6 +22,13 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import TruncatedSVD
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
+import spacy
+import re
+from gensim.models import Word2Vec
+from scipy import spatial
+from scipy import sparse
+import networkx as nx
+from flask import current_app
 
 tokenizer = BertTokenizer.from_pretrained(
     'bert-base-uncased',
@@ -55,25 +62,51 @@ def read_odt_file(file):
 # - https://towardsdatascience.com/document-summarization-using-latent-semantic-indexing-b747ef2d2af6
 # - https://github.com/luisfredgs/LSA-Text-Summarization
 
-def text_summary(text, compression_rate):
-    compression_rate = int(compression_rate)/100
+# Function for Tokenization, Remove stopwords, Lowercasing, Lemmatization, Remove punctuation
+def preprocess_text(text):
+    # Source: https://stackoverflow.com/questions/18214612/how-to-access-app-config-in-a-blueprint
+    # Tokenization
+    nlp = current_app.config['nlp']
+    doc = nlp(text)
+    # Source: https://stackoverflow.com/questions/64185831/am-i-missing-the-preprocessing-function-in-spacys-lemmatization
+    # Remove stopwords, Lowercasing, Lemmatization, Remove punctuation
+    preprocessed_tokens = [token.lemma_.lower() for token in doc if not token.is_stop and not token.is_punct]
+
+    # Return the preprocessed tokens as text
+    preprocessed_text = " ".join(preprocessed_tokens)
+    return preprocessed_text
+
+def textrank_summarizer(text, compression_rate):
+    compression_rate = compression_rate/100
     # Split text sentence
     sentences = sent_tokenize(text) # https://www.guru99.com/tokenize-words-sentences-nltk.html
     sort_dict = {}
     for i in range(len(sentences)):
         sort_dict[i] = sentences[i]
 
-    # Text Vectorization
-    vectorizer = CountVectorizer()
-    term_document_matrix = vectorizer.fit_transform(sentences)
+    preprocessed_sentences = []
+    for sentence in sentences:
+        preprocessed_sentences.append(preprocess_text(sentence))
+    sentence_tokens = []
+    for sentence in preprocessed_sentences:
+        sentence_tokens.append(word_tokenize(sentence))
 
-    # LSA-Model
-    num_components = max(int(len(sentences) * (1-compression_rate)), 1)
-    lsa_model = TruncatedSVD(n_components=num_components)
-    lsa_matrix = lsa_model.fit_transform(term_document_matrix)
-
-    # Ranking sentences
-    sentence_scores = lsa_matrix.sum(axis=1)
+    w2v=Word2Vec(sentence_tokens,vector_size=1,min_count=1, epochs=1000)
+    sentence_embeddings = [[w2v.wv[word][0] for word in words] for words in sentence_tokens]
+    max_len=max([len(tokens) for tokens in sentence_tokens])
+    sentence_embeddings=[np.pad(embedding,(0,max_len-len(embedding)),'constant') for embedding in sentence_embeddings]
+    similarity_matrix = np.zeros([len(sentence_tokens), len(sentence_tokens)])
+    for i,row_embedding in enumerate(sentence_embeddings):
+        for j,column_embedding in enumerate(sentence_embeddings):
+            similarity_matrix[i][j]=1-spatial.distance.cosine(row_embedding,column_embedding)
+    nx_graph = nx.from_numpy_array(similarity_matrix)
+    try:
+        scores = nx.pagerank(nx_graph, max_iter=2000, tol=1e-6)
+    except:
+        return 'Error'
+    sentence_scores = list(scores.values())
+    print(sentence_scores)
+    # Print the sentence scores
     ranking = sorted(range(len(sentence_scores)), key=lambda x: sentence_scores[x], reverse=True)
 
     ranking_texts = [sort_dict[index] for index in ranking]
@@ -94,7 +127,57 @@ def text_summary(text, compression_rate):
                 chosen_dict[i] = text
 
     summary_sentences = chosen_dict.values()
-    summary = '. '.join(summary_sentences)
+    summary = ' '.join(summary_sentences)
+
+    return summary
+
+def lsa_summarizer(text, compression_rate):
+    compression_rate = compression_rate/100
+    # Split text sentence
+    sentences = sent_tokenize(text) # https://www.guru99.com/tokenize-words-sentences-nltk.html
+    sort_dict = {}
+    for i in range(len(sentences)):
+        sort_dict[i] = sentences[i]
+
+    preprocessed_sentences = []
+    for sentence in sentences:
+        preprocessed_sentences.append(preprocess_text(sentence))
+    # Text Vectorization
+    vectorizer = CountVectorizer()
+    term_document_matrix = vectorizer.fit_transform(preprocessed_sentences)
+    # LSA-Model
+    print(int(len(preprocessed_sentences)))
+    print(compression_rate)
+    num_components = max(int(len(preprocessed_sentences) * compression_rate), 1)
+    print(num_components)
+    lsa_model = TruncatedSVD(n_components=num_components)
+    lsa_matrix = lsa_model.fit_transform(term_document_matrix)
+
+    # Ranking sentences
+    sentence_scores = lsa_matrix.sum(axis=1)
+    
+    # Print the sentence scores
+    ranking = sorted(range(len(sentence_scores)), key=lambda x: sentence_scores[x], reverse=True)
+
+    ranking_texts = [sort_dict[index] for index in ranking]
+
+    max_words = len(word_tokenize(text)) * (1-compression_rate)
+    words=0
+    chosen_texts = []
+    for text in ranking_texts:
+        if words<=max_words:
+            sen_length = len(word_tokenize(text)) # https://www.guru99.com/tokenize-words-sentences-nltk.html
+            words += sen_length
+            chosen_texts.append(text)
+    
+    chosen_dict = {}
+    for i in range (len(sort_dict)):
+        for text in chosen_texts:
+            if sort_dict[i] == text:
+                chosen_dict[i] = text
+
+    summary_sentences = chosen_dict.values()
+    summary = ' '.join(summary_sentences)
 
     return summary
 
