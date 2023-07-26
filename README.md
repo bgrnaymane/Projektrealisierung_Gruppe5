@@ -31,6 +31,7 @@ https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de
   - finalized_model.sav in dem Order "models" einfügen
   - blogtext.csv in dem Order "data\Blogs" einfügen
 4. Installation von spaCy en_core_web_sm: `python -m spacy download en_core_web_sm`
+5. Ausführen der Datei "import_nltk.py"
 
 
 ## Verwendung
