@@ -32,7 +32,7 @@ https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de
   - Die Ordner "Literature" und "Blogs" in dem Ordner "data" einfügen
 
 ## Verwendung
-
+1. Starten der Webapp: `flask run` im lokalen Projektverzeichnis
 
 
 ## Beispiele
