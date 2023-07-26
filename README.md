@@ -29,7 +29,9 @@ die o.g. Anforderungen bereits komplett abdecken!
 3. Zusätzliche Abhängigkeiten aus dem folgenden OneDrive-Verzeichnis herunterladen und im lokalen Projektverzeichnis eingefügen:
 https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de/EjJkGARKPY1Jifgyz47zhDcBhckA8x31IoJbr9b7uDt6nw?e=QOGNX9
   - finalized_model.sav in dem Order "models" einfügen
-  - Die Ordner "Literature" und "Blogs" in dem Ordner "data" einfügen
+  - literarische_texte.csv in dem Order "data\Literature" einfügen
+  - blogtext.csv in dem Order "data\Blogs" einfügen
+
 
 ## Verwendung
 1. Starten der Webapp: `flask run` im lokalen Projektverzeichnis
