@@ -2,8 +2,8 @@
 ## Organisatorisches
 
 ### Projektrealisierung_Gruppe5
-Teammitglieder: Amina Uicker-Darwish, Aymane Bouguer, Jan Rüdt, Lukas Bonn\\
-Kurs: WWI20DSA\\
+Teammitglieder: Amina Uicker-Darwish, Aymane Bouguer, Jan Rüdt, Lukas Bonn <br>
+Kurs: WWI20DSA <br>
 Dozierende: Enzo Hilzinger, Michael Lang
 
 ### Projektziele: 
@@ -24,9 +24,11 @@ die o.g. Anforderungen bereits komplett abdecken!
 
 
 ## Installation
-
-1. Voraussetzungen und Abhängigkeiten.
-2. Schritt-für-Schritt-Anleitung zur Installation.
+1. Klonen des Repositorys in ein lokales Verzeichnis
+2. Voraussetzungen und Abhängigkeiten.
+  - Installation der Requirements ` pip install -r requirements.txt`
+3. Herunterladen weiterer Abhängigkeiten:
+  - Herunterladen der Dateien aus dem Google Drive Verzeichnis und einfügen im lokalen Projektverzeichnis
 
 
 ## Verwendung
