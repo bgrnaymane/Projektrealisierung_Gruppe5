@@ -28,6 +28,8 @@ die o.g. Anforderungen bereits komplett abdecken!
 2. Sicherstellen, dass die erforderlichen Abhängigkeiten installiert sind, indem der folgende Befehl ausgeführt wird: `pip install -r requirements.txt`
 3. Zusätzliche Abhängigkeiten aus dem folgenden OneDrive-Verzeichnis herunterladen und im lokalen Projektverzeichnis eingefügen:
 https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de/EjJkGARKPY1Jifgyz47zhDcBhckA8x31IoJbr9b7uDt6nw?e=QOGNX9
+  - finalized_model.sav in dem Order "models" einfügen
+  - Die Ordner "Literature" und "Blogs" in dem Ordner "data" einfügen
 
 ## Verwendung
 
