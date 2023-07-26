@@ -1,0 +1,2807 @@
+﻿Project Gutenberg's Johdanto Suomen kirjallishistoriaan, by Rietrik Pol�n
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Johdanto Suomen kirjallishistoriaan
+
+Author: Rietrik Pol�n
+
+Release Date: May 26, 2005 [EBook #15908]
+
+Language: Finnish
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK JOHDANTO SUOMEN ***
+
+
+
+
+Produced by Matti J�rvinen and Tuija Lindholm.
+
+
+
+
+
+
+
+
+JOHDANTO
+
+SUOMEN KIRJALLISHISTORIAAN.
+
+Yliopistollinen Kirjoitus,
+
+jonka,
+
+Suomen Keisarillisen Aleksanterin-Yliopiston Kuuluisan
+Historia-Kielellis-Tiedekunnan suostumuksella,
+
+ja
+
+Suomalaisen kielen ja kirjallisuuden Rohvessorin,
+Tohtor ja Ritar
+
+ELIAS LÖNNROTIN
+
+johdolla,
+
+julkisesti tarkastettavaksi
+
+esitti
+
+RIETRIK POLÉN,
+
+Viisaustieteen Majister.
+
+Historia-Kielellis-Tiedekunnan oppisalissa,
+
+Toukokuun 1 p:nä 1858
+
+t. a. e. pp.
+
+
+Helsingissä.
+J. C. FRENCKELLIN ja POJAN kirjapainossa.
+
+
+
+
+"Jos ylenkatsomme omaa kieltämme, omaa kirjallisuuttamme --
+niin Europa ylenkatsoo meitä".
+
+P. WIESELGREN
+
+
+
+
+Tieteiden sisältöä ei voida johdantoin kautta ikäänkun edeltäkäsin
+näyttää tahi ulkoapäin kertoa, millainen se on. Se opitaan ja käsitetään
+ainoasti kunki tieteen täydellisestä esityksestä ja kokonaisesta menosta
+alusta loppuun asti. Toista oikotietä tieteiden tuntemiseen ei löydy.
+
+Näin ollessa näyttää siltä kun tämmöiset johdannot kun tämäki tässä
+valmistuva, jossa edessä olevan tiedehaaran sisältöä tullaan vaan
+päällinpuolin koskemaan, olisivat tarpeettomat. Niin ei kuitenkaan ole.
+
+Jo yleinen tapa johdannoilla varustaa suurempia tieteellisiä tekoja
+osoittaa ne tarpeellisiksi. Se on kuitenki vaan ulkonainen tunnusmerkki,
+jolla myös olkoon arvonsa. Mutta kaikella pitää olla sisällisiä
+todistuksia tarpeellisuudestansa; ja semmoisia eivät tieteiden
+johdannotkaan puutu. Niiden luetteleminen kaikissa erisuhteissansa ei
+voi tulla tässä kysymykseen. Todistuksittaki myödytetään jokaisessa
+tiedehaarassa löytyvän yleisiä puheenalaisia kohtia, joille olisi vaikea
+saada siaa sen likemmässä esityksessä. Niistä johdannot syntyvät ja
+saavat sisältönsä. Mitkä nämät puhuttavat kohdat ovat mielestäni Suomen
+kirjallishistoriassa, nähdään tästä johdannosta, jota kukaan ei voine
+katsoa tarpeettomaksi, semminki kun ei varsinaista historiaa maamme
+kirjallisuudesta ennestänsä löydy.
+
+Mutta johdannot täyttävät ainoasti silloin tarkoituksensa kuin ne
+raivaavat valaisevan tien itse tieteen likemmälle käsitykselle, ynnä
+sillä tavoin ikäänkun kasvavat sen kanssa luonnollisesti yhteen.
+Semmoinen raivaaminen on silmämääränäni tätä johdantoa laatiessa;
+kieltämättä on se sitä tarpeellisempi, kuta harvemmassa tieteellisiä
+tekoja suomeksi tavataan.
+
+Työn onnistuminen aivotuksen mukaan jää muiden tuomioon. Se vaan olkoon
+sanottu, että kunki tieteen syvyys ja suuruus antaa jokaiselle
+kirjoittajalle lavian tilan parastansa koettaa. Epäilemättä on kasken
+kyntö kuitenki vaikiampi kun viljellyn pellon, ja jälki tulee myös
+epätasaisempaa ja huonompaa. Tieteiden joukossa on Suomen
+kirjallishistoria verrattava kaskeen. Minä kynnän kyyhättelen, toiset
+mahtavammat karhikoot ja silittäkööt. Kaikella on aikansa ja
+työmiehensä. Ken hairahtuu, sen toinen ojentaa, eli oikeimmin: sen
+ojentaa tiede itse, järjellisessä kasvannossansa. Tieteet seuraavat
+järjen ikuisia lakiloita.
+
+Näistä muistutuksista menen tämän johdannon erijaksoihin. Ne ovat:
+
+
+
+
+1:ksi Suomi tiedekielenä.
+
+
+Vaikka se ei kuulu suorastaan tähän, mainittakoon kuitenkin, että tämä
+tosin monella muotoa puuttuvainen alku Suomen kirjallishistoriaan on
+lisentiati-arvon voitantoa varten aivottu Suomen Yliopiston oppineitten,
+korkiasti kunnioitettuin opettajain arvostettavaksi; johon olen
+Yliopiston konsistorion suosiollisen suostumuksen ja hyvän sanan kautta
+saanut alamaisesta pyynnöstä erityisen armollisen luvan[1]. Kun siis
+tieteellinen oppi tahi vähintäki tieteellinen käsitys aineesta on
+näytettävä, olisi ehkä kiinteä tieteellisyys esityslaadussaki
+vaarinotettava. Tämä ei ole suomeksi mahdottomampi kun muissakaan
+kielissä, vaikka moni niin ehkä luulee. Miten se tapahtuisi?
+Pää-asiallisesti kahdella tavalla: sisällisesti aineen ja asiain oikian
+ja tarkan käsityksen, ulkonaisesti asianmukaisten oppisanain kautta.
+Edellinen on vaatimus, jota ei kukaan tiedemies saa laiminlyödä.
+Jälkimäisestä ovat ajatukset erilaiset, niinkuin erikirjoittajain
+teoksista on vielä tänäki päivänä nähtävä. Selon saanniksi sietää se
+likemmän tarkastamisen.
+
+[1] Katso Yliopiston Asetuksia, 157 §:lää, jossa mainitun arvon
+saanniksi vaaditaan väitöskirjoitusta joko latinaksi eli ruotsiksi.
+Suomi ei siihen laillisesti kelpaa.
+
+Muutamat mättävät kirjoituksiinsa oppisanoja niin tiheään kuin huono
+kylväjä siementä peltoon, juurikun luulisivat opin ja tieteellisyyden
+siinä olevan. Heidän tekonsa ovat sentähden monesti oppineilleki
+hankalat lukea, etenki kun oppisanoilla vielä paremmin vakaumattomina ei
+ole aina sama merkitys. Toiset taas käyttävät enemmän tavallisia sanoja
+ja puheenparsia ja ovat sen vuoksi helpommat kaikille ymmärtää. Lukija
+huomaa tämän ei suuresti koskevan köyhää suomenkielistä tiedettä; mutta
+vaaroittavan esimerkin vuoksi koskee se sitä enemmin vieraita kieliä.
+Oppisanat kun niissä ovat nykyisempään aikaan asti olleet
+perijuureltansa suurimmaksi osaksi latinaa ja kreikkaa, ymmärretään
+siitä, mikä kielen sotku sen seurauksena on ollut; ei kuitenkaan yhtä
+paljo kaikissa, niinkuin ei esm. ranskan, espanjan ja italian kielissä,
+jotka latinaisen sukunsa tautta ovat pysyneet muita Europan kieliä
+puhtaampina. Kreikka on niitäki sekoittanut. Kaikki tämä on tehnyt
+tieteelliset teot ymmärtämättömiksi suuremmalta yleisöltä ja estänyt
+tieteellisen sivistyksen leviämistä kansoille.
+
+Mikä suomenkielessä on parain ja hyödyllisin seurata, ei tarvitse
+monikantaista selvitystä, joskoki siihen eivät kaikki tyytyisi. Se pimeä
+ja saita aika on ohitse, jolloin tieteitä pidettiin salassa, jolloin ne
+ainoasti muutamain valittuin mielen virvoitukseksi ja kunnian loisteeksi
+paistoivat luostarein ja oppisalein kaitaisten seinäin sisällä. Silloin
+ne olivat vankina, niinkuin aurinko ja kuu vuoren sisässä Pohjolan
+emännän kateudesta Suomen kansan muinaisaikoina[1]. Mutta niiden
+vapauden aika piilopaikastansa on jo lähestynyt; tieteiden valoa
+levitetään kansoilleki kaikissa sivistyneissä maissa. Osaksi siitä
+syystä ja osaksi paremmasta kansallisuuden tunnosta on niiltä ruvettu
+riisumaan sitä raskasta haarniskaa, jonka peiton alta ainoasti oppineet
+ovat osanneet silmäillä niiden salaisia sisuksia. Suomen kielellä ei
+semmoista muukalaiskielten lainoilla parsittua huntua ole, ja Jumala
+varjelkoon sitä milloinkaan valmistumasta. Niitä löytyy kuitenki, jotka
+sovaistuina vanhan totutun tavan rakkaudesta hyväilevät muukalaisia
+oppisanoja ja toivoisivat niiden ottamista suomenki kieleen. Niiden
+välttämistä pitävät yksipuolisena suomikiihkona ja vetävät mielestänsä
+hyvinki tukevia syitä ja perustuksia vaatimuksensa täytännöksi. Näin
+tavallisesti sanovat: oppisanain ollessa yhteiset, ymmärretään tieteitä
+niiden kautta paremmin kuin jos ne olisivat kunki maan omalla kielellä;
+ja kun ne ovat muille kelvanneet, miksikä ne eivät suomelle kelpaisi.
+Näitä perustuksia likemmin tarkatessa laimistuu niiden tukevuus melkein
+tyhjäksi.
+
+[1] Ks. Kalevalan 47 runoa, toisessa painossa.
+
+Muukalaisten oppisanain puolustajat eivät muista eli eivät tahdo muistaa
+niitä aikoja ja seikkoja, jotka vaikuttivat Europan nykyisten kielten
+sekoituksen, ja jotka osaksi olkoot oppineitten puolustuksena sen
+tapahtumiseen. Ihmiset ovat aina aikansa lapset, ja harvat ovat vapaat
+aikansa erhetyksistä. Mainittu, vielä nytki hankaloittava sekoitus sai
+alkunsa silloin kuin sivistys ylipäätänsä oli vanhanaikainen (romalainen
+ja kreikkalainen), ja sen ainoana välikappaleena latina, joka sen
+turvissa oli tunkeunut kaikkiin maihin ja voittanut vuosisatojen
+kuluessa melkein yhtä suuren kunnioituksen kun paavi ja hänen pyhänsä
+katolisessa maailmassa. Alku kun oli tehty paisui sen kasvanto
+itsestänsä, sillä useammat tiedemiehetki kulkevat mieluisemmin avattua
+polkua, ennenkun uusia hakevat, olkoon vanha sitte hyvä eli huono,
+hyödyllinen eli vahingollinen. Harvoin se totuus pysyy elävänä
+kenessäkään, että ihminen ei ole luotu ummin silmin ja huolimattomasti
+toimimaan, katsomatta työnsä vaikutuksia tulevaisessa ajassa. Sen
+unohdus, joka niin paljon pahaa on matkaansaattanut, kieltää ihmisten
+maailmanhistoriallisia erhetyksiä ja vikoja puolustamasta. Kielten
+sekoitus on laskettava oppineitten vaikuttamaksi viaksi.
+
+Uskonpuhdistuksen kautta voitolle päässyt ajatuksen vapaus -- tämä
+ihmisen kalliin omaisuus -- antoi tieteille toisen juoksun, jota
+oppineet seurasivat niinkuin valon sotalippua parempaan aikaan. Janoova
+ihmishenki alkoi saada virvoitusta ja lohdutusta suoraan pyhän raamatun
+sitä ennen suljetuista lähteistä, ja tieteitäki ruvettiin vähitellen
+ajan vaatimuksesta viljelemään kansain omilla kielillä. Mutta kun niiden
+viljelijät sinä aikana ja kauvan jälkeenki päin osasivat paremmin
+latinaa, kreikkaa ja hepreaa, saattoi se heitä sekoittamaan maansa
+kieliä. Taitamattomuudesta unohtivat omain kieltensä varat, jotka
+epäilemättä olisivat alusta pitäin riittyneet tiedekieleksi yhtä hyvästi
+kun latina silloin kuin tieteitä sillä aljettiin harjoittaa. Ensimäiset
+suomenkielisetki kirjoittajat pistivät rakastettua latinatansa
+suomalaisten lauseinsa väliin, niin ettei suomikaan ole sen suhteen
+jäänyt osattomaksi. *Item*[1] pantiin siihen, jossa sana *myös*, *anno*,
+jossa *vuonna*, *errata typographica Catechismuxesta*[2], jossa
+*katkismuksen painovirheet*, j. n. e., olisi saman sanonut
+suomalaisenkin ymmärrettäväksi.
+
+[1] Ks. esm. Mikael Agrikolan "Alkupuhetta sen wdhen Testamentin päle."
+
+[2] Ks. Valtaneuvos Pippingin Luetteloa suomeksi präntätyistä kirjoista,
+s. 8.
+
+Jos valmiit oppisanat ovat yhdeltä puolen helpot ottaa vennon vieraisin
+kieliin, ei siitä syntynyttä kielten turmelusta sentähden käy toiselta
+puolen milläkään muotoa puolustaminen. Semmoista helppoutta saattaisi
+totuuden mukaan arvata laiskuudeksi; vaan jos se oppineitten vireydelle
+tuntuu liian rumaksi moitteeksi, saa sitä kaikitenki sanoa
+huolimattomuudeksi toisten tavaran hoidannossa ja käytännössä; sillä
+kielet eivät ole oppineitten -- ne ovat kansain kalliimpia omaisuuksia.
+Siksi sen nykyinen aika on tekotoimellisesti osoittanutki, koska
+entisten oppineitten huolimattomuutta kansain kielten käytännössä on
+useissa maissa ruvettu hylkimään. Heidän jättämiä muukalaisjälkiä on
+oppisanainki puolesta koetettu puhdistaa esm. Ruotsissa, Saksassa,
+Norjassa ja erinomattain Tanskassa. Ruotsalaiset vaikeroivat sitä paitse
+saksan, ranskan ja siskokielensä tanskanki vaikutusta heidän
+kielessänsä[1]. Löytyy siis muuallaki kielen puhtauden harrastajoita.
+
+[1] Rs. P. Wieselgrenin Ruotsia kaunokirjallisuutta (Sveriges sköna
+litteratur). Lund 1835. 3:n osaa 196 sivua; ja N. M. Pedersenin
+historiaa Tanskan, Norjan ja Ruotsinkielistä (Danske, Norske och Svenske
+Sprogs Historie). Kyöpenhamina; 2:n osan s. 117--143 ja myös ss. -- Tämän
+palkitun historiaa 1:n osa painettiin 1829, toinen osa 1830.
+
+Puheeni oppineitten kielellisestä huolimattomuudesta ei milläkään
+tavalla alenna heidän suurta ja kiitettävää ansiotansa tieteiden
+tuonnista kuhunki maahan ja niiden ylläpidännöstä kussaki kansassa.
+Ainoasti typeryys voi lauseissani etsiä semmoista alentamista ja sen
+sivulla luulla unohtaneeni tiedemiesten pää ansiota heidän vaivaloisessa
+ja useimmittain palkitsemattomissa töissänsä. Mitä taas siihen tulee,
+että yhteiset oppisanat huojentaisivat tieteiden ymmärtämistä kaikilla
+kielillä, niin se etu on sangen yksipuolinen ja vähäinen. Siitä ei olisi
+pienintäkään hyötyä muille kuin kunki maan oppineille. Mutta onko heidän
+hyötyynsä enemmin katsominen, onko heidän voittonsa tässä kalliimpi kun
+kansain kielten puhtaus? Ei suinkaan! Sitä eivät isänmaan mieliset
+tiedemiehet missäkään tahdokaan, eivätkä suvaitse. Jos esm. suomenkieli
+sekoitettaisiin muukalaisilla oppisanoilla, rakennettaisiin sen kautta
+kansallemme samanlaatuinen tieteellinen aituus, jota muualla koetetaan
+saada puretuksi, ja joka Suomessakin, ensin puhtaana latinaisena ja nyt
+joitakuita vuosia ruotsalaislatinaisena, on seisonut lujana vartiana
+tieteiden temppelin ympärillä, niin että maamme oppineet ovat rauhassa
+saaneet olla sen sisässä vaikka sokkosilla. Myödytettäneen kuitenki
+siinä olevan kyllä vääryyttä ja kärsimystä, että Suomen kansa niin
+pitkän ajan on elänyt sivistyksensä puolesta muukalaiskielten turvissa.
+-- Mutta tästä on soveliaampi tila toisessa kohden puhua. Kysyn tässä
+vaan: ovatko tieteet ainoasti tiedemiesten hyväksi vaiko kansainki
+hyödyksi syntyneet ja kasvaneet? Totta kansainki, jotka kustantavat
+oppi- ja tiedelaitoksia. Kaikki jäsenet kussaki kansassa ovat velkapäät
+saamaan osansa tieteiden aarteista omalla, sekoittamattomalla
+kielellänsä. Vaillinaiseksi supistuu muuten tieteiden tarkoitus, joka
+tosin on likimäisesti niiden oma vaurastuminen; mutta siihen on suljettu
+myös niiden ulospäin sivistyttävä voima. Kunki kansan oppineet ja
+kynäilijät ovat jakamamiehet.
+
+Kun nyt muista kielistä liestytetään muukalaisia sanoja niinkuin
+vieraita tutkaimia ainaki, niin pitäisikö meidän Suomessa astua jäljestä
+jälkeen toisten kansain, ottamatta pienintäkään oppia heidän
+huolimattomuudestansa ja erhetyksistänsä. Kyllä sillä tavalla olisi
+helppo tieteitä suomeksi viljellä, ja huokea myös jättää tulevain
+miespolvien täytettäväksi, mikä on nykyisten velvollisuus. Suomen
+kielessä ei toki ole paljo tuntuvia muukalaissanoja ja sen kirjoittajat
+ovat tähän asti tehneet oikein, etteivät ole antaneet vietelläitä
+yhteisten oppisanain puolustajilta, jotka tavallisesti ovat kielen
+vuoksi huonoja Suomalaisia ja ehkä senki tähden eivät katso sitä
+miksikään viaksi, jos kirkasta kielilähdettämme sekoitettaisiin
+jähmettyneillä pisaroilla latinan ja kreikan seisahtuneesta
+kielivirrasta. Ahkeroidessa toimeen panna tieteitä omalla kielellä on
+kaikkein velvollisuus katsoa kielemme puhtautta ja Suomen kansan sekä
+nykyistä että tulevaista hyötyä. Kuki miespolvi elää ainoasti silloin
+totista elämää kuin toimensa koituu hedelmällisesti tulevaisuudellekin.
+
+Tuskinpa niin kelvotointa kieltä löytyy, ettei sillä omintakaisesti
+saattaisi toimittaa kaikkia elämään kuuluvia asioita. Suomenki kieli on
+niin miehistynyt, että ainoasti sen taitamattomat ja sen ylenkatsojat
+voivat sitä sadatella raaksi "pohjanperän kieleksi", joka muka kelpaisi
+vaan savupirteihin ja tuhman talonpojan suuhun, niinkuin muutama mokoma
+herra oli joitakuita vuosia takaperin katsonut soveliaaksi
+viisaudessansa lausua, juurikun hän eli hänen kaltaisensa olisivat
+paljonki vaivanneet päätänsä kielemme opinnassa, saattaaksensa siitä
+sanoa hyvää eli pahaa. Semmoista ei kukaan tervejärkinen rohjenne enää
+lausua, mutta kuullaan vielä nytki suomea päätettävän köyhäksi ja
+taipumattomaksi. Semmoiset moitteet ilmoittavat kuitenkin enemmin
+sanojainsa taitamattomuutta kuin suomen kielen kehnoutta. Moittijat
+tekisivät kotimaallensa ja varmaan itsillensäki suuremman kunnian, jos
+muistaisivat ettei kielienkään tunteminen pilvistä putoa, ja siis
+totuudessa pysyäksensä oppisivat tarkemmin sitä kieltä, joka heistä on
+niin raaka ja käyttymätöin. Mutta pakkoa ei ole kelläkään, eikä suomen
+kieli sitä tarvitse. Sillä on aina ollut ylenkatsojoita jos ystäviäkin.
+Mikael Agrikolan täytyi aikanansa vakuuttaa tohkomaisten lohdutukseksi:
+"kylle se cule somen kielen, joka ymmerdä caikein mielen"[1]. Niin
+olkoon luvallinen aikanammeki vakuuttaa kaikille vastustajille ja
+epäilijöille: kyllä suomen kielellä varaa ja taipuvaisuutta on, kun vaan
+löytyisi enemmän sen taitavia käyttäjiä. Niiden joukko taas vuosi
+vuodelta ilahuttavasti enenee, niin että kaikki suomen kieltä
+taitamattomat jäävät häpiään ja ummikoiksi omassa syntymämaassansa.
+
+[1] Ks. Mikael Agrikolan rukouskirjan alkupuhetta.
+
+Suomen kielen kunnollisuudesta ja varallisuudesta ei voida totuuden
+mukaan muuta sanoa kun että sillä kykenee toimittaa kaikkia niin
+hengellisiä kuin maallisia, kaikkia niin tieteellisiä kuin käytöllisiä
+asioita maassamme yhtä selvästi, jos ei ensittäin niin sujuvasti ja
+helposti, kun millä kielellä tahansa. Kieltä elköön siis vedettäkö
+esteeksi, kun kysymys on sen luonnollisesta oikeudesta päästä vallalle
+omassa kasvinmaassansa. Jokainen kokekoon ja harrastakoon sanalla ja
+työllä poistaa todelliset vastukset ja pönkät kielemme tieltä; ne ovat
+sitä sitkeemmät ravistumaan, kuta vanhemmat ovat.
+
+Ulkomaalaisetki kiittävät suomen kielen kauneutta ja rikkautta. Suomen
+asujat itset sitä vaan moittivat ja ylenkatsovat. Niin esm. kuuluisa
+tiedemies ja taitava kielien tuntija Saksassa Jakob Grimm sanoo suomen
+kieltä mitä sulosoivimmaksi ja taipuvaisimmaksi koko maanpiirillä[1].
+Myöski tanskalainen kielentutkija Rask ja norjalainen Stockfleth
+kiittävät Suomalaisten kieltä kauniiksi ja säännölliseksi; edellinen
+vertaa sitä italian, jälkimäinen heprean kieleen, jota on kutsuttu uskon
+kieleksi[2]. Niinikään saksalainen kielentutkija Becker ylistää
+kieltämme[2]. Löytyy omainki maamiesten joukossa semmoisia kun esm.
+Juslenius, Porthan, Lönnrot, Castrén, Arvidsson j. m. m., jotka ovat
+ymmärtäneet antaa arvon äitimme[2] kielelle. -- Kun perhe ja
+perheellinen elämä on se kehto, josta kaikki siunaus, hyvyys, lujuus,
+rakkaus ja säädyllisyys sikiää ja nousee kaikissa kansoissa, niin mikä
+on hirmuisempi kevytmielisyys kun se, että suomalaiset vanhemmat
+opettavat lapsillensa esm. venäjän, saksan, ranskan kieltä, välistä
+yhtaikaa lasten puhumaan alkaessa, vaikka itset lapsuudessansa eivät
+osanneet tuskin muuta kun suomea. Sillä tavalla kasvatetaan Suomen
+maalle hontelomielisiä ja kylmäsydämisiä kansalaisia, ja isänmaan
+rakkauden pyhä tuli tukautetaan jo kätkyessä.
+
+[1] Ks. Kasvinmaallista muistokirjaa (Fosterländskt Album) II. 1815. s.
+68.
+
+[2] Ks. Castrenin kirjoitusta äänistä suomessa (om några ljud i
+finskan), Suomi 1841, 2:n vihko s. 8 ja ss.; Lönnrotin kirjoitusta
+suomen, viron ja lapin sisällisestä kohdasta toisiinsa (om finskans,
+estniskans och lappskans inbördes förhållande) L:ttrbl. 1853, N:ru 11;
+Lönnrotin lisiä suomen kielioppiin (ruotsiksi), Suomi 1841, 4:s vihko s.
+11; N. V. Stockflethin Norjan Suomalaisista (Bidrag til kunskab om
+Finnerne i Kongariket Norge) I. Christiania, 1848, s. 16, 17 ja 416 ja
+ss.; A. J. Arvidssonin käännöstä Rühsin Suomesta ja sen asujista
+(Finland och dess innevånare). Tukholmi 1827, 2:n osa, s. 80.
+
+Mutta oppisanoihin on jälleen käännyttävä. Edellisestä näkyy, ettei
+niitä vastaan ole yleisesti puhuttu. Kuinkas sitä voisikaan? Oppisanain
+välttäminen etenki tieteellisissä aineissa on mahdotoin -- olisipa
+vahingollinenkin. Kaikilla ihmisillä, jotka eivät peräti ole Diogeneen
+kaltaiset, on usioita vaatepukuja -- on juhlallisia, on jokapäiväsiä.
+Niin on kaikilla vähänki sivistyneillä kielilläki monta eri muotoa,
+jonka esiteltävä aine joka kerta määrää, millainen sen on oltava. Kukali
+mieli, sikäli kieli. Mutta niinkuin oma olkileipä on vierasta
+vehnäleipää parempi[1], niin kielilainatkin ovat kartettavat. Oppisanat
+otettakoot suomen kielen omista varoista ja tehtäkööt sen luontoa ja
+lakiloita myöten, niin ettei semmoisia outoja sanoja sepitettäkö kun
+esm. *osanto*, *omanto*[2], *einen*, *jäseisesti*, *leikkale*,
+*tosite*[3] j. m. m. ovat, joita suomi ei väen väkisellä voi tuntea
+omaksensa. Näistä on muistutettava, ettei nimikoista saada johtosanoja
+päätteellä *nto*, *ntö*, eikä supistuvista tehdiköistä nimiköitä
+päätteellä *kkale*. Jäsenestä saadaan *jäseninen* ja siitä
+*jäsenisesti*. Sanat: *valle*, *einen*, *tosite*[3] ovat peräti
+luonnottomia vesivesoja. Väärin johdetut sanat ovat haittaavammat kuin
+muukalaiset; usiasti ei niitä ymmärrä muut kuin niiden tekijät ja
+tuskinpa hekään pitemmän ajan kuluttua.
+
+[1] Ks. Suomen kansan Sananlaskuja, s. 384.
+
+[2] Ks. Eurénin suomalaista kielioppia, s. 41.
+
+[3] Ks. W. Kilpisen Euklideen Alkeita, s. 6; E. J. Blomin Viivanto- ja
+mitanto-oppia; P. Aschanin Maamittauden Alkeita; ja aikakirjaa Suomea,
+1844, s. 222 ja ss.
+
+Kieli on ajatuksen muoto. Ajatus synnyttää uusia käsityksiä ja
+käsitykset sanoja. Itsessään on ajatus yleinen ja yhteinen kaikilla
+kansoilla; mutta se ei pukeu samaan sanalliseen järjestykseen kaikissa
+kielissä. Sanain keskinäinen sopu on sentähden erilainen erikielissä.
+Tämä on sanomattoman painava vaarinottaa. Joka sitä vastaan rikkoo,
+turmelee kielen paljon enemmin kuin väärin johdetuilla ja muukalaisilla
+sanoilla, josta syystä semmoista kielen turmelusta vastaan on myös enin
+sotiminen. Mutta se ei pilaa ainoasti kieltä, se sortaa myös kansan
+omituisen luonteen ja itsenäisen mielen, niin ettei esm. Suomalainen
+vihdoin tunne itseänsä Suomalaiseksi, Ruotsalainen Ruotsalaiseksi
+j. n. e.[1]. Ken ei tiedä, kuinka suomea on tämän suhteen vuosisatoja
+runneltu, olletiki saarnoissa ja niin kutsutuissa hengellisissä
+kirjoissa, joissa sanat tosin useimmittain ovat suomea, mutta niiden
+sopu milloin latinaa, milloin ruotsia, milloin saksaa, milloin mitäkin.
+Tämän turmeluksen jäljet menneinä vuosisatoina jäivät luonnollisista
+syistä huomaamatta ja tarkastamatta. Niin ei ole asian laita tällä
+vuosisadalla ollut. Sen poistamista on jo monta kymmentä vuotta
+tarkoitettu tarpeellisilla muistutuksilla, neuvoilla ja varoituksilla
+aika ajoittain sanomalehdissä ja muissa kirjoituksissa[2]. Onko niistä
+ollut toivottua apua ja seurausta? Aina toki vähän, joka nähdään
+suomalaisen kirjallisuuden uudemmista tuotteista, ehkä niissäki tavataan
+vikoja ja vaillinaisuuksia, monessa kirjassa paljonkin. Ne sikiävät
+suurimmaksi osaksi siitä, että moni pitää itseänsä syntyneenä mestarina,
+huolimatta kielen oppimisesta, johon tarvitaan enemmän aikaa ja vaivaa
+kun esm. tanssimestarin temppuihin. Kieliopin säännöt ja ohjeet kun
+heitetään tuntematta, tulee kirjoitus kirjoittajan syntymäpaikan kielen
+kaltaiseksi, (eikä aina sitäkään), josta syystä kaikki eivät sitä
+ymmärrä. Tämmöisiä oppimattomia työjuhtia on ruvennut ilmautumaan suomen
+kielisenki kirjallisuuden vainiolle, enemmin rahan ja oman voiton
+himosta kuin totisesta rakkaudesta ja taipumuksesta kirjallisiin
+toimiin. Virheettömyyttä kaikissa kielen osissa ei ole kuitenkaan
+keltäkään odottamista niin kauvan kuin suomalainen kielioppi, etenki
+sanain sovussa, on täydellisempään selkeyteen kun tähän saakka saamatta,
+ja, joka on tässä niinkuin muussaki nykyään pää-asia, niin kauvan kuin
+Suomen oppiva nuoriso ei saa oppiansa ja sivistystänsä maamme omalla
+kielellä. Kunne se Alkeis-kouluista Yliopistoon asti ja sen läpi
+tapahtuu ruotsin kielellä, tungeikse paraimmiltaki kirjoittajilta
+enemmän eli vähemmän sanansovullista muukalaisuutta suomen kieleen -- ja
+se on kärsittävä auttamatoinna vikana. Suuri ja väkevä vartija on tämän
+suhteen Suomen muinaiskirjallisuus. Sen suojeluksen takana ja
+oleskelemalla kansan keskuudessa saattaa jokainen sivistynyt Suomalainen
+säilyttää kielellistä suomalaisuuttansa jotensaki puhtaana. Näitä
+keinoja, jotka muussaki katsannossa ovat hyödylliset, ei pitäisi
+kenenkään laiminlyödä.
+
+[1] Vertaa esm. kirjoitusta kansallisuudesta ja kansallishengestä
+sanomalehdessä Turun Aamulehti (Åbo Morgonblad), josta näkyy että muutki
+pitävät mainittua turmelusta totena.
+
+[2] Ks. E. Lönnrotin kirjoitusta: Muukalaisuudesta suomessa,
+aikakirjassa Suomi, 1844; G. A. Avellanin kirjoituksia 1850 ja 1853
+Suomessa; niinmyös sanomalehteä Mnemosyne, Turun Viikkosanomain
+ensimäisiä vuosikertoja, Litteraturbladia ja Suometarta. Vuosikerrat ja
+n:rot hakekoon halullinen itse, sillä kun ne kaikki eivät ole käsilläni,
+en muista niitä tarkalleen.
+
+Merkittävä on myös nimien ja nimitysten kirjoittaminen suomeksi, josta
+vielä ei ole tultu vakinaiseen päätökseen, vaikka siitäkin on paljo
+mietitty ja muistutettu, sekä myötä että vastoin. Se ei kumma olekaan,
+koska asia on yhtä monimutkainen kun vaikia ja tärkeä. Toiset ovat
+tässäkin enemmin pitäneet silmällä suomalaisuutta[1], toiset
+muukalaisuutta[2]. Epäiltävä ei ole, kenen puolelle oikeus nyt jo on
+kallistunut ja vihdoin päättyy. Asia on senlaatuinen, että siitä voisi
+yksinänsä kirjoittaa hyvänki väitöksen, joka myös olisi suotava ja
+tarpeellinen. Tässä seuraa vaan muutamia yleisiä muistutuksia ja
+ohjeita.
+
+[1] Ks. E. A. Ingmania: vieraista nimistä (ruotsiksi), Suomessa 1844, s.
+185 ja ss; W. Kilpisen tuumaelmia Saiman 38 n:ssa 1845; Yrjö Koskisen:
+kuinka vieraskieliset nimet suomeksi kirjoitetaan? Suomettaren 9, 10, 11
+n:ssa, 1856; Mehiläistä v. 1839 Loka-ja Marraskuulta; ja Morgonbladin
+n:roita 49, 52, 53 v. 1845.
+
+[2] Saiman n:roita 18, 31, 32, 37 j. m. 1845; ja Litteraturbladin 9:tä
+n:roa, 1857.
+
+Likimäisesti liittyy tämä kysymys suomalaiseen äänioppiin. Jos sitä
+kiinteästi seurataan, pitäisi kaikki nimet ja nimitykset, niinkuin
+yleensä kaikki sanatki, kirjoittaa niinkuin ne puheessa kuuluvat. Siis
+-- *silmän ei pidä nähdä muuta kun korva kuulee*, jota ohjetta on muissa
+kielissä koetettu noutaaki -- mutta vaan koetettu. Tunnettu on, kuinka
+esm. Ruotsin Akatemia miltei säätänyt sitä yleiseksi laiksi ruotsin
+kielessä, ja matkaansaattoi sen kautta vahingollisen sekasorron
+kirjoitustavassa[1]. A. G. Silfverstolpe teki sen johdolla käytöllisen
+esityksen[2], joka ei kuitenkaan saanut muita kuin joitakuita
+tieteellisiä ystäviä; seurajoita aivan vähän, vaikka hän kyllä
+taitavasti suoritti vaikian asian. Tämä ohje onkin ensi katsannolla
+vietteleväinen, mutta syvemmin tutkittua muuttuu vaan opilliseksi
+leikkikaluksi. Se on mahdotoin panna toimeen kaikissa seurauksissansa
+kielien omissakaan sanoissa ja nimissä, saati sitte vieraissa. Ensiksi:
+kuka voi silmin nähtäviksi merkitä kaikkia niitä pieniä ja hienoja
+mutkelmia, väreitä ja hengelmiä, joiden kautta täysinäiset äänet
+sukelteleivat ja sitouvat sanoiksi? Palkitsemattoman hyödyn ja voiton
+tekivät puustavien keksijät sekä kirjoittajille että kirjanpainajille ja
+lukijille, sen kautta, että laittoivat puustavia vaan täysinäisille
+äänille. -- Toiseksi: mikä on korvakuuloa epävakaisempi, ja kenen
+puhetta pitäisi korvan kuulla? Suomessa esm. Inkeriläisenkö,
+Karjalaisen, Savolaisen, Pohjalaisen, Satakuntalaisen, Hämäläisen,
+Uusmaalaisen vaiko Varsinaissuomalaisen tahi kunkin Eripitäjäläisen ja
+Kyläläisenkin? Totta kaikkein, sillä kaikkein korvalla on tässä sama
+oikeus. Mutta mikä siitä seuraisi? Yhtä monta kirjoituslaatua kun
+murretta. Onnetoin sekasotku, joka hengellisesti murhaisi koko kansan!
+
+[1] Ks. P. Wieselgrenin Ruotsin kaunokirjallisuutta, (Sveriges sköna
+litteratur); 5 osa, s. 24, jossa tämän akatemiallisen ohjeen vääryys
+myöski näytetään.
+
+[2] Ks. Axel Gabriel Silfverstolpen: (Försök till en enkel, grundriktig
+och derigenom oföränderlig Bokstafverings-Teori for Svenska språket) =
+Yksinkertaisen, perioikian ja sen kautta muuttumattoman
+kirjan-tavausopin koetus ruotsin kielelle. Tukholmi 1811. Tässä
+kirjaisessa tarkastetaan ruotsin kielen ääniä ja puustavia rinnatusten.
+Ne eivät vastaa toisiansa. Uusia puustavia on tekeminen, joten niitä
+saadaan ruotsille 37: 19 äänikettä ja 18 keraketta. Samalla tavalla
+saataisiin suomelle vähintäin 29 puustavia. Silfverstolpen seuraajia
+maassamme ovat ne, jotka tahtovat merkitä pitkät äänet suomessa
+eripuustavilla, ja ne, jotka merkitsevät hengeliniä eli täysi-äänien
+valimia sanoissa puustavilla, niinkuin esm. itse_k_ki, minulle_n_ki,
+joissa _k:n_ edellä käyvä _k_ ja _n_ ovat tyhjän vuoksi siihen pantu.
+-- Niin on tehty nykyään parannetussa Uudessa Testamentissa. -- Frans von
+Knorring, Finströmin kirkkoherra Ahvenanmaalla, kirjoitti 1844 1:n vihon
+kielitutkinnoita (språkforskningar), jossa erinomaisen hienolla ja
+tummalla tavalla selitetään ruotsinkielen ääniä. Tämmöiset tutkinnot
+eivät hyödytä tiedettä eivätkä paljon selitettävää ainettakaan. -- Tänä
+aikana on R. v. Kramer Ruotsissa mainitun ohjeen innollinen puolustaja;
+(ks. Ruotsin san. (Sv. T:gen) 69 n:roa v. 1838).
+
+Mainitun ohjeen ollessa siis arvottoman, lavenee vapaus tässä
+kysymyksessä. Mutta missä on sen määrä ja kuka sen päättää? Sepä näyttää
+vaikialta vastata. Erhetystä ei ole pelkäämistä, sanoessa sen olevan
+vapaudessa itsessänsä, joka ei salli tässä enemmin kuin muussakaan
+ulkopainoa ja sortoa. Sen omat rajat ovat tässä yhdellä puolen suomen
+kielen yleisessä luonteessa ja kasvannossa, toisella nimien ja
+nimitysten sortamattomassa selkeydessä. Nämät ovat tässä pää-asiallisina
+ja paraimpina osviittoina. Erityisiä ohjeita niiden likemmästä
+käytännöstä laatiessa on suurin varovaisuus ja taitavaisuus varsinki
+puustavien muutoksen suhteen vaarinotettava. Siitä on ymmärrettävä tämän
+kysymyksen olevan oppineitten suomen tuntijain ratkaistava, ensin
+tiedollisesti ja sitte käytöllisesti eli rinnatusten kumpaisellaki
+tavalla, koska tieto ja käyttö aina käyvät elämässä käsikkäin. Kieltoa
+ei kuitenkaan ole muidenkaan sanomasta ajatuksiansa, vaikka ne
+tavallisesti ampuvat syrjään, niinkuin taitamattomain nuolet ainaki, ja
+ilmoittavat enemmin omia luuloja kuin asiaan perustetuita mietteitä.
+
+Jos kielen historiaan katsotaan, niin kaikki siihen juurtuneet, kansan
+tuntemat sanat, nimet ja nimitykset vieraasta alkuperästä ovat
+muuttuneet suomalaisiksi, jommoisina ne myös ovat otetut
+kirjoituskieleen, paitse mitä jotkut ovat ruvenneet niitäki
+muukalaisiksi purkamaan[1]. Kun siis kansalla on ollut lupa kielensä
+ahjossa muodostaa vieraita raaka-aineita (jos sana on sovelias), niin
+eikö sama oikeus olisi kansan oppineillakin? Vai pitäisikö entisyyden
+lanka tässä äkkiä katkaista, ja sekoittamatoin muukalaisuus kieleen
+istuttaa? Semmoiset hyppäykset eivät ole kansain sivistyksessä
+tavalliset, eivätkä hyödylliset. Joka maahansa ei tahdo kasvattaa kahta
+lahkoa -- sivistymätöintä ja sivistynyttä -- se pitää suurimman huolen
+kielen omituisesta edistyksestä.
+
+[1] *Sanomilla Turusta* on tämän suhteen paljo omalla tunnollansa.
+Niissä, jos muissaki kirjoituksissa, on suuri muukalaisuuden himo nimien
+kirjoittamisessa vallinnut. Semmoisetki kieleen juurtuneet sanat kun
+esm. *kahveli*, *kahvi*, *pajunetti* j. m. m. ovat Turun turmellun
+puhekielen mukaan väännetyt *kaffeliksi*, *kaffeksi*, *bajonetiksi* j.
+n. e.
+
+Sivistyksen tultua kielenki puolesta suomalaiseksi, muuttuu Suomessa
+melkein kaikki toiselle kannalle. Sitä kansa odottaa niinkuin maallisen
+onnensa ja toivonsa ihaninta auringon koittoa, saattaaksensa nousta
+muiden sivistyneiden kansain riviin, omituisesti ja vapaasti täyttämään
+kutsumustansa maailmanhistoriassa. Käännös on tehtävä, josta "ura uusi
+urkenevi"[1], ja se on nykyisen miespolven alotettava. Kunnollisten
+koulukirjain toimittaminen on aikamme tärkeimpiä ja tarpeellisimpia
+töitä. Niiden kautta pannaan itu suomenkieliselle tieteelle, josta
+nesteinen kaste nousee kansallisen kirjallisuuden kasvannolle maassamme.
+Sentähden on ei ainoasti oppisanain, joista jo olen sanonut ajatukseni,
+vaan myös nimien ja nimitysten kirjoittamisessa tarkka päätös otettava.
+
+[1] Ks. Kalevalan 50 runon loppusäkeitä, uud. painossa.
+
+Taitavain tarkastettaviksi esitellään tässä seuraavat ohjeet:
+
+_1) Kaikki, mikä ei ole enemmin toisen kuin toisenkaan kansan, eli joka
+on yhteistä tahi monen, kirjoitetaan ihan suomen kielen vaatimuksia
+myöten._
+
+Siis esm. -- taivaan kappalten, tähtien ja ilman sattumusten; suurempien
+merien, jokien, lahtien ja vuorien; eläinten, kasvuin, hedelmien, kivien
+ja mitallien; virkojen, ammattien, kuntien, arvoin ja költtien; tavarain
+ja kaluin; tieteisin, taiteisin, teollisuuteen, maaviljelykseen,
+rakennuksiin, kauppaan, hallitukseen, sotaan, meren kulkuun j. n. e.
+kuuluvat nimet ja nimitykset. Uusia tehdään myös tilaisuutta ja tarvista
+myöten.
+
+_2) Kaikki, mikä on kunki maan ja kansan oma omaisuus, kirjoitetaan
+kunki maan kielen mukaan._
+
+Siis esm. maiden, paikkain, kaupunkien, kylien, kansain ja henkien;
+pienempien merien, jokien, lahtien ja saarten, ja järvien; omituisten
+virkojen, arvoin j. n. e. nimet ja nimitykset. -- Jotka ovat suomen
+kieleen juurtuneet, pidetään muuttumatta. Jotka jotaki merkitsevät
+voidaan suomentaa. Niissä kielissä, jotka suvaitsevat monta keraketta
+perätysten, tehdään varallisia puustavimuutoksia, niin ettei nimien
+selkoa sorreta. Lyhyitä äänikkeitä voidaan venyttää pitkiksi; c:n siaan
+kirjoittaa k:ta.
+
+_3) Omien miesten ja naisten muukalaiset sukunimet kirjoitetaan niinkuin
+he itse ovat ne kirjoittaneet eli kirjoittavat. Mutta ristimänimet
+suomen kielen juhlallisen muodon mukaan._
+
+Luultavasti muuttuvat sukunimetki Suomessa aikaa voittaen suomalaisiksi.
+Kun vieras kuori on kolottu, puhkeaa suomalaisuus kaikessa täydellisesti
+näkyviin. Nyt se on peiton alla, niin ettei Suomen kansaa muut paljon
+suomalaiseksi tunne. Varmaan tulee se aika, jona sitä ei pidetä
+koulupoikalaistekona[1], että sivistyneissä seuroissa puhutaan suomeksi
+esm. *Henrik Kaapriel*-, *Juhana Wilhem*-, *Juhana Lutvik*-, j. n. e.
+nimisestä kiitetystä miehestä Suomenmaassa. Nimistä kunki kansan mainiot
+henget tutaan, kielestä kansat tuntevat toisensa.
+
+[1] Ks. Litteraturbladia (Kirjallisuuslehteä), 9 n:roa v. 1857, s. 261.
+
+Mitä kieleen yleisesti tieteellisissä kirjoituksissa tulee, jos
+semmoisia suomalaisuuden väliaikana[1] alkaisi runsaammalta karttua, ja
+jos niitä aivotaan kansan luettaviksi, niin niissä on paras välttää
+outoja sanoja. Koulukirjoissa on eri laita. Ranskan Akatemia esm., olen
+jossakussa lukenut, ei ota uusia oppisanoja tekoihinsa, ennenkun ne ovat
+levinneet kansaan. Sillä tapaa voivat omat maamiehetki huviksensa ja
+sivistykseksensä johonki määrään lukea oppineittensa kirjoituksia. Siitä
+on myös suuri voitto tieteille kuta enemmän niillä on lukijoita ja
+ystäviä. Niin sivistynyttä yleisöä ei ole kuitenkaan missäkään, että
+kaikki osaisivat rentonaan ymmärtää tieteellisiä tekoja. Suomessa ei ole
+sitä nykyään odottamista; sillä monisatainen ei ole niiden joukko, jotka
+tietävät, mikä tiede onkaan. Sitä suurempi on erinomattainki
+suomenkielisten kirjoittajain velvollisuus ahkeroida saada esitys- ja
+kirjoituslaatuansa niin selväksi ja yleisesti ymmärrettäväksi kuin
+mahdollinen on. Se on jokaisen velvollisuus, kunhan vaan ei ylimäärin
+unohteta lausetta: "paljon puhutut asiat katoovat"[2].
+
+[1] Suomalaisuuden väliajaksi voipi sen nykyistä tilaa sanoa. Se loppuu
+silloin kuin suomen kieli pääsee Suomessa valtakieleksi.
+
+[2] Ks. W. E. Svedeliuksen historiallisesta opinnasta (Om historiska
+studier). Lund, 1857, s. 21. -- Tämä Ruotsin Yliopistojen nuorisoa
+varten tehty kirjainen on sangen hyvä osoitus historian lukemiseen
+Suomenkin oppivalle nuorisolle.
+
+Nämät ovat ne yleiset perustukset ja ohjeet, joita kielen suhteen
+aivotaan tässä näin aljetussa kirjallishistoriallisessa kokeessa
+seurata.
+
+
+
+
+2:ksi Tieteiden synty, tarkoitus ja kasvanto.
+
+
+Edellisessä jaksossa ovat tieteet niin usein tulleet sivuuttamalla
+kysymykseen, että niistä olkoon tässä suotu vähän laviammasti puhua. Se
+ei poikkeuta aineesta, koska erityinen tiedehaara on edessä, joskoki
+tähän ei käy paljon sovittaminen kiitettävän ruotsalaisen
+muisnastutkijan ja nerollisen historioitsijan Geijerin sanoja: "siitä on
+voitto asioille, että niitä katsotaan suuresti"[1]. Arvattava on
+kuitenkin, ettei niin syvää ja laviaa ainetta, kuin tieteiden synty,
+tarkoitus ja kasvanto itsessään on, voida tässä ottaa muuhun kun
+ylimalkaseen silmäykseen.
+
+[1] Ks. Erik Gustaf Geijerin koottuja kirjoituksia (Samlade skrifter),
+1:n osa, III. Tukholmi 1851, s. 328.
+
+Oppineitten hyväntahtosella luvalla otan vertauksen Suomen kansan kauvan
+jo kadonneista päivistä. Kalevalasta tiedetään Wäinämöisen ja
+Joukkahaisen tiellä vastatusten tullessa yhtyneen kovaan riitaan,
+kumpiko heistä olisi "tiedolta parempi, muistannolta mahtavampi"[1],
+jommoisia sanasotia vieläki tavataan Suomalaisten kesken, kun kaksi
+mahtavaa, mielestänsä hyvinki tietävää sattuu yhteen; "mies on" muka
+"miestä oppimaan, toinen toista voittamaan". Tämmöiset kiistat eivät
+verta vuodata, vaikka eivät kiitostakaan tuo Joukkahaisen vertaisille,
+jotka satunnalta tilan saatuansa röykkiästi näyttävät oppiansa ja juuri
+sillä tavoin julkasevat taitamattomuuttansa, niinkuin "laiha poika
+Lappalainenki" teki, josta sai ansaitun palkkansaki.
+
+[1] Ks. Kalevalan uuden painoksen 3:ta ja vanhan painoksen 30:tä runoa.
+
+Näihin Suomen kansan muinas-uroihin voidaan verrata tieteitä ja niiden
+viljelijöitä: kutakin erityistä tiedemiestä, olkoon kuin oppinut
+hyvänsä, tietonsa puolesta Joukkahaiseen, ja tieteitä itsiänsä
+Wäinämöiseen, tietäjään ijänikuiseen. Tieteet ovat nimittäin vanhat,
+tiedemiehet kunakin aikana niiden suhteen nuoret. Ihminen on muka
+niinkuin järjellinen olento melkein jo aikain alusta ahkeroinut tutkia,
+miettiä ja käsittää ei ainoastaan kaiken olon juurta ja lähdettä, vaan
+myös kaikkea, mitä luomisessa löytyy, näkyväistä ja näkymätöintä. Siihen
+on ihmisellä ollut tukeuttamatoin halu, joka on osoittanut hänellä
+olevan voimanki sen täytäntöön. Tämä voima ei ole muu kun järjen
+jumalallinen omaisuus ihmisessä, jonka avulla ja johdolla hän saattaa
+valossa ja selkeydessä vaeltaa elämän äärettömällä ja hämärällä merellä.
+Tästä halusta ja ahkeroimisesta ovat tieteet sijinneet ja syntyneet.
+
+Paljo löytyy kuitenki niitä, jotka eivät anna mitäkään arvoa tieteille.
+Sanovat niitä oppineitten aprikoimisiksi mielijohteiksi, joilla ei ole
+luotettavaa yhtäpitävyyttä olon ja elämän kanssa. Siten eroittavat
+tieteet todellisesta elämästä, ja ovat tyytyväiset omilla luuloillansa,
+jotka todella ovat mitättömät ja arvottomat. Tämä epäilys tieteiden
+totuudesta tulee siitä, että harvalla on selkeä käsitys järjen ja
+luomisen keskinäisestä välistä toinen toisiinsa. Järjen kautta saatu
+tieto ei olisi nimittäin mahdollinen, eikä siis luotettava, ellei
+maailma ja kaikki, mitä siinä on, olisi järjellisesti luotu ja
+matkaansaatettu, ja ellei kaikki seuraisi järjellisiä sääntöjä ja
+lakiloita. Tämä on niin silminnähtävä, että sen saattaa jokainen huomata
+niin pienimmistä kuin suurimmista luomisen kappaleista; katso esm.
+kukkaista kedolla, kuinka sen lehdet, kanta ja siemenen alut ovat
+säännöllisesti ja somasti rakennetut; kuule linnun laulua, kuinka sen
+viserrys on sointuinen ja mukava; silmäile muuriaisen vireyttä ja ota
+siitä oppia! Kuinkas sen voisit, ellet järjelläsi sitä ymmärtäisi ja
+ellei järjellisyys kohtaisi sinua kaikissa? Järki tutkii vaan
+järjellisiä asioita. Se on varma siitä, että esm. Jumalan olento, joka
+kaikki on luonut, kaikki hoitaa ja johtaa, ei saata olla muu kun puhdas
+järki, ja juuri sentähden kun hänen olentonsa on järjellinen, on kaikki
+järjellisesti luotu, ja sentähden myös ihminen voi kaikkia tutkia ja
+tietoonsa luottaa. -- Pyhällä ennustuksella lausuu apostoli Paaval:
+"ettekö tiedä, että meidän pitää enkeleitäki tuomitseman; kuinka ei siis
+ajallisia asioita?" (1:n kirje Korintilaisille, 6 luk., 3 v.). Tämä
+tarkoittaa likimäisesti uskon asioita, vaan sopii käyttää
+tieteellisessäki suhteessa. Mutta, kaiken tuomion edellä käy tieto,
+kaiken tiedon edellä tutkinto ja kaiken tutkinnon edellä järki, joka on
+näiden kaikkien sisällisin johtaja, selvittäjä ja päättäjä.
+
+Ei kuitenkaan niin kuin kaikki valo jo olisi voitettu, kaikki tieto
+käsitetty; sitä ei ajallisen olon ja elämän kasvavuus ja eteenpäin
+rientävyys milloinkaan myödytä. "Tieteen vainio", sanoo jossakussa
+paikassa mamseli Bremer, "on ääretöin ja sen kasvattamat kukkaiset ovat
+ikuiset"[1]. Epäilemättä on tämä totta. Tuhatvuosien ahkera tutkinto,
+monet ja suuret harhailemiset ynnä niiden oikasemiset ovat kyllä
+edistäneet ihmisellisen tiedon piirin niin suureksi ja tehneet tieteet
+niin varmoiksi, ettei kukaan saata omaa taitamattomuuttansa ja
+laiskuuttansa peitellä tieteellisen valon puutteella; mutta äärettömän
+paljo on vielä tutkimatta ja tietämättä, ja niin on aina vastakin oleva.
+Tässä on kuitenki merkittävä se asian mutka, että tietämättömyyskin on
+tieto, ja onpa niin painavasta laadusta, että se on tiedon ehtona; jos
+ei tietämättymyyttä löytyisi, ei silloin tietoakaan ja sen lisääntöä
+olisi. Ajattelevalle on kaikki tämä ilahuttava ja lohduttava, sillä se
+on varmana takauksena siitä, ettei ihmiseltä tiedon halu ja ahkeroiminen
+milloinkaan lopu.
+
+[1] Tunnettu on tämän nerollisen naisen suomalainen syntyperä.
+
+Mainittua halua elköön kuitenkaan verrattako turhaan
+uteliasmielisyyteen, ja tieteiden tarkoitusta elköön myös pantako
+semmoisen uteliaisuuden täytännöksi. Se olisi aivan väärin. Korkiampi on
+tieteiden tarkoitus, jaloarvoisempi niiden vaikutus kun kärkkään
+uudishalun tyydyttäminen. Mikäs se on? Se on totuus ja niinmuodoin tieto
+itse, sillä tieto on totuus. Tieteet antavat olosta, elämästä ja niissä
+löytyvistä kappaleista oikian käsityksen; sitä sivistynyt ihminen haluaa
+ja on velvollinen saamaan. Tieteet poistavat pimeyttä ja
+taitamattomuutta, ne karkoittavat epäluuloja ja niiden rasittavia
+seurauksia. Tieteet valaisevat kaikkia asioita, ja johtavat kaikkia
+ihmisiä totuuden tuntoon. Niistä saadaan enemmän oppia ja valoa kun esm.
+kuuluisan englantilaisen runoilijan Shakspeare'n mainiosta lauseesta:
+"taivaassa ja maalla löytyy enemmän kun viisaustieteenne voi
+uneksiakaan", jota tieteellisen totuuden epäilijät vetävät esille,
+siihen verkkoon kiertääksensä taitamattomia. Se maa ja kansa, jossa ei
+tieteitä viljellä, on verrattava sokiaan ja kuuroon ihmiseen.
+
+Mutta totuus ei synny maailmaan vähällä aikaa eikä vähillä vaivoilla.
+Tieteiden historia on lavia kirja ja sen lehdet ovat kastettuina
+kärsimysten kyyneleillä ja punattuina viattomuuden veripisaroilla.
+Tieteen kedolla on liikkunut vaino ja ahdistus, ja jotka sen
+palveluksessa ovat uhranneet ja menettäneet henkensä, ansaitsevat
+ainakin yhtä suuren kiitoksen ja kunnian kun urhoollisimmat sankarit
+sodan tantereella. Tiede on korkein, vaikein ja vaivaloisin kaikista
+ihmisen töistä ja toimista; siitä on ymmärrettävä, mikä kunnioitus,
+rakkaus ja ansio tiedemiehille kussaki maassa on osoitettava ja
+annettava. He ovat kansansa suurimmat ja totisimmat sivistyttäjät ja
+hyväntekijät. Suuret ja nerolliset tiedemiehet ovat ihmiskunnan
+valistajat.
+
+Kaikkia voidaan väärinkäyttää. Niin tieteitäkin. -- Luku ja oppi ei ole
+suinkaan kaikille mieluista työtä, josta syystä niin monta seisahtuu
+elinajaksensa asumaan taitamattomuuden rikkaporstuaan. Kummakos sitte,
+jos niidenkään joukko ei ole pieni, jotka heittävät tieteellisen opin ja
+harjoituksen puoliväliin ja kiiruhtavat onnen etsintöön ulkonaisen
+elämän lavialla tiellä. Usiasti sattuu niin, että tämmöiset
+huikentelevaiset raukat ovat maistaneet tieteiden hedelmiä niin paljon,
+että ovat joutuneet epäilyksen aalloille, josta sitte eivät anna
+itsillensä aikaa ja vaivaa päästä vakuutuksen lujaan satamaan, uskon
+asioissa semminkin. He ovat väärinkäyttäneet tieteiden korkeutta ja
+syvyyttä lapsuutensa uskon rikkomiseksi, kun eivät sitte ahkeroi sitä
+saada parannetuksi ja selitetyksi käsityksen kovassa koulussa. Mutta
+muutamissa ja eipä niin muutamissakaan muuttuu tiedon halu kuolettavaksi
+himoksi, joka murhaa sielun ja ruumiin. Kuta korkiampi putous, sitä
+vaarallisempi lankeemus. Monelta on tämä himo pilannut mielen ja
+hulluuttanut pään ajut. Toisia on se upottanut yksinäisyyteen ja elämän
+ylenkatseesen. Tämmöisten tiedon himon uhrien joukossa on esm. uudempana
+aikana Mentelli-niminen unkerilainen oppinut aivan omituinen ilmaus
+tieteiden historiassa. Hamletin tavoin Shakspearen näytelmässä olisi hän
+tunkeinut asumaan vaikka pähkinäkuoren sisään, ennenkun kirjoistansa
+olisi luopunut. Niistä hän imi oppia ja viisautta yöt ja päivät, niitä
+rakasti niin huimasti, ettei pitänyt ulkonaisen elämän onnesta, sen
+tarpeista, sen seuroista, sen siisteydestä ja puhtaudesta pienintäkään
+huolta. Mentelli kuoli surkiasti ja vei oppinsa hautaan; ei heittänyt
+minkäänlaisia omia kirjoituksia jäljellensä, vaikka elinaikansa tutki ja
+oppi. Hän ja hänen kaltaisensa ovat verrattavat hedelmättömään peltoon,
+josta ei ole hyötyä kellekään[1].
+
+[1] Ks. J. B. F. Descuretin kirjaa: Himojen lääkitys (La Medicine des
+Passions), josta löytyy ruotsalainen käännös A. Ekströmiltä, pain.
+Norrköpingissä 1847, s. 478 ja ss. -- Mentellin himo vei hänen
+Pariisiin, jossa olisi saanut rohvessorin viran, mutta ei huolinut.
+Valitsi siellä asunnoksensa puolineljättä kyynärää pitkän ja leveän
+lautamajan, poskessa puutarhassa. Huonekaluja hänellä ei ollut muita
+kuin pikkunen pöytä, vanha tuoli, vesiruukku, rautapannu, katosta pöydän
+yli riippuva tinalamppu ja suuri laatikko, jossa makasi heinäpussi
+pää-alaisena. Kaikellaisia pikku eläviä mateli hänen päällänsä ja
+ympärillänsä; niitä ei hennonut tappaa. Kerran viikossa kävi
+kaupungilla. Luki 20 tiimaa vuorokaudessa. Osasi Homeron, Virgilion j.
+m. m. kirjaa ulkoa, ja oli taitava melkein kaikissa tunnetuissa kielissä
+ja useimmissa tieteissä. Osti ja laittoi itse ruokansa, joka ei ollut
+ylellinen: leipä, potaatti ja vesi oli hänen jokapäivänen ravintonsa.
+Muutamana päivänä v. 1836 löydettiin hän hukkuneena joen rannalla, johon
+oli pudonnut vettä hakiessansa. Mentelli oli silloin 60 vuoden vanha.
+
+Historiallisessa kasvannossansa ovat tieteet jakaineet moniin eri-osiin.
+Mutta niinkuin melkein kaikki olennot ja kappaleet maailmassa, niin ovat
+tieteetki lähemmässä eli kaukaisemmassa heimossa toisillensa. Sen
+suhteen auttavat ja valaisevat ne toinen toistansa, niinkuin esm. lasku-
+ja mittaustiede, jota historiaki tarvitsee määrätessä ajan juoksua ja
+kausia esityksessänsä. -- Ken sentähden on oppinut ja käsittänyt yhden
+tieteen, osaa antaa arvon toisilleki, vaikka niissä ei olisi
+taitavakaan. Vaan kun jokaisella tieteellä ja sen erihaaroillakin on oma
+peltosarkansa viljeltävänä, seuraa siitä, että itsekukin on likimäisesti
+oma auttajansa ja selittäjänsä. Siinä on jokaisen tieteen itsenäisyys ja
+vapaus muiden tieteiden orjuudesta, ja juuri sen kautta voi toinen
+toistansa auttaa ja valaista. Ainoasti itsenäisillä ja vapailla
+olennoilla on vaikuttavainen toimi ja merkitys elämässä.
+
+Jos katsotaan tieteiden alkua ja kasvantoa, niin niiden ensimäiset
+siemenet tavataan ympäri maanpiirin kylvettyinä sekaisin kansain
+muinaisiin jumaluus-ja maailmansynty-taruihin ja muihin kertomuksiin.
+Silloista hengen ja luonnon keskinäistä suhdetta myöten sulivat ne
+uskontoin kanssa yhteen ja pukeutuivat runoon ja satuun. Tämä oli
+kansain mietteille, luulloille ja tuntemuksille aivan luonnollinen
+muoto, eikä voinut muunlainen ollakaan. Tavallisesti luullaan sen
+syntyneen siitä, että asiat ja tapaukset runon kautta muistettiin
+paremmin kuin suorakielisessä puheessa. Mutta varma on, etteivät kansat
+sitä sentähden valinneet, eivätkä siitä semmoisena välineenä tietäneet
+mitäkään. Koko heidän elämänsä ja ajatuksensa juoksu liikkui
+muinasaikana runon keveillä ja hehkuvilla laineilla, josta syystä
+tietämättänsä pukivat sen säännölliseen verhoon paraimmat ja syvimmät
+mietteensä ja luulonsa[1].
+
+[1] Ks. C. J. Schlyterin: Ruotsin vanhasta maakuntain jaosta ja
+maalakien synnystä (Sveriges indeln. i landskap, och landskapslagarnas
+uppkomst). Upsala 1835, s. 52. -- Mitä siinä lausutaan kysymyksessä
+olevasta asiasta, olen lukenut painettuna Geijerin kootuissa
+kirjoituksissa, VIII, s. 115.
+
+Maailman synty esm. on kansoilla ollut hyvin rakkaana miete-aineena;
+kertomuksia siitä on säilynyt uudempaan aikaan asti. Usiat kansat ovat
+ajatelleet ja johtaneet maailman synnyn munasta, joka miete on itsessään
+sangen syvä ja merkillinen. Ihmeteltävä on sen löytyminen Suomen kansan
+muinasissa runoissa, joissa siitä kuitenki mahtanee olla tallella
+ainoasti katkaistuja palasia[1]. Tietoja tästä niinkutsutusta
+maailmanmunasta ei ole muilla kuin vanhimmilla ja kuuluisimmilla
+kansoilla, niinkuin esm. Intialaisten, Kiinalaisten, Persialaisten,
+Foinikilaisten ja Kreikkalaisten muinaskirjallisuudessa[2]. Miten Suomen
+kansa sen on saanut -- joko omasta mietinnöstänsä eli muilta lainaamalla
+-- voitanee vielä pitää ratkaisemattomana kysymyksenä, ehkä näyttää
+siltä kun se olisi Aasiasta joltakulta sivistyneemmältä kansalta
+saavutettu ja tänne muiston kautta tuotu perintö[3]. Olkoon miten oli --
+tottahan sen Suomen kansa kuitenkin on omituista luonnettansa myöten
+muodostanut; melkein hedelmättömät ovat semmoiset tutkinnot, joilla on
+tarkoituksena saada tieteelliseen varmuuteen, mikä perijuureltansa on
+kunki kansan omaa, mikä vierasta. Nuoremmat vesat indo-germanilaisesta
+kannasta eivät tätä maailmanmunaa enää tunne nimeksikään, eivätkä Suomen
+heimokansatkaan muut kuin Virolaiset, joilla se kuitenki löytyy
+sekoitettuna Juutalaisten luomisen kertomuksella[4]. -- Kristillisyys on
+yleensä, mihin on tullut, joko keskeyttänyt eli peräti hävittänyt
+kansain muinaiset uskonnot ja mietteet, tahi oikeimmin: se ei ole
+hävittänyt -- ne ovat itsestänsä lakastuneet korkiamman opin ja tieteen
+valossa, ehkä typerät munkit ja papit ovat kaikissa maissa tämän suhteen
+näyttäneet joutavaa jumalisuutensa intoa.
+
+[1] Ks. Kalevalan 1:stä runoa.
+
+[2] Ks. M. A. Castrénin Pohjoisia matkoja ja tutkinnoita (nordiska resor
+och forskningar) III. 1853, s. 299 ja ss.
+
+[3] Ks. H. Kellgreniä väitöstä maailmanmunasta (Mythus de ovo mundano,
+Indorumqve de eodem notio). 1849, s. 17.
+
+[4] Ks. Tohtori Fählmannin kirjoitusta Virolaisten muinasuskosta (Vie
+var der heidnische Glaube der alten Esten beschaffen?). Verhandl. d.
+gel. Estn. Gesch. zu Dorpat. 2:n nide, 2:n vihko. Tartolinna 1848, s. 63
+ja ss.
+
+Mutta kun koko se perustus, josta mainitut siemenet puhkesivat kasvuun,
+oli väärä, ja kun niiden muodostajana oli rajoittamatoin mielijohde, ei
+niistä voinut syntyä muita kuin sinne tänne ampuvia, pian raukenevia
+vesivesoja, joista ei myöskään suoraan saateta tieteiden alkua ja
+kasvantoa johtaa. Hämäryys kuuluu kuitenkin aamun valkiamiseen, aamu
+päivään, ja sillä tavoin liittyvät kansain lapsuuden ajan luulot ja
+mietteet tieteiden historiaan; kukin aika ja sen hakemukset ovat
+katsottavat tarpeellisiksi kansain ja ihmiskunnan sivistyksen menossa ja
+juoksussa. Mutta tieteellisen totuuden kehto ei ole haettava
+mielijohteen loistavista ruusutarhoista. Ajatus on sen ikuinen lähde, ja
+siitä sen piti maailmaan ilmautua, sitte kun edelläkäyvä ehto sen
+suhteen oli täytetty. Mikä tämä ehto oli? Se oli ihmishengen herääminen
+luonnon välittömästä helmasta ja ajatuksen vapauttaminen sen siteistä.
+Se kun ensin tapahtui, sitte vasta tieteiden syntyki lähestyi. Tämä ehto
+toteutui Kreikan muinaisessa kansassa, jonka heränneestä hengestä ajatus
+nousi itsetietoon ja pani alun tieteiden ja taiteiden syntyyn ja
+kasvantoon. Tämä oli kreikkalaisen kansan suuri ja jalo kutsumus
+maailmassa.
+
+Kreikkalaiset kun kadottivat vapautensa ja itsenäisyytensä, laimistui
+heidän tieteellinen ja taiteellinen toimensa. Tieteitä viljeltiin
+kristillisyyden ensimäisinä vuosisatoina paraasta päästä Aleksandriassa
+ja Italiassa, josta ne vähitellen siirtyivät muihin Europan maihin.
+Romalaiset eivät kovin rakastaneet tieteitä, ehkä eivät niitä
+ylenkatsoneetkaan; ulkonainen kiilto ja loistavuus, sota ja sen pauhut
+olivat heille mieluisemmat. Arapialaiset voimaan päästyänsä hyväilivät
+myös tieteitä, etenki lääkitys-, lasku-, mittaus-ja tähtitiedettä,
+joissa vieläki käytetään heidän antamia oppisanoja. Suuren keisari
+Kaarlon aikana sai oppi ja tiede suojeluksen luostarien ja
+tuomiokirkkoin kouluissa, joista keskiajan viimeisillä vuosisadoilla
+nousivat vapaisin yhdyskuntiin; näistä kasvoi sitte Yliopistoja usioihin
+maihin. Keskiajan opillisille riennoille ja harjoituksille ei kuitenkaan
+saateta korkiammassa merkityksessä antaa tieteen nimeä; vanhoja jälkiä
+kierrettiin ja poljettiin, niissäkään pohjaan menemättä, ja sen ohessa
+väärinkäytettiin kristinoppia muiden opinhaarain polkemiseksi ja
+sortamiseksi. Uskonpuhdistuksen jälkeen rupesi tieteilleki suurempi
+vapaus koittamaan, ehkä sitteki tiedemiesten tointa ja kirjoituksia on
+pyydetty pitää lukon takana.
+
+Jos kansain elämän juoksussa voidaan sanoa mitäkään myöhään
+tapahtuneeksi ja matkaansaatetuksi, niin totta Suomen kansa sai maahansa
+tieteille pysyväisen paikan aivan myöhään. Ruotsissa pantiin Yliopisto
+toimeen 1477, ja vasta 173 vuoden kuluttua siitä perustettiin semmoinen
+opetuslaitos Suomeen, ja seki tapahtui ruotsalaisen miehen kautta ja
+ruotsin kieliläisille. Suomalaiset eivät ole milloinkaan osanneet valvoa
+etujansa ja oikeuksiansa kansain joukossa. Saa nähdä, kuinka monta sataa
+vuotta kuluu siksi kun maahamme saadaan varsinainen tiedelaitos,
+niinkutsuttu Tiede-Akatemia toimeen, jonka jäsenien töitä ja voimia ei
+vähennetä monilla syrjätoimituksilla, niinkuin tiedemiestemme nykyinen
+hankala laita on?! Kaikissa sivistyneissä maissa löytyy semmoisia
+laitoksia, ja juuri niiden kautta ovat tieteet voineet uudempana aikana
+laajentua niin suuriksi, että työn tuskin jaksaa yksi mies elinaikanansa
+perinpohjin tutkia ja täydellisesti esitellä yhden ainoankaan
+tiedehaaran sisältöä. Siitä on työnjako tieteissäkin ollut tarpeellisena
+ja luonnollisena seurauksena. Eipä siis kelläkään ole syytä tiedostansa
+kerskailla, eikä sitä totinen tiedemies teekään. Nöyryys ja siveys on
+hänenki velvollisuutensa, totuus kunniansa, rehellinen tutkinto kaita
+tiensä tieteiden valtakuntaanpa järjen terävä miekka sota-aseensa, jolla
+totuuden sisukset avataan ja ilmituodaan. Mutta siihen tarvitaan
+rohkeutta. Senpä tähden asuu tiedemiehen sydämessä rohkea into, joka ei
+pelkää vainoa eikä kuolemaa totuuden etsimisessä ja julistamisessa.
+Hänen toimensa on myös niin läheisessä yhteydessä elämälle yleisesti,
+että tuskinpa siinä tapahtuu mitäkään, joka jo sitä ennen ei olisi
+jossaki määrässä nähty tieteen hiljaisessa maailmassa. Muinaisella
+ajalla oli rohvettansa, nykyisellä on tiedemiehensä; molempia ovat
+kansalaisensa harvoin käsittäneet.
+
+Hedelmärikas käännös tapahtui tieteiden edistyksessä menneellä
+vuosisadalla. Kauvan sitä ennen pidettiin ainoastaan loistavia
+ulkonaisia tapauksia ja kuuluisimpien muinaskansain asioita, ynnä niiden
+kuolleita kieliä arvollisena aineena tieteille. Siitä syystä menetti
+melkein jokainen aikansa ja voimansa niiden tutkintoon. Se kyllä oli
+tarpeellinen; mutta yhtä ja samaa apajaa kun aina vedettiin, ei siitä
+tieteille ollut suurta hyötyä. Sen ohessa vallitsi historiallisissa
+asioissa joutava kunnian pyyntö siten, että tiedemiehet tahtoivat
+anastaa kuki kansallensa niin vanhaa ja jaloa sukuperää kuin saattoivat.
+Kreikkalaisille, Romalaisille ja etenki Juutalaisille, Jumalan valitulle
+kansalle muka, pyrki jokainen heimoksi. Pitkiä kuningasriviä ladottiin
+mielijohteellisesti uudemmille nuorille kansoille, jotka ottivat
+ensimäisiä askeleita sivistyksen tiellä. Semmoinen teeskelty kunnian
+salvos kyhättiin Suomalaisilleki, joiden vallan ensimäiseksi isäksi ja
+perustajaksi haettiin tänne Pohjoseen esm. Noan neljäs poika Tuiskon.
+Hänestäkö sitte tuiskut lienevät maahamme pysähtyneet, vaiko niistä
+tuuli-, ilma- ja talvikuninkaista, joiden sanottiin Suomessa muinoin
+hallinneen[1].
+
+[1] Ks. G. Reinin kirjoitusta Suomen historian tutkijoista ja
+esittäjöistä (Bidrag till Finska häfdeforskningars historia). Suomi
+1841, ss. 22, 26, 38, 43 j. m. -- Pyhässä Raamatussa (luom. kirj. 10 l.)
+kerrotaan ihmissuvun levinneen Noan kolmesta pojasta. Tuiskosta on tieto
+saatu kaltealaisen papin Beroson kirjoituksista. Beroson eli noin 260
+ennen Kristuksen syntymää.
+
+Tällaisista naurun-alaisista hankkeista ovat tiedemiehet kääntyneet
+tarkemmin katsomaan kunki maan ja kansan sisällistä tilaa ja luontoa,
+huolimatta tutkinnoissansa muusta kun selvästä totuudesta. Tässä ovat
+seuranneet kansallisen hengen voimallista herätyshuutoa, vaikka eivät
+sentähden ole unohtaneet tieteiden ihmiskunnallista tarkoitusta ja
+yleistä kasvantoa. Mikäs tutkijalle saattaa ollakaan hempiämpi ja
+rakkaampi kun sen maan ja kansan asiat, jonka keskellä hän itse elää, ja
+jonka suojassa tieteet kukoistavat. Pisarakin järvessä on vettä ja monta
+pisaraa tekee meren. Kotimaallisista aineista saavat tieteet elatusta ja
+ravintoa yleiselle kasvannollensa ja edistyksellensä.
+
+Mahdotoin on tarkalleen seurata joka askelmaa sivistyksen ja
+kansallistunnon kasvannossa maissa ja kansoissa. Mutta mainitunlainen
+kansallinen herääminen, eli oikeimmin sen itu havaitaan Suomen
+tiedoitsijoissa ja oppineissa jo alussa viimeistä vuosisataa; se kasvoi
+historialliseen itsetietoon saman vuosisadan loppupuoliskolla. Väärin on
+sentähden lukea kansallisuuden tunnon herääntöä maassamme vuoden 1809
+perästä, niinkuin eräs Suomen historian tutkija on tehnyt[1], ottaen
+siihen tukeeksi muutamia väärin tulkituita lauseita Hegelin tekemästä
+historian viisaustieteestä[2]. Tässä ei ole tilaisuus tätä asiaa
+laviammin selittää; olkoon vaan sanottu, että mainittu uudemman ajan
+suurin viisaustieteen tutkija ja esittäjä († 1831) lausuu historiallisen
+kertomuksen alkavan silloin kuin varsinaisia historiallisia tekoja ja
+tapauksia ilmautuu. Suomen kansa olisi siis vuoteen 1809 maanut, jos sen
+historia vasta siitä alkaa. Totta se kyllä on ollut uneliainen ja on
+osittain vieläki, mutta ei sitä kuitenkaan saateta verrata 7 unikekoon.
+Suomen historia alkaa tuntemattomasta vuosiluvusta muinasaikana. Niin
+Suomen kirjallishistoriakin.
+
+[1] Ks. Jouhkahaisen 2:sta vihkoa, 1845, s. 189--191 ja ss.
+
+[2] Ks. Georg Wilh. Friedr. Hegelin luennoita historian viisaustieteessä
+(Vorles. über d. Philos. d. Gesch. Vollständ. Ausg. 9 B.). Berlin 1837,
+s. 39 ja ss.; eli N. Ignellin käännöstä samojen luentojen 2 painoksesta
+(1840). Tukholmi 1850, s. 71 ja ss.
+
+Näin paljo tieteistä yleisesti. Mitä erittäin kirjallishistorialliseen
+tieteesen tulee, niin senkin ensimäisiä hentoja juuria voidaan johtaa
+Kreikkalaisista ja Romalaisista. Näiden kirjoittajani teoksissa löytyy,
+niinkuin tunnettu on, otteita ja arvosteluja vanhempain kynäilijäin
+tuotteista, niinkuin esm. Kallimakon, Kikeron, Plutarkon j. n. e.
+kirjoituksissa. Mutta vasta kirjapainon keksittyä, jonka kautta
+kirjallisuuden tuotteita oli helppo saada ilmiin, aljettiin niitä
+likemmin tarkastaa, siinä aivotuksessa, että järjestää niitä, ja ehkä
+myös että antaa niistä tietoja yleisölle. Ensin tapahtui tämä aivan
+ulkonaisesti; kirjoista tehtiin vaan kuivia luetteloita, niin että
+semmoista tieteellistä tointa saattaa verrata nykyisiin
+kalunkirjoituksiin. Nekin olivat tarpeelliset, kunne huomattiin
+kirjallisuuden tuotteista voivan syntyä erityinen, suuriarvoinen
+tiedehaara. Näistä luetteloista saivat oppineet osoitusta ja kiihoitusta
+kansain kirjallisuuden tutkintoon useissa Europan maissa. Semminkin otti
+tämän asian suuresti ja syvästi Verulamin paroni Englannissa, tieteiden
+historiassa kiitetty Frans Baco, joka ehkä kaikista aikalaisistansa
+selkeimmästi havaitsi ja ymmärsi kirjallisuuden korkian merkityksen
+kansain ja ihmiskunnan elämässä. Tämä syvämielinen mies, jonka nero
+vaikutti puhdistavasti melkein kaikkein tieteiden kasvantoon, vertasi
+maailmanhistoriaa yksisilmäseen muinasjättiläiseen Sisilian saarella,
+nimeltä Polyfemos, niin kauvan kuin sen lehdillä ei puhuta
+kirjallisuudestakin[1]. Uudempi aika on selkeimmästi ja selkeimmästi
+ymmärtänyt Bacon vertauksen ja ottanut oppia hänen neuvostansa. Ei nyt
+enää tavata uudempia yleisiä historioita, joissa ei kerrottaisi kansain
+kirjallisistaki seikoista. Näillä niinkutsutuilla maailmanhistorioilla
+on kuitenki se hankala vaillinaisuus, ettei niihin mahdu muuta kun
+enemmin eli vähemmin päällinpuoleisia silmäyksiä suurempienkaan
+valtakansain, saati sitte pienempien torpparikansain rauhallisista
+toimista ja omaisuuksista. Sentähden on ollut tarpeellinen toimittaa
+erityisiä historioita kustaki kansasta. Mutta näilläki niinkutsutuilla
+kansallishistorioilla on se vika, jos sitä viaksi saattaa sanoa, että
+niissäkään ei käy muuta kun sivuuttamalla koskea kansan kirjallisia,
+keinollisia, kaupallisia j. n. e. asioita. Sentähden ovat tiedemiehet
+ottaneet nämät kaikki erityiseen tutkintoon, josta on kasvanut uusia
+historiallisia tiedehaaroja, niinkuin esm. kirjallishistoria, ja
+niinmuodoin on syntynyt runsaita lisiä historialliselle tieteelle
+yleisesti. Jopa kirjallishistoriaki jakaikse yleiseen ja erityiseen,
+joista edellinen antaa tietoja kaikkein kansain, jälkimäinen kunkin
+erikansan kirjallisuudesta; ja jopa kirjallisuuden eriosillaki, niinkuin
+esm. tieteillä, runollisuudella j. n. e., on oma historiansa. Minulla on
+aikomus voimiani myöten toimittaa historian kaikista Suomen
+kirjallisuuden osista.
+
+[1] Ks. Frans Bacon teosta tieteiden arvosta ja kasvannosta (De
+dignitate et augmentis scientiarum. Juxta exemplar Londini impressum.
+Parisiis, Typis Petri Mettayer, Typographi Regij. 1626) 2:n kirjan 4
+lukua, s. 97 ja ss.
+
+
+
+
+3:ksi Kirjallisuuden ymmärrys.
+
+
+Mitä Suomen kirjallishistorialla on kertomista ja esittämistä,
+selitetään toisessa kohdassa. Tässä otetaan likempään tutkintoon, mitä
+kirjallisuudella yleisesti ymmärretään. Mutta kun kaikkein kansain
+kirjallisuudella ei saata pää-asiallisesti olla muu kun sama ymmärrys ja
+sama tarkoitus, niin tälle kysymykselle voidaan hakea vastausta muidenki
+maiden kynäilijöiltä. Esimerkin vuoksi lainaan tämän suhteen joitakuita
+määrityksiä Ruotsin ja Saksan kirjallishistorioitsijoilta.
+
+P. Wieselgren, jonka ainerikas ja Suomenki kirjallisuutta koskeva
+historia on maassamme tunnettu, johtaa mainitulle kysymykselle
+vastauksen seuraavaisesti: "Kirjoitus on sanoille, mikä soitin äänelle.
+Niinkuin ei soiton uusi voima ole hävittänyt luonnollista ääntä, niinpä
+ei kirjoituskaan ole anastanut valtaa runolta ja puheelta. Päin vastoin
+on se rakentanut niille istuimen, joka tekee silmänräpäyksen
+mielituotteet vuosisatain omaisuudeksi. Valitut kirjoitukset ovat
+synnyttäneet kirjallisuuden"[1].
+
+[1] Ks. P. Wieselgrenin Ruotsin kaunista kirjallisuutta (Sveriges sköna
+Litteratur) 1:n osa, 2:n painos. Tukholmi. s. 3.
+
+Tämän mukaan saattaisi kirjallisuutta sanoa valituiksi kirjoituksiksi,
+joiden joukkoon ei siis voitaisi lukea muita kuin kansain hyviä
+kirjallisia tekoja. Niin on kieltämättä tehtäväkin. Samoin kuin
+puutarhan hoitaja kitkee ja leikkaa kaikki huonot kasvut ja hedelmät
+lakastumaan, niin tiedemiehenki täytyy historiasta sulkea kaikki
+mitättömät ja kunnottomat kirjoitukset; hän heittää ne unohduksen
+haudalle katoomaan, ja korjaa muiston temppeliin ainoasti semmoiset
+kirjoitukset, jotka sen ansaitsevat.
+
+Jos taas kysytään, missä huonoin ja hyväin kirjoitusten raja on, ja kuka
+sen määrää, niin siihen on vastaus aivan selvä. Taitavuus sen määrää, ja
+hyvät kirjoitukset ovat semmoiset, jotka tavalla eli toisella ovat
+vaikuttaneet kansan tahi kansain sivistyksen menoa ja edistystä
+tieteellisessä, taiteellisessa, vallallisessa ja uskonnollisessa
+katsannossa. Tähän on myös suljettu kansain vapauden riento ja hakemus,
+sillä sivistys korkeimmassa merkityksessänsä ei ole muu kun vapaus
+kaikesta pahasta. Semmoisilla kirjoituksilla, jotka eivät ole ainoasti
+huvittaneet aikalaisiansa, Vaan myös vaikuttaneet hyvää tuleville
+miespolville, on lakastumatoin historiallinen arvo. Suurien nerojen,
+näiden kansain ja ihmiskunnan sankarien teot ovat historiassa etunenässä
+katsottavat. Niiden sivistyttävä ja vapauttava voima ei lopu
+milloinkaan. He ovat Jumalan lähetysmiehet kansain seassa, ja niinkuin
+he itsetki, niin ovat heidän tekonsaki kuolemattomat.
+
+Kaikki eivät kuitenkaan, niinkuin Wieselgren, ota puheeksi miten ja
+mistä kirjallisuus syntyy, eivätkä myöskään niin tarkoin rajoittele,
+hyviäkö vaiko huonompiaki kirjoituksia siihen kuuluu. Semmoiset
+määritykset, joiden mukaan valitut kirjoitukset tekevät kirjallisuuden,
+ovatkin itsestään vähänsanovat ja enemmin ulkopuoleisia; niistä ei tulla
+tietoon, mikä kirjallisuuden ymmärrys oikiastansa ja mikä sen merkitys
+elämässä on. Sama on laita, jos kirjallisuutta sanotaan "kansain
+kirjalliseksi taideteoksi", joksi sitä saksalainen
+kirjallishistorioitsija Vilmar lausuu[1]. Hänen maamiehensä T. Mundt
+annaikse sitä vastaan selvittämään tätä kysymystä oikein
+viisaustieteelliseltä kannalta ja saaki sille semmoisen oppineen
+vastauksen, jossa on yhtä paljo saksalaista tummuutta kun myös
+saksalaista syvämielisyyttä. Hän lausuu melkeittäin näin:
+"Kirjallisuudesta saamme tuta kansain hengellisen olennon, kaiken heidän
+mielensä pidon maailmasta ja ihmiselämästä", joka on jotensaki totta ja
+selvänlaista. Vaan kun siihen lisää, että kirjallisuus myös on "kansain
+kaiken tiedon ja toimen kohteellinen muoto"[2], niin siinä on jo liikaa.
+Kansain mielipidot ja ajatukset nähdään kyllä täydellisimmästi ja
+selkeimmästi heidän kirjallisuudestansa; mutta heidän hengellinen
+toimensa on, paitse kirjallisuutta, etsinyt ja löytänyt muitaki muotoja,
+joista heidän mielipitoja ja aivotuksia voidaan tutkia. Näistä
+otettakoot esimerkin vuoksi taiteen tuotteet puheesen.
+
+[1] Ks. A. F. C. Vilmarin johdantoa hänen tekemäänsä Saksaa
+kansalliskirjallisuuden historiaan (Gesch. d. deutsch.
+nationalliteratur), 6:s lisäily painos. Marpori 1886.
+
+[2] Ks. Teodor Mundtin yleistä kirjallishistoriaa (Allgem. Lit. Gesch.)
+1:n nide, 2:n painos. Berlin 1848 s. 1. -- Kohteellinen = objektiv.
+
+Tässä kohta valaiseva kertomus tanskalaisesta kuvasepästä
+Thorvaldsenista. Kun muutamat uskon kilvoittelijat olivat epäilleet
+tällä mainiolla taidemiehellä olevan totista kristillistä uskoa, ja
+sentähden häntä hätyyttivät, oli hän siihen lyhyesti vastannut: menkäät
+katsomaan tekemiäni enkeleitä. Ne siis saivat selittää ja puolustaa
+Thorvaldsenin uskoa. -- Tästä on ymmärrettävä, että niinkuin
+taidoitsijain mielen tila ja laatu kuvaikse heidän taideteoksissansa,
+samalla tavalla voidaan kansainki hengellistä tointa ja mieltä tutkia ei
+yksinänsä kirjallisuuden, vaan myös esm. taiteen ainoasti silmillä
+nähtävistä tuotteista; niinmyös kansallisen elämän muodostamisesta, jos
+kirjallisuutta ja taiteellisuutta ei löytyisikään. Mundtin määritys on
+siis liian lavia, kun hän sulkee kirjallisuuden rajain sisälle kansain
+kaikki toimet ja tekee sen niiden muodoksi. Historia kertoo tosin ne
+kaikki, mutta niistä saadaan siitä tieto jo toisessa kädessä. Liikaa ei
+hän sitä vastaan lausu, sanoessa kirjallisuutta "ihmishengen
+käsikirjoitukseksi", samoin kuin Tuomas Kampanella kutsuu maailmaa
+"Jumalan käsikirjoitukseksi"[1]. Tämmöiset verrannolliset määritykset
+ovat kuitenki myöskin ulkopuoleisia, ja valaisevat sangen vähän asian
+sisällistä ymmärrystä.
+
+[1] Nämät sanat löytyvät Mundtin mainitussa historiassa, osoitetulla
+sivulla. -- Kampanella oli viisaustieteellinen kirjoittaja Italiasta.
+Monista vainoistansa, ahdistuksistansa ja kärsimyksistänsä löysi hän
+vihdoin levon haudan hiljaisuudessa Pariisissa 1639.
+
+Wilhelm Zimmermann puhuu kaikille säädyille tehdyssä
+kirjallishistoriassansa seuraavasti: "Laveammassa ja totisessa
+merkityksessänsä ymmärretään kunki kansan kirjallisuudella kaikki, mitä
+sen henki on pukenut ajatukseen ja kieleen, kaikki mitä se on
+matkaansaattanut runotaiteellista ja historiallista,
+viisaustutkinnollista ja sulopuheellista; olkoon sen vaikutus
+suusanallinen eli kirjoitukseen kätkettynä"[1]. Arvelunalaisena kysyy
+tämä kynäilijä kuitenki, josko ei suullista sulopuhetta ja kansain
+keskuudessa eläviä runoja, lauluja, satuja j. n. e. saisi myöski lukea
+kirjallisuuteen kuuluviksi. Tähän on vastaus helppo. Niin kauvan kuin ne
+kirjoitukseen korjaamatta kiertelevät elämän väljällä metsällä, eivät ne
+kirjallisuuteen kuulu, josta kuitenkaan elköön päätettäkö kirjapainon
+musteella olevan voiman korottaa mitäkään kirjalliseen arvoon; tällä
+musteella kirjataan nykyaikana paljo, joka ei ansaitse kirjallisuuden
+nimeä, niinkuin taas toiselta puolen moni kaunis kirjallistuote ei
+kaikissa maissa saa sen pysyväistä kiiltoväriä päällensä. -- Mutta
+uudempi aika on Zimmermannin arveluun tekotoimellisesti vastannut. Missä
+ei sulopuheita heti niiden synnyttyä korjata vuosisatojen omaisuudeksi,
+ja missä ei kansain muinasrunoja, lauluja, sananlaskuja j. n. e. ole
+kerätty häviämästä? Kuka ei myös tunne sulopuheliaisuuden korkiaa arvoa
+ja ankaraa voimaa? Sana on yleisesti väkevämpi väkevimpiä sotajoukkoja,
+ja sulopuhe on maailmassa monesti kukistanut orjuuden juonet, ja avannut
+kansoille sileän tien vapauden majoihin. Eivätkö sen tuotteet siis
+kuuluisi kirjallisuuteen! -- Mitä kansain runoihin ja lauluihin tämän
+suhteen tulee, niin Muistotar on taannut niiden kirjallishistoriallisen
+arvon. Sen kauvas loistava kynttilä ei turhaan pala aikain ja kansain
+keskellä. Mitä se on vuosisatojen ja tuhansienki kuluessa pitänyt
+elossa, ansaitsee lehtensä historiassa yhtä hyvin kun nykyisemmätki
+kirjallisuuden tuotteet. Suomen kirjallishistoriassa esm. ottaa kansan
+vanhat runot, laulut, sananlaskut, arvoitukset ja sadut sangen
+arvollisen sian.
+
+[1] Ks. W. Zimmermannin johdantoa Saksan suorakielisen ja runollisen
+kansalliskirjallisuuden historiaan (Gesch. d. pros. und poet. deutsch.
+nationallitteratur), 2:n painos. Stuttgart 1856.
+
+Vaikia ei olisi lisätä mainittuja esimerkkiä muidenki kirjoittajain
+lauseilla. Mutta niistäki jo nähdään, miten eritiedoitsijat antavat
+erimäärityksiä kirjallisuuden ymmärryksestä. Se todistaa kirjallisuuden
+olevan jotaki niin yleistä ja liikkuvaa ainetta, että jokainen voi
+käsittää sen eritavallansa.
+
+Katsoessa kirjallisuuden nykyistä suurruutta ja laajuutta kaikissa
+sivistyneissä maissa, voidaan sitä ehkä paraite määrittää kaiken elämän
+ja olon kuvastajaksi ja kertojaksi. Sen piiri on niin kasvanut, että
+kysyä saattaa: mitä löytyy, josta kirjallisuus ei kertoisi, mitä, josta
+se ei antaisi tietoa? Sen yhät laajentuva verkko piirittää taivaan ja
+maan, ja melkein kaikki, mitä niissä on näkyväistä ja näkymätöintä.
+Tämän todistukseksi otettakoon muutamia osia kirjallisuuden alalta: mikä
+on esm. uskon tiede ja kirjallisuus muu kun ijankaikkisuuden side
+Jumalan ja ihmisten välillä; mikä runotaide muu kun sanoihin puettu
+kauneus; mikä historia muu kun kunki kansan ja ihmiskunnan elämän
+juoksun ja edistyksen kertoja; mikä niinkutsuttu romanikirjallisuus
+muuta kun kuvauksia ihmiselämästä; mikä sanomakirjallisuus muu kun
+päivän tapausten historia kussaki maassa, jonka lisäksi sen pitäisi myös
+olla valvovan omatunnon kussaki kansassa.
+
+Mutta kirjallisuus ei ole ainoasti elämän ja olon kuvastaja; se on myös
+sivistyksen kannattaja ja valistuksen kasvattaja. Se on muinaisuuden,
+nykyisyyden ja tulevuuden yhdistäjä; katkiamattomilla kultalangoillansa
+sitoo se menneet, nykyiset ja tulevat suvut ja ajat kussaki kansassa ja
+koko ihmiskunnassa yhteen. Jos kirjallisuutta ei löytyisi, peittäisi
+pimeys kaiken elämän ja olon.
+
+Kirjallisuus on myös vapain ja voimallisin hallitsija maan päällä. Se ei
+tunne rajoitettuja säätyjä, ei köyhyyttä, ei rikkautta, ei ylhäisyyttä,
+ei alhaisuutta. Sen aarteet ovat kaikille avoinna. Sen istuimen eteen
+kokoutuu ihmisiä kaukaa ja läheltä. Minkätähden? Kukin eri
+mielenlaatuansa ja tarvistansa myöten, mikä oppinsa, mikä tietonsa, mikä
+huvituksensa tähden. Mutta eipä ainoastaan näiden tähden.
+Kirjallisuudesta saadaan myös suurimmassa määrässä sitä lepoa ja rauhaa,
+sitä toivoa ja riemua, sitä virvoitusta ja vakuutusta, sitä rakkautta ja
+sovintoa, joiden haennassa turhaan pyöritään ulkonaisen elämän puuhassa
+ja pauhussa. Sentähden kutsuvat esm. viisaustietäjät kirjallista
+tointansa paraimmaksi huvitukseksensa ja levoksensa.
+
+Kirjallisuuden temppelin ovella seisoo kirjoitettuna: *sivistys* ja
+*valistus*. Näitä täytyy jokaisen seurata ihmisenä pysyäksensä. Ken sitä
+ei tee, saa silmillensä paksut pimeyden suomukset, jotka tekevät
+omistajansa enemmin luontokappaleen kuin ihmisen kaltaiseksi. Joka taas
+sivistyksen ja valistuksen edistymistä ja leviämistä vastustaa, hänen
+nimensä merkitään ylenkatseella historiassa, joka tuomitsee kaikkein
+teot.
+
+Kirjallisuus tarvitsee viihtymisellensä ja vaurastumisellensa ulkonaisia
+avittajia ja liittolaisia. Semmoisia sillä myös löytyy kaikissa
+valtakunnissa, ja kuta sivistyneempi joku kansa on, sitä rikkaammat ja
+paremmat nämät avittajat ja liittolaiset ovat. Pää-asiallisesti ovat ne
+seuraavat: tiedelaitokset, joissa kirjallisuuden tieteellistä kuntoa ja
+edistystä hoidetaan; oppilaitokset, joissa sille kasvatetaan ystäviä ja
+viljelijöitä; kirjapainot, joissa sen tuotteita kartutetaan niin
+monikertaseen satoon kuin tahdotaan; kirjastot, joissa niitä säilytetään
+yleisön tarvista varten lainaksi; ja kirjakaupat, joissa ne ovat
+kaikille tarjona ostoksi. Näiden kaikkein tilasta voidaan päättää
+kirjallisuuden ja sivistyksen laitaa kussaki maassa. Ne ovat ne viisarit
+ajan kellossa, jotka osoittavat, kuinka pitkälle kuki kansa on
+ennättänyt valistuksensa juoksussa. -- Erityistä muistuntoa ei tarvitse
+näiden avittajain ja liittolaisten löytyminen Suomessakin. Toinen seikka
+on, jos niiden kunto on semmoinen, että ne täyttävät sisimäisen
+tarkoituksensa yleisen sivistyksen vaurastumiseksi, jonka näyttäminen ei
+kuulu tähän johdantoon.
+
+Itsestänsäkin ymmärretään se, ettei kaikkia edelläsanotuita lauseita käy
+sovittaminen kaikkein kansain ja maiden kirjallisuuteen, semmoisena kun
+se todellisessa olossansa on erivaltakunnissa. Eroitus on kansain ja
+maiden välillä ulkonaisesti, eroitus sisällisestikin. Kirjallisuus on
+aina seisonut ja on vastaki seisova lähimmäisessä yhdistyksessä
+uskonnollisen ja vallallisen elämän kanssa kussaki maassa. Muinaisina
+aikoina oli tämä yhdistys sangen orjallinen ja on vieläki kaikissa
+vapauden osattomissa kansoissa. Kun nyt kirkon ja vallan säännöt ja lait
+ovat ne yleiset rajat, joiden sisällä ja suojassa kansain hengen avut ja
+luonnon lahjat saavat elatuksensa ja kasvantonsa, niin on helppo
+käsittää, kuinka painavasta laadusta niiden suhde on kirjallisuuteen. Se
+myödytetään heti, että kuta vapaammat ne ovat, sitä rikkaampia ja
+moninaisempia hedelmiä kantaa kirjallisuus. Tämän todistaa kokemus joka
+paikassa ja kaikkina aikoina. Puhtaalta tieteelliseltä kannalta on tämä
+aivan selvä ja vastaansanomatoin. Vapaan hengen äärettömästä syvyydestä
+sikiää ja nousee aina ihania ja voimallisia hedelmiä. Laske sentähden
+kirjallisuuden valtasuonet vapaasti juoksemaan omassa laillisessa
+väylässänsä, pian olet näkevä, miten kirkas ja virkistävä sen puhdas,
+sekoittamatoin vesi on. Sen vaikutus on verrattava raittiisen
+aamusateesen suven suloisina päivinä. Sen voima elähyttää, valaisee ja
+vahvistaa kansan ja hallituksen töitä, toimia ja aivotuksia. Päin
+vastoin ovat asiat siellä, jossa vapautta tämän suhteen ei ole. Siellä
+on kirjallisuus kituvainen ja eteenpäin rientävyys vaivaloinen ja
+vitkallinen.
+
+Mutta kirjallisuus ei pysy milläkään neuvolla ainiaan missäkään maassa
+kituvassa tilassa. Sana on itsestään elävä ja vapaa, josta syystä sitä
+ei voida sulkea vankeuteen. Sanasta syntyy kirjoitus, ja vaikia on
+sitäki kahleisin saada. Kirjoituksista muodostuu kirjallisuus, ja
+nouseva sivistys sekä kasvava kansallisuuden tunto poistavat
+kirjallisuuden tieltä ulkonaiset esteet. Kirjallisuus voimistuu kaikissa
+maissa, joissa elon neste ja ripeys kansan suonissa ei ole kuivettunut.
+Niinmuodoin ei sillä ole muita pysyviä rajoja kuin hengen omat, ja ne
+ovat vapaat niinkuin henki itsekin.
+
+Elköön kukaan väärin ymmärtäkö, mitä edellä on sanottu. Vapaus on
+ensinkin ei vallattomuus. Se on säännöllinen ja laillinen järjestys,
+jonka se antaa itsellensä. Siksi toiseksi: vaikka vapaa kirjallisuus on
+sivistyksen ja valistuksen tukevin kannattaja ja voimallisin edistäjä,
+ei se kuitenkaan estä kansojakaan kuolemasta. Maailmanhistorian suuri
+kirja on kaikille avoinna, ja sen opettavaisista lehdistä näkee
+jokainen, että kun kansat ovat täyttäneet kutsumuksensa, soi heidänki
+hautauskellonsa maapiirin avaralla kalmistolla. Mutta mitä kansat ovat
+matkaansaattaneet ja toimittaneet, ei huku ihmiskunnalta: "heidän
+olentonsa paraimmat hedelmät -- kaikki mitä totta, kaunista ja hyvää
+ovat ajatelleet, tehneet ja aikoneet, jää heidän jälkeensä itäviksi
+siemeniksi täydellisempäin kasvuin nousulle"[1]. Nämät siemenet ovat
+siitä ajasta, jona kirjoituksen taito keksittiin, olleet ja ovat
+vastaki, niin kauvan kuin sama taito kunnossa pysyy, paraimmassa
+säilyssä kirjallisuuden hedelmällisissä taimilavoissa. Sieltä ne
+nousevat oraalle, kasvavat, kukoistavat ja kantavat uusia hedelmiä
+ajasta aikaan, suvusta sukuun, kansasta kansaan. Paraimman ja kalliimman
+perinnön, jonka siis suvut ja kansat voivat jälkeisillensä antaa, on
+heidän kirjallisuutensa.
+
+[1] Ks. N. Ignellin Ihmisellisen edistyksen historiaa (Menskliga
+utvecklingens historia). Tukholmi 1857, 2:n osa s 356.
+
+Jos kysytään, sopivatko edellä olevat lauseet käyttää Suomen
+kirjallisuuteen, niin siihen on vastaus osittain myöntävä, osittain
+kieltävä. Miten kumpaisessaki suhteessa, jää tässä likemmältä
+selittämättä. Suomen kansan koko olo ja elämä on ollut ja on vieläki
+niin erilainen ja monimutkainen useista muista kansoista, että
+kirjallisuudellekin on siitä ollut suuria haittoja ja pahoja vastuksia.
+Mutta jos kysytään, onko Suomen kirjallisuudella yleisesti sama ymmärrys
+ja tarkoitus kun muidenki kansain, niin siihen käy suoraan vastaaminen:
+on pää-asiallisesti. Siitä vielä tässä jaksossa muutama sana.
+
+Suomen kirjallisuuden kasvut eivät ole laveimmassakaan merkityksessänsä
+suurilukuiset; ne eivät sisällisen arvonsakaan puolesta kannata
+kaikenpuoleista vertausta monen toisen kansan kirjallistuotteiden
+rinnalla. Mutta joskoki kirjallisuutemme taivahalta neron tähtiä
+välähtää harvinaisina pohjantulina silloin tällöin ja sieltä täältä,
+niin harvinaisia ne ovat muuallaki: "ainoasti vissi määrä neroa on
+kaiken ihmissuvun tarpeeksi pantu takavarikkoon, josta sitä lähetetään
+vähäisiä anteita maailman laveutta kiertämään sinne tänne johunkuhun
+pikkuseen nurkkaan -- niin hienoissa säteissä ja niin hirmuisen pitkillä
+matkoilla toisistansa, että ihmeteltävä on, kuinka ne riittyvät niin
+monien suurien ja kansarikasten valtakuntain tarpeeksi"[1]. Tästä
+takavarikosta on Suomiki saanut tarpeellisen osansa, kun vaan Suomen
+kansa aina osaisi ja ymmärtäisi sille antaa sen lemmen ja kunnian, jonka
+se ansaitsee.
+
+[1] Ks. nerosta Pohjassa Turun ruotsinkielisissä sanomissa, 1798
+vuosikerrassa, 33 n:ssa.
+
+Mutta sanottakoon Suomen kirjallisuutta köyhäksi ja vähä-arvoiseksi.
+Olkoon puhdas kansallinen osa siitä suuremmaksi osaksi käännöksiä ja
+mukailemia. Sen tuotteissa yleisesti, semmoisina kun ne ovat suomalaisen
+hengen viljelyksestä syntyneet ja nykyiseen aikaan säilyneet, löytyy
+jokaiselle kotimaan ystävälle ja sen omituisen sivistyksen harrastajalle
+paljo hyvää kätkettynä. Niiden kautta puhuvat esivanhempamme nykyisille
+ja tuleville suvuille Suomessa. Niistä nähdään heidän työnsä ja
+toimensa, heidän vaivansa ja kärsimyksensä, heidän tietonsa ja taitonsa,
+heidän hankkeensa ja aivotuksensa, heidän uskonsa ja toivonsa. Niiden
+kautta on sivistys saanut omituisen siansa Pohjassa. Niistä käy
+vastaamme oma kotimaallinen henki, joskoki ne kaikki eivät puhu oman
+kansamme kieltä. Niiden joukossa löytyy semmoisiaki kauniita ja kalliita
+tekoja, joiden omistamisen kuka kansa tahansa katsoisi kunniaksensa.
+Ruotsalaiset ovat myös tahtoneet omistaa niistä paraimmat osat heidän
+kielellänsä. Suomen kirjallishistorioitsijan velvollisuus on anastaa ne
+Suomen kansalle takasin. -- Sanalla sanottu: Suomen kirjallisuuden
+tuotteet ovat ne siemenet, joista uusi itu on muodostuva ja uusi kasvu
+nouseva. Niillä ei ole maailmanhistoriallista merkitystä, vaan niillä on
+sitä korkiampi arvo Suomen kansan sivistyksessä ja sen edistyksessä. Ne
+ansaitsevat sentähden historiansa yhtä hyvästi kun rikkaimpien ja
+voimallisempien kansain kirjalliset teokset.
+
+
+
+
+4:ksi Suomen Kirjallishistorian esityöt.
+
+
+Edellisestä on selvä kirjallisuudessa elävän lakastumattoman
+kasvinvoiman, niin kansallisessa kuin ihmiskunnallisessa katsannossa.
+Mutta kirjallisuuden vaikutus on sattumoinen, sen tuotteet ovat elämässä
+epävakaisuuden pyörivällä kannalla, ne voivat jäädä suuremmassa eli
+vähemmässä määrässä unohduksiin, ellei historia tule elähyttävällä
+valollansa herättämään niitä muistoon. Tämä myös tapahtuu välemmin eli
+myöhemmin kussaki maassa ja kansassa, sillä historian valvova silmä ei
+heitä mitäkään ansiollista ja arvollista katsomatta ja ilmisaattamatta.
+Tutkinto laskaikse nykyaikana kuolleiden tuhatvuotisiin kammioihinki
+tietoa hakemaan, niinkuin Wäinämöinen teki Wipusen vatsaan, kun puuttui
+veneen teennössä kolme sanaa[1]. Muiston temppelin rakennus jäisiki
+vaillinaiseksi, jos ei historiallinen tiede keräisi siihen lisiä
+jokaisen kansan elämästä.
+
+[1] Ks. Kalevalan uudesta painosta 17 ja vanhasta painosta 18 runoa.
+
+Tätä tärkeää velvollisuutta ei ole Suomessakaan peräti laiminlyöty. Aika
+ajoittain on kirjallisuutemmeki tuotteita otettu tutkintoon ja saatettu
+ilmiin, ehkä suurin osa niistä vielä odottaa likempää tarkastusta ja
+täydellisempää esitystä. Tarpeellisia esitöitä löytyy kuitenki, joiden
+johdolla ei ole vaikia käydä käsin yleisempään työhön Suomen
+kirjallisuuden kirjavalla kedolla. Jotkut niistä ovat tavallansa sangen
+valaisevat, muutamat taas niin painavasta arvosta, että niiden kaipaus
+miltei estäisi tahi vähintäki myöhistäisi pitkään aikaan varsinaisen
+historian yrityksen kotimaamme kirjallisuudesta. Näin ollessa on näistä
+esitöistä, jotka voidaan jakaa kahteen erilajiin: *apuihin* ja
+*luetteloihin*, suurimmalla kiitoksella puhuttava. Näitä paitse, saadaan
+Suomen kirjallisuuden tuotteista *osoituksia* ja *tietoja* monista
+muistaki kirjoista, niinkuin esm. Suomen muistettavain miesten
+elämäkerroista, tieteellisten ja muiden seurain vuosikertomuksista,
+sanomalehdistä j. n. e., joiden arvo kirjallishistoriallisessa suhteessa
+ei myöskään ole unohdettava.
+
+Kirjallishistoriallinen toimi ei ole Suomessa vanha. Täydellisyyden
+vuoksi seuraa tässä kuitenkin yleinen silmäilö mainitussa
+tarkoituksessa, alkaen Suomen kansan hämärästä muinaisuudesta ja
+päättyen nykyaikaan. -- Ne kirjoitukset, jotka *suorastaan* ovat
+kirjallishistoriallisia, eli joista saadaan *laviampia tietoja* Suomen
+kirjallishistorialle, merkitään erityisesti omalla nimellänsä sivujen
+alapuolella.
+
+       *       *       *       *       *
+
+1. Suomen kansan muinas-ajasta ei ole minkäänlaista silloin kirjoitettua
+muistomerkkiä odottaminen. Esivanhempamme eivät tunteneet
+kirjoitustaitoa, ehkä heillä näkyy siihen olleen joku vaillinainen alku.
+Tämä voidaan päättää siitä, että kielessämme löytyy perijuureltansa
+suomalaisia sanoja, joilla nykyaikana merkitään kirjallisia asioita ja
+toimituksia, niinkuin esm. *kirja*, *kirjoittaa* j. n. e. Tämmöiset
+sanat, niinkuin myös esm. *saarna* ja *runo*, ovat antaneet suomenkielen
+tuntijoille arveluja, mistä ne ovat kotoperäisin; niitä on koetettu
+johtaa sekä omasta, että muistakin kielistä, niinkuin esm. hepreasta,
+kreikasta, islannista ja venäjästäki[1]. Syitä löytyy pitää niitä Suomen
+kansan omina.
+
+[1] Ks. esm. P. Juustenin Ajantietoa (= Chronicon) (Porthan), s. 67, 68;
+niinmyös Porthanin historiaa Yliopiston kirjastosta, s. 3;
+väitöskirjoitusta: Historiola concium sacrarum fennicarum (Tulindberg),
+s. 2. 1781. -- Joh. Ihren glossariumissa puhutaan sanasta *runa*, josta
+saadaan valoa suomalaiselleki sanalle *runo*.
+
+Mutta vaikka Suomen kansa ei tuntenut entis-aikanansa kirjoitustaitoa,
+on se kuitenki muiston kautta säilyttänyt runossa ja sadussa paraimmat
+mielipitonsa ja merkillisimmät asiansa muinaisuudesta. Isänmaanrakkaus
+on pelastanut ne unohduksesta, ja sillä tavoin on Suomen kansallaki
+muinaskirjallisuus.
+
+       *       *       *       *       *
+
+2. Vasta kristillisyyden seurassa siirtyi kirjoituksen hyödyllinen taito
+Suomeen, ja on siitä ajasta ei ainoastaan pysynyt, vaan myös levinnyt ja
+vaurastunut rajaimme sisällä. Tunnettu on sen tulleen tänne keskiajalla.
+Niinkuin muissakin Europan maissa, harjoitettiin Suomessaki sinä
+aikakautena oppia ja kirjoitusta luostareissa. Turku, Naantaali ja
+etenki Rauma ovat tämän suhteen muistettavat. Maamme ensimäiset
+kirjamiehet olivat munkit ja papit. Heidän kirjallinen toimensa ja
+ansionsa ei kuitenkaan ole suuren suuri, eikä siitä paljo tiedetä.
+Ruumisten pääkallotkin ovat luostareimme paikoilta kadonneet. Niistä ei
+ole vahinkoa, kunhan vaan edes se, mitä niiden sisästä elämässä lähti,
+olisi säilynyt. Mutta tulipalot ja vihollisten kauhiat menetykset ovat
+tämän suhteen tehneet suuria hävityksiä Suomessa melkein joka
+vuosisatana. Ei myöskään se muuten jaloja kiitetty Ruotsin ja Suomen
+kuningas 1:n Kustaa säälivällä kädellä kohdellut paavin ajan
+kirjallisiakaan muistoja valtakunnassansa. Tallella on kuitenki tästä
+ajasta yhtä ja toista, niinkuin esm. Suomessa käytetty latinainen
+messukirja (pain. 1448), Palmsköldin palanen (= fragment) j. m. Erittäin
+mainittakoon tässä sen aikanen mustakirja, joka tietysti on ensimäinen
+kirjallinen keräys Suomessa historiallisesta arvosta. Papit kun
+halusivat voimassa pitää maallisia etujansa ja oikeuksiansa, panivat
+tähän kirjaan kätköön ja muistoon kaikellaisia Suomen kirkkoa ja valtaa
+koskevia paavillisia, pispallisia ja hallinnollisia kuulutuksia,
+julistuksia ja muita kirjeitä (v:sta 1229 veteen 1513). Tämän
+niinkutsutun Turun tuomiokirkon mustankirjan tarkoitus oli siis
+päinvastainen samannimisiä kirjoja nykyaikana.
+
+       *       *       *       *       *
+
+3. Uskonpuhdistuksen hedelmällisin vaikutus Suomessa oli ensivuosisatana
+kieltämättä kirjallinen. Pispa Martti Skytte on tämän suhteen hankkinut
+itsellensä kunnioitetun nimen ja muiston. Hänessä sanotaan kyteneen
+vanha katolinen usko[1], josta syystä hän itse ei suorastaan paljon
+auttanut aljettuin uusien asiain menoa kotimaassamme. Mutta hänen
+toimestansa ja hänen (siis Suomen) omilla varoilla oleskeli tänä aikana
+opin halullisia suomalaisia miehiä ulkomailla, paraasta päästä
+Wittenperissä Luteria ja Melantonia kuulemassa. Palattuansa jatkoivat
+paremmalla taidollansa uskonpuhdistuksen suurta asiaa Suomessapa tekivät
+sen syvemmällä tiedollansa vakinaiseksi maamiestensä sydämissä. Näiden
+joukossa ovat Mikael Agrikola ja Paaval Juusten kiitettävimmät
+kirjallisenkin ansion puolesta. Omituiseksi saattaa sitä sattumusta
+katsoa, että sen miehen teoissa, joka ensiksi toimitti suomenkielisiä
+kirjoja painosta, ja joka niinmuodoin perusti kansalliskirjallisuutemme,
+tavataan myös ensimäinen luetteloinen suomalaisen kirjallisuuden
+senaikaisista vähäisistä tuotteista. Se löytyy Agrikolan alkupuheessa
+Taavetin psaltariin. Tämä luetteloinen on Suomen
+kirjallishistoriallisten kirjoitusten joukossa niinkuin hienoinen valon
+viiva yön synkästä hämäryydestä aamun alkavaan koittoon.
+
+[1] Ks. Suomen muistettavia miehiä (Finlands minnesvärda män), 1:n
+siteen 1:stä vihkoa, s. 134.
+
+Ulkomaillakin otetaan tänä aikana Suomen asioita kirjalliseen puheesen.
+Baselin kaupungissa painetaan Herran rukous suomeksi[1], ja luetellaan
+ne suomalaiset miehet, jotka Wittenperissä olivat saaneet
+majisterinseppeleen[2]. Romissa toimittavat ruotsalaiset veljekset
+Johannes ja Olaus Magnus tunnetut historiansa Pohjan maista ja
+kansoista; jälkimäinen puhuu Suomen runoistakin[3]. Kotimaassa on
+Juusten ensimäinen nimeksi tunnettu Suomen historioitsija. Mainittakoot
+tässä myös Aaron Forsius ja Johannes Messenius, joiden elämän vaiheet
+katkerasti muistuttavat Ruotsin hallituksen väärää käytöstä alamaisiansa
+kohtaan. Kumpaisetkin olivat aikansa oppineimpia miehiä, kumpaisetki
+saivat syyttömästi kärsiä vankeuden pimeää ja yksinäistä elämää, ja
+kumpaisetkin ovat kirjoittaneet Suomen maasta ja kansasta.
+
+[1] Ks. Valtaneuvos Pippingin Luetteloa suomeksi präntätyistä kirjoista,
+s. 2. -- Herran rukousta on suomeksi ruvettu ja totuttu latinan mukaan
+sanomaan "*Isämeidäksi*", mutta *Isämme* se oikein on.
+
+[2] Ks. Wieselgrenin Ruotsin kaunokirjallisuutta, 3:n osan 115 s.
+
+[3] Ks. G. Seinin Suomen asiain kirjoittajia (De rerum fennicarum
+scriptoribus), 17 s.
+
+       *       *       *       *       *
+
+4. Yliopiston perustus on uskonpuhdistuksen jälkeen suurin, onnellisin
+ja seurantorikkain tapaus Suomessa. Se toi tieteet maahamme, ja teki ne
+kotiperäisiksi meidän kylmillä seuduilla. Sen kautta rupesi Suomen
+silmä-ala laajenemaan sekä ulkonaisesti että sisällisesti. Se yhdisti
+tieteiden siteillä Suomen kansan muihin sivistyneihin kansoihin
+Europassa. Se oli tieteellisen valon ensimäinen koitto pimeässä
+Pohjolassa. Vahinko vaan, että se perustettiin kielen vuoksi
+muukalaiselle kannalle; mutta kukapa silloin ajatteli Suomalaisista
+muuta kun että ne kuuluivat Ruotsiin niinkuin muu loisväki.
+
+Kohta Yliopiston perustettua saatiin kirjapainoki toimeen Auran
+rannalle, ja koko Pipliä painetaan ensi kerran suomeksi -- ei kuitenkaan
+omassa maassa. Ajan hengellistä luontoa ja menoa myöten hallitsi
+uskontiede aivan painavasti muita tieteitä uudessa Yliopistossamme.
+Pispa Terseruksen riita ylistää hänen vapaamielistä valistustansa tänä
+yksipuolisuuden aikana, joka ei ole vieläkään peräti kadonnut Suomen
+rajain sisältä. -- Yliopistoa mainitessa -- ken ei muistaisi Pietar
+Brahen kiitettyä nimeä? Unhottaa ei myöskään saa nimiä Rothovius ja
+Gezelius, joiden ansio Suomen kirkollisessa ja kirjallisessaki
+katsannossa on suuri. Historia tietää puhua heidän vioistansaki.
+
+Suvaittiin kuitenki muitakin opin haaroja Suomen nuoressa Yliopistossa,
+kunhan niillä ei vaan loukattu kirkon uskoa. Sen kanssa sointui
+kielitiede hyvin yhteen. Latina, kreikka ja heprea -- ne tuuhottivat
+niinkuin vanhan hongan latva. Oppineet eivät muita kieliä keskenänsä
+tarvinneet. Kansain nuoret kielivesat kasvoivat vapaassa elämässä
+niinkuin menniköt ahon viheliäisillä rinteillä. Vähitellen rupeevat ne
+tunkeumaan -- ei oppisaleihin, vaan ensiksi oppineitten hiljaisiin
+kammareihin. Suomenki kieli oli jo ennen Yliopiston perustusta saanut
+kunnian nousta latinan, ruotsin ja saksan rinnalle sanakirjoissa.[1]
+Rohvessor Eskil Petræus on ensimäinen, joka hallituksen käskystä
+toimitti suomesta vaillinaisen kieliopin. Ahkera kirjamies Mikael Olaus
+Wexionius jouti tutkimaan Suomenkin asioita; hän on kirjoittanut myös
+Yliopiston senaikaisesta köyhästä kirjastosta[2] ja äitimme kielestä.
+Mathias Martinus seuraa paraasta päästä Petræusta suomalaisessa
+tienosoittajassansa. Kaikki nämät miehet puhuvat vähäisen Suomen
+runo-mitastakin. -- Rohvessor Eero Justander on ensimäinen, joka palkan
+edestä kääntää hallituksen kuulutuksia ja julistuksia suomeksi; mutta
+tokkopa hänellä, yhtä vähän kun hänen jälkeläisillänsäkään, lienee
+siihen virkaan ollut minkäänlaista vahvistuskirjaa. Epäilemättä on tämä
+virka kuitenki mitä tärkeimpiä Suomessa olla taitaa. -- Petræuksen
+avittajat Piplian suomentamisessa olivat rohvessori Martti Stodius,
+Maskun kirkkoherra Henrik Hoffman ja Piikkiön kirkkoherra Krekori
+Favorinus. -- Paimion kirkkoherra Henrik Matheus Florinus parantaa
+Piplian suomennoksen alkukielen jälkeen. Hän suomensi 1686 kirkkolain,
+ja hänen huolensa kautta tuli painosta 1702 ensimäinen kokous Suomen
+kansan sananlaskuja, joita 17 vuosisadalla Tammelan kirkkoherra Lauri
+Pietarinpoika ja Lohjan kirkkoherra Kaapriel Tammelin olivat keränneet.
+
+[1] K. esm. A. I. Arvidssonin (Rühsin) Suomea ja sen asujamia (Finland
+och dess innevånare), 2:n osan 81 s.
+
+[2] Yliopiston kirjastossa oli silloin 20 nidettä.
+
+Taneli Juslenius näkee kaksi sotaa myrskyvän Suomessa, joista toinen on
+ijänkaiken hirmuinen muistaa. Sen alussa kirjoitti hän vanhan ja uuden
+Turkunsa (Abo vetus et nova), jossa koskee Suomen kirjallisuuttaki.
+Kynäilee muistaki kotimaan asioista ja kärsimyksistä. Suurin tekonsa on
+"Suomalaisen Sana-lugun koetus", jonka alkulauseesta saadaan
+kirjallishistoriallisiaki tietoja. -- Jusleniusta voidaan kirjallisessa
+toimessansa verrata hänen aikalaiseensa pispa Svedbergiin Ruotsissa,
+joka myöski teki sanakirjan maansa kielestä. Jusleniuksessa ei
+kuitenkaan elänyt niin innollista isänmaanrakkautta kuin Svedbergissä,
+joka oli niin vimmattu äitinsä kielen hyväilijä, että päätti sillä
+virsiä taivaassakin veisattavan[1]. -- Ilmajoen kirkkoherra Vhael alkoi
+tehdä täydellisen kieliopin suomesta, mutta kuolema keskeytti hänen
+tästä työstä; hänen leskensä painetti siitä niin paljon kuin oli
+ennättänyt valmistua.
+
+[1] Ks. Jesper Svedbergin "Schibbolethia", pain. Skarassa 1716;
+esipuhetta. -- S. oli pispa Skarassa, jonka pispan istuimella
+Jusleniuski vihdoin kuoli, heitettyänsä isänmaansa, sodan pelosta.
+
+Ensimäinen Suomen kirjallishistoriallinen teos painettiin Tukholmissa
+v:na 1719. Se on latinainen, niinkuin usiammat senaikaiset kirjat;
+suomennettuna on sen nimi: kirjallinen Turku[1]. Sen tekijä oli *Andreas
+Antonius Stjerman*, jonka Wieselgren sanoo kuuluvan "jättiläissukuun"
+Ruotsin kirjallisuudessa. Hänen kirjallinen Turkunsa ei ole lavia; se
+sisältää lyhykäisiä elämänkertoja Turun rohvessoreista, ja luettelee
+heidän kirjalliset tekonsa.
+
+[1] Abo Litterata, Holmiæ; 1719.
+
+"Ison vihan" perästä jatketaan enemmin ja enemmin kotimaallisten
+aineiden tutkintoa ja esitystä. Nimet Scharin, Mennander, Gadd, Kalm,
+Bilmark y. m. ovat tunnetut. Suomenkielinen kirjallisuus karttuu
+niinkutsutuilla hengellisillä kirjoilla. Aapram Achrenius ja Tuomas
+Ragvaldinpoika ovat 18 vuosisadan ahkerimmat kynäilijät suomeksi. Tätä
+kieltä suositellaan Yliopistossaki; väitöskirjoitukset varustetaan
+suomalaisilla runoilla "onnentoivotukseksi", "corkiast oppenelle" "herr"
+"candidatille", "auctorille", "respondentille", "rackalle svogerille"
+tahi muulle "ystävälle", kun "surella cunnialla jutteli", "urhollisest
+taisteli" eli "miehulisest edes vastaisi" "caunista työtänsä" Yliopiston
+oppi-istuimelta. Siitä ei suomen kieli paljon hyötynyt.
+
+       *       *       *       *       *
+
+5. Kahdeksannentoista vuosisadan viimeiset kymmenluvut ovat yleensä
+Europassa monin tavoin edellisiä aikoja merkillisimmät. Kansalliset
+liikkeet ja hakemukset lukevat niistä ajoista näkyväisen alkunsa.
+Tieteet muuttavat vähitellen muotonsa. -- Ruotsi suri vielä suuria
+tappioitansa, ja poti edellisten sotain verisiä haavoja. Se oli
+menettänyt suurimman osan entistä valtaansa. Siitä seurasi ulkonainen
+voimattomuus, ja se käänsi Ruotsalaisia enemmin ja enemmin katsomaan ja
+tarkemmin hoitamaan sisällisiä asioitansa. Tämmöinen riento havaitaan
+kirjallisuudessaki; III:s Kustaa antoi sen runolliselle osalle vilkkaan
+menon ja eloisan liikkeen.
+
+Myöski Suomen sivistyshistoriassa alkaa uusi aikakausi viime vuosisadan
+loppupuoliskolla. Edellisen ajan vähäiset hankkeet kotimaan sisällisen
+tilan ja muinaisuuden tutkimisessa varmistuvat. Ruotsalaisten esimerkki
+koitui Suomenkin oppineihin. Kuningas III Kustaan aikakauteen kuuluvat
+Creutz ja Choræus. Porthanin nero ja isänmaanrakkaus asetti Suomen
+historian tutkinnon entistä verrattoman paremmalle ja selkeämmälle
+kannalle. Tämä ikimuistettava mies syntyi ja kasvoi Suomen kansan
+historialliseksi silmäksi, jonka terävyys ja tarkkuus ei heittänyt juuri
+mitäkään kotimaallista katsomatta. Porthan oli monitietävä mies, josta
+syystä hän vaikutti monenpuolisesti tieteellisen ja kirjallisen elämän
+menestykseen Yliopistossamme. Mutta paraimman ja katoomattoman
+muistopatsaan nosti hän itsellensä Suomen historian ja kielen
+tutkimisella. Jos Porthan epäili Suomen kansan tulevaisuudesta, niinkuin
+on sanottu, niin hän on juuri itse se mies, joka antoi tämän
+tulevaisuuden toivolle varmemman vakavuuden. Hän valaisi kirkkaasti
+Suomen muinaisuutta, ja sen kautta on Suomen tulevaisuuski hänen
+perästänsä käynyt selkeämmäksi ja varmemmaksi. Porthanin ajasta kasvavat
+kansalliset hakemukset Suomessa.
+
+Kirjallishistoriallisessa katsannossa ovat seuraavat kirjoitukset
+Porthanilta tärkeimmät: suomalaisesta runollisuudesta, josta tuli vaan 5
+vihkoa (väitöskirjoitusta)[1]; *historiainen suomalaisista saarnoista*,
+2 vihkoa[2]; *ajatuksia runollisuuden harrastamisen ja kukoistuksen
+autannosta isänmaassa*[2]; *historia Yliopiston kirjastosta ja lisiä
+siihen*, yhteensä 25 vihkoa[3]; ja *Yliopiston rohvessoreista*, 3
+vihkoa[4]. Myöskin muista Porthanin kirjoituksista saadaan Suomen
+kirjallishistoriallisia tietoja, niinkuin esm. Juustenin ajantiedosta (=
+Chronicon), joka Porthanin muistutuksista ja lisistä on saanut paraimman
+arvonsa.
+
+[1] De poesi fennica, Ab. 1766--1768. P. I--V.
+
+[2] Historiola Concionum sacrarum fennicarum, Ab. 1781.
+
+[3] Cogitationes qvædam de studio et flore poëseos in patria juvando.
+Ab. 1781.
+
+[4] Historia bibliothecæ regiæ Academiæ Aboensis, Ab. 1771--1787. P.
+I--XXIII; Apendix ad historiam bibl. reg. Acad., Ab. 179S5. P. I--II.
+
+Bilmarkin nimi on jo mainittu; hän on ahkera esimies väitöskirjoituksia
+tarkastettaessa. -- Mathias Caloniuksen nero ja oppi täyttää yksinänsä
+lakitiedekunnan velvollisuuksia Suomen Yliopistossa; kertomuksessansa
+Yliopistosta puhuu hän kirjastostaki[1]. -- Lencqvist, Ganander ja
+Frosterus ovat myös muistettavat. V:na 1770 alkoi Auroranliittokunta
+vaikutuksensa; sen perustajat olivat Porthan ja Clewberg. Hedelmä sen
+toimesta oli ensimäinen sanomalehti Suomessa, seuraavana v:na 1771;
+nykyinen ruotsinkielinen sanomalehti Turussa Åbo Tidningar lukee siitä
+perijuurensa. V:na 1776 koetetaan toimittaa "Suomenkielisiä
+tietosanomia", mutta tilaajain puutteesta lakkaavat yhdestä vuodesta[2]
+*Pietar Juhana Alopæus* rupee yleisemmästi tutkimaan Suomen kirjallisia
+asioita alusta pitäen, mutta ei ennätä pitkälle; hän kirjoittaa myös
+harvinaisista kirjoista yleisesti, jonka ohessa kertoo Suomenki
+kirjallisuuden kasvuja[3]. Samaan aikaan tutkitaan Ruotsissa sen maan
+kirjallisia seikkoja Upsalan Yliopistossa. -- Er. Mik. Fant on ahkera
+väitösten toimittaja Upsalassa, ja G. F. Fant kirjoittaa katkismuksista
+Ruotsissa[4]. *J. H. Lidén* luettelee Turun Yliopiston
+väitöskirjoituksia vuoteen 1779[5].
+
+[1] Ks. Suomea, 1845.
+
+[2] Ks. Kirjallisuuslehteä (Litteraturbl.), 1853, 11 n:roa.
+
+[3] Specimen historiæ litterariæ fennicæ, Ab. 1793--1795. P. I--IV;
+Animadversiones de libris raris, Ab. 1791--1792.
+
+[4] Minulla ei ole ollut tilaisuutta nähdä tätä hänen kirjoitustansa,
+mutta siinä kuulutaan puhuttavan suomalaisistaki katkismuksista.
+
+[5] Catalogus dispp. Sect. III. Upsal. 1779.
+
+Uusi vuosisata on alkanut. Porthan nukkuu kuoleman uneen. Yliopisto
+pukeikse huolihurstiin, Suomi suree ja J. Tengström tulkitsee latinaksi
+maamiesten kaipaustuntoja Porthanin haudalla. Europan sodan pauhut
+viskaavat kuohuvat aaltonsa Pohjaanki -- Suomi eroitetaan Ruotsista, ja
+jää enemmin kuin sitä ennen omiin nojiinsa sivistyksensä
+harrastamisissa. Franzén jättää syntymämaansa, jättää Auran
+muistorikkaan kaupungin, jossa on runoillut ja tiedoitsinut. Suomen oma
+on hän kuitenkin.
+
+Nerot vaikuttavat kuoltuansakin. Porthanin henki elää, kasvaa ja
+selkenee itsetietävämmäksi Suomenmaan oppineissa. -- *Renvall* tutkii
+suomenkieltä, väittää isänmaan historian opettamisen tarpeellisuudesta
+Suomen kouluissa, ja antaa tietoja[1] äitinkielen edellisistä
+tutkinnoista; suurin ja parain tekonsa on Suomalainen Sanakirja.
+*Wallenius* kertoo niistä Suomen miehistä, jotka ovat saaneet korkeimman
+oppiarvon, ennen Yliopiston perustusta[2]. *F. W. Pipping* asettaa
+tieteellisen toimensa kotimaalliselle kannalle, väitöksillänsä
+Yliopiston kirjaston hoitajista[3]. Niinmyös *J. J. Tengström*, joka
+antaa väitöksiä kreikankieltä taitavista Suomalaisista[4].
+Aikakirjaisessa Aura esittää Suomen kirjallisuuden ja sivistyksen
+esteitä, joita selittäessä valaisee senaikaisia tuumia Suomen maasta ja
+kielestä[5]. Päin vastoin näitä tuumia lausuu pari vuotta sen jälkeen
+*A. I. Arvidsson* jalosti ja vapaamielisesti suomalaisen kansallisuuden
+ja kielen oikeuksista Turun Aamulehdessä. Sen toimittaminen kielletään
+kolme kuukautta ennen ensivuosikerran loppua. Arvidsson kirjoittaa vielä
+sanomassa Mnemosyne senaikaisista puuttuvaisista asioista Suomessa ja --
+hänen täytyy muuttaa Ruotsiin. Siellä kääntää ruotsiksi, lisää ja
+parantaa Rühsin saksalaisen historian Suomesta ja sen asujista[6].
+Kirjallinen toimensa vieraassa maassa on todistanut, ettei tämä kiitetty
+maamiehemme ole unohtanut Suomen kansan sanalaskua: *oma maa mansikka,
+muu maa mustikka*. Toinen kiitetty maamies ja syvä tiedoitsija *A. J.
+Sjögren* antaa Pietarissa lyhyen ja valaisevan kertomuksen saksaksi
+suomalaisesta kielestä ja kirjallisuudesta[7]. *R. v. Becker* toimittaa
+Turun Wiikko-sanomia[8], ja vaikuttaa sen kautta tarpeellisen
+puhdistuksen äitimme kielen kirjoittamisessa; tarkastaa Mnemosynessä
+Strahlmanin saksalaista suomenkielioppia ja laatii itse paremman
+semmoisen ruotsiksi. *C. N. Keckman* tekee ensimäisen täydellisen
+luettelon suomalaisista kirjoista[9]. *I. H. Lagus* alkaa Suomen kirkkoa
+koskevain kirjoitusten julkasemisen[10]. *C. A. Gottlund* väittää Suomen
+kansan sananlaskuista Upsalassa ja painattaa Otavan Tukholmissa[11].
+Kirkkoherra Strandberg toimittaa Turun hippakunnan paimenmuiston
+(Herdaminne 1832). Topelius, Judén, Renqvist y. m. kartuttavat
+suomalaista kirjallisuutta. H. R. v. Schröter tekee Suomen runoja
+tutuiksi ulkomailla.
+
+[1] De signis relationum nominalium in lingva fennica, P. I--VIII, Ab.
+1815--17; (ks. I:n osan 7--9 s.); (de studio historia; patriæ in scolis
+Finlandiæ colendo, Ab. 1813; -- Suomen historia jäi kuitenki kauvaksi
+aikaa laimiin kouluissamme); Renvallin sanakirja tuli painosta 1826; sen
+alkulauseessa kerrotaan edellisistä suomalaisen sanakirjan tekijöistä ja
+avittajista.
+
+[2] De Fennis summos in philosophia honores ante cond. Acad. Aboens.
+adeptis. P. I--II Ab. 1810.
+
+[3] De Bibliothecariis Ac. Ab P. I--XX. Ab. 1813--1827; jatkoa osoittaa
+viimeisessä osassa, joka väitettiin Heinäkuun 2 p:nä, yksinäinen sana
+"sed" = mutta - - - Turku paloi Syyskuun 4 ja 5 p. samana vuonna.
+
+[4] De viris in Fennia peritia litterarum græcarum claris. P. I--VIII.
+Ab. 1814--1821; yksinäinen sana "*adeo*" viimeisessä osassa osoittaa
+tästäki väitöksestä jatkoa, mutta sitä ei ole tullut. Niinkuin muutki
+tämän historiamme tutkinnossa kiitetyn tiedoitsijan kirjoitukset,
+sisältävät nämät väitökset enemmän kun nimitys lupaa.
+
+[5] Om några hinder för Finlands litteratur och cultur, Aura 1817--1818.
+Tässä kirjoituksessa (73 ja 76 s., 1817) tuumitaan, ettei *yhtä ainoata
+kieltä* osaa eikä pidä toivoa maamme valtakieleksi. Kansan sivistyksen
+tähden kehoitetaan kuitenki tutkimaan suomenkieltä, ja oppineitten
+tähden keräämään unohduksesta Suomen kansan runoja, lauluja j. n. e.
+Suomenmaata päätetään liian pieneksi kannattamaan itsenäistä elämää ja
+omaa kirjallisuutta. Saadaan myös tietä Ruotsalaisten antaneen Suomen
+asiain tutkijille ja harrastajille soimaus-nimen Suomavimma (=
+Fennomani), joka siis on Ruotsista kotoperäisin.
+
+[6] Finland och dess innevånare, af Friedr. Rühs. Öfversättning. Andra
+Upplagan, tillökt och omarbetad af Adolf Ivar Arvidsson. Stockholm 1827.
+-- Tämän kirjan toisessa osassa (s. 66--87) puhutaan Suomen
+kirjallisuudesta ja kielestä.
+
+[7] Ueber die finnische Sprache und ihre Literatur. Vom D:r And. Joh.
+Sjögren. St. Petersburg. 1821.
+
+[8] Turun Wiikkosanomat alkoivat 1820 ja lakkasivat 1827. Beckerin
+kielioppi tuli painosta 1824.
+
+[9] Förteckning å härtill veterligen tryckta Finska skrifter, Åbo 1821.
+
+[10] Handlingar till upplysning i Finlands kyrkohistoria. 3 nidettä
+1821, 1823 ja 1830.
+
+[11] De proverbiis fennicis, P. I. Upsala 1818. -- Otava näki päivän
+valkeuden, 1:n osa v:na 1828, 2:n osa 1832.
+
+       *       *       *       *       *
+
+6. Oma aikamme lähestyy. Tuskin olivat Turun tulipalon hiilokset
+sammuneet, kun tieteet saavat uuden paikan Suomen uudessa
+pääkaupungissa. Kotimaalliset hankkeet tieteissä, taiteessa ja
+kirjallisuudessa kiihtyvät ja vahvistuvat. Erittäin arvaamattomasta
+arvosta ja rikkaasta hedelmällisyydestä on *Suomalaisen Kirjallisuuden
+Seuran* perustaminen. Se on se keskus, jonka ympärillä ja jonka kautta
+isänmaanrakkaus on voinut harrastaa ja toimittaa suomalaisen
+kansallisuuden kalliimpia asioita ja pyrkimisiä. Tämän seuran
+aikakirjasta Suomi nähdään, kuinka Suomen historian tutkinto on
+kasvanut, ja kuinka myös kirjallisuutemme tuotteita on enemmin ja
+enemmin tarkastettu ja ilmisaatettu. Niinmyös sen vuosikertomuksista ja
+toimituksista. Suomen kansan lempi, kiitos ja kunnioitus on niiden
+miesten palkinto, jotka tämän seuran perustivat, ja jotka sen toimea
+ovat auttaneet. Tämän suhteen ei tarvitse Elias Lönnrotin nimeä
+erityisesti mainita. Jos Porthan ojensi historiamme tutkinnon oikialle
+tielle ja valaisi muinaisuuttamme, niin Lönnrot on se, joka
+täydellisesti on ilmisaattanut ja pelastanut tämän muinaisuuden. Sen
+kautta on myös se perustus rakennettu, jolla suomalainen kansallisuus ja
+sen tulevaisuus seisoo varmempana kun milloinkaan sitä ennen.
+
+Suomen kirjallishistoriallista ovat seuraavat miehet kirjoittaneet
+viimeisillä kolmella vuosikymmenillä:
+
+*Lönnrot, E.*: väitti jo Turussa Wäinämöisestä; puhuu Suomen kansan
+runoista ja lauluista Kalevalan ja Kantelettaren alkulaiseissa[1];
+sananlaskuista ja arvoituksista niiden alkulaiseissa[2], ja Suomessa[3];
+Suomen virsikirjallisuudesta[4] ja Kalevalan uudesta painoksesta
+kirjallisuuslehdessä[5]. Mehiläisessä löytyy lyhyt kertomus
+suomenkielisistä sanomalehdistä, ja uusista virsistä, kirkossa ja kotona
+veisattavista[6].
+
+[1] Kalevalan 1:n painos painettiin 2:ssa osassa 1835, toinen 1849;
+Kanteletar 3 osaa 1840;
+
+[2] Sananlaskut 1842; Arvoitukset 1851. -- Kaikki Suomal. Kirjall.
+Seuran kustannuksella. --
+
+[3] Om finska ordspråk och gåtor, Suomi 1841 --
+
+[4] Psalmografi, Litteratnrbladet, 1847, n:ro 8. --
+
+[5] Om den nya under arbete varande Kalevala editionen, Litteraturbl.,
+1848, n:ro 12 ja 1849, n:ro 1 ja 3. --
+
+[6] Ks. Mehiläistä, 1837, Elokuulta, suomenkielisistä sanomalehdistä, R.
+Tiilonen, ja uusista virsistä X.
+
+*Pipping F. W.*: suurin ja arvollisin uhrinsa kotimaan kirjallisuuden
+altarille on "Luettelo suomeksi präntätyistä kirjoista, kuin myös
+muutamista muista teoksista, joissa löytyy joku kirjoitus Suomen
+kielellä, tahi joku johdatus sitä tuntemaan"[1]. Tämän teoksen nimestäki
+jo huomataan sen suuri kirjallishistoriallinen arvo. Sitä mainitessa
+johtuu *Matti Pohto* itsestään jokaisen Suomalaisen mieleen. -- Pipping
+on myös kirjoittanut Suomen kirjapainoista Suomen tiedeseuran
+toimituksissa[2].
+
+[1] Förteckning öfver i tryck utgifna skrifter på finska, 1856--1887
+Suomal. Kirj. Seuran kustantama. -- Matti Pohto oli tämän teoksen suurin
+avittaja. Hän ei saanut nähdä sen valmistumista; vähää ennen sen
+ilmituloa surmattiin tämä erinomainen mies matkalla Pietariin, jonne oli
+menossa suomalaisia kirjoja kuulustamaan ja etsimään. --
+
+[2] Några historiska underrättelser om Boktryckeriet i Finland, 1840,
+1844, 1846.
+
+† *Tengström, J. J.*: tämän tiedoitsijan kotoaineellisista teoksista
+valuu arvollisia apuja kirjallishistoriallemme. Etunenässä ovat tämän
+puolesta mainittavat hänen ajantiedolliset luettelonsa Suomen Yliopiston
+varakanslereista, tiedekuntain jäsenistä ja apulaisista[1]. Tämä kirja
+ei sisällä ainoastaan runsaita lisiä Suomen tieteellisen ja kirjallisen
+sivistyksen historialle, vaan on itseki jommoinenki semmoinen historia.
+Sen lopulla puhutaan erityisesti kansalliskirjallisuudestamme. Helsingin
+Aamulehdessä, joka pari vuotta takaperin uupui elämästä, on Tengström
+esittänyt sen vahingon, jonka Yliopisto kotimaan historian lähteiden ja
+tieteellisten keräysten suhteen kärsi Turun tulipalon kautta[2].
+Aikakirjaan Suomeen on antanut maamme kirjallisuutta koskevan otteen A.
+Stjermanin svio-gotilaisesta kirjastosta, ja Caloniuksen ennen mainitun
+kertomuksen Yliopistosta[3].
+
+[1] Chronologiska Förteckningar och Anteckningar, j. n. e. 1836. --
+
+[2] En blick tillbaka på den förlust af inhemska historiska källor och
+vetenskapliga samlingar, hvilka vid Åbo brand 1827 drabbade Finska
+Universitetet och Fosterlandet. Helsingfors Morgonblad 1836, n:ro 3--9.
+--
+
+[3] Utdrag af Stjermans Bibliotheca Svio-Gothica, 6:te tomen,
+innehållande Finlandia Litterata, Suomi 1844; Calonii relation om Åbo
+Academi 1783, Suomi 1845.
+
+*Rein, G.*: on tutkinut ja kirjoittanut enemmän Suomen historiaan ja
+tilastoon kuuluvia aineita, vaan on antanut valaisevia lisiä
+kirjallishistoriallemmekin. Jo Turussa väitti Suomen asiain
+kirjoittajista[1]. Teki siitä sittemmin otteen, ja jatkoi samaa ainetta
+Porthanin aikaan, aikakirjassa Suomi, jossa puhuu myös
+kansalliskirjallisuutemme kasvannosta ja sen autannosta[2]. On
+Yliopiston rehtorina antanut kertomuksia sen hallituksesta ja toimesta,
+y. m.
+
+[1] De rerum fennicarum scriptoribus ant. cond. Acad. Åbo P. I--IV. Ab.
+1828. --
+
+[2] Bidrag till finska häfdeforskningens historia, Suomi 1841--1843. --
+Om nalionallitteraturens i Finland utveckling, och nödvändigheten af
+dess vidare bearbetning, Suomi 1842.
+
+*Hällsten, J.*: on laatinut väitöksen kirjallisuuden vaiheista Suomessa
+keski-aikana[1]. Se sisältää yleisiä silmäyksiä Ruotsalaisten
+valloitusretkistä Suomeen v:n 1157, 1249 ja 1293, ja maamme luostareista
+ja kouluista, jonka ohessa senaikaiset vähät kirjalliskasvut luetellaan.
+
+[1] Fata, quæ fuerunt literarum in Fennia medio ævo adumbratura. 1837.
+
+*Rabbe, F. J.*: on toimittanut luetteloita Suomen kirjallisuuden
+tuotteista, ja sen kautta paljon huojentanut kirjallishistoriamme
+matkaansaantia. Ne ovat: luettelo koto-aineellisista kirjoituksista
+Turun sanomissa 1700 vuosiluvulla; niinmyös v:sta 1800 v:teen 1709, ja
+sanomassa Mnemosyne v:na 1819--1823; Yliopistomme koto-aiheellisista
+väitöksistä, sen perustuksesta v:teen 1820; ja Suomea koskevista
+kirjoituksista Ruotsin Tiede-Akatemian toimituksissa v:na 1739--1823[1].
+On myös kirjoittanut muutamista esitöistä täydelliseen Suomen tilastoon,
+elämäkertoja maamme muistetavista miehistä, j. m.
+
+[1] Förteckning öfver de afhandlingar af fosterländskt innehåll, bvilka
+finnas intagne i Åbo Tidningar på 1700 talet, Suomi 1841; samoin
+1800--1809, Suomi 1843; Förteckning öfver uppsatser rörande Finland i
+Svenska Vet. Akad. handlingar, Suomi 1847; dito öfver uppsatser af
+fosterländskt intresse i Mnemosyne åren 1819--1823, Suomi 1852;
+Supplement till Helsingfors Tidningar Onsdagen den 15 Juli 1840.
+Akademiska afhandlingar, rörande Finska Språket och Litteraturen,
+1640--1820. -- Mainittuna päivänä vietettiin Yliopiston 200 vuotista
+riemujuhlaa.
+
+*Hjelt, O. E. A.*: on tehnyt väitöksen luonnon historian oppinnasta
+Suomessa ennen Linnén aikaa, (Elias Tillandz ja hänen edellisensä).
+Siinä kerrotaan ja arvostellaan, mitä Yliopistossamme matkaansaatettiin
+mainitun tieteen hyväksi 1600 vuosilukuna. Se ei ollut paljo[1].
+
+[1] Naturhistoriens studium i Finland före Linnés tid. I. Elias Tillandz
+och hans föregångare, 1843. I:n merkki ilmoittaa jatkoa, mutta
+tietääkseni ei sitä ole tullut.
+
+*Cygnæus, F.*: on tähän asti syvimmästi tutkinut ja täydellisimmästi
+esittänyt surukuvallista ainetta Kalevalassa, nimittäin Kullervo-runojen
+sisällystä, ja arvostellut muitaki kirjallisuutemme tuotteita, esm. Z.
+Topeliuksen näytelmää: 50 vuotta sitte[1]. -- Cygnæuksen jääkynttilät,
+monet muistopuheet, j. m. ovat tutut.
+
+[1] Ks. F. Cygnæuksen kirjoituksia yleisissä aineissa (Afhandl. i
+populära ämnen). II. 1853; ja 1851 Litteraturbladia.
+
+*Snellman, J. W.*: on viimeisenä ja tänä vuosikymmenenä taitavimmasti ja
+voimallisimmasti ruotsin kielellä esittänyt ja puolustanut suomalaisen
+kansallisuuden ja kielen oikeuksia. Vaikutus siitä on ollut
+hedelmällinen. Saiman, Kallaveden ja Kirjallisuuslehden sisältö ei ole
+tavallisten sanomien perhoistyötä; niitä lukevat tulevatki suvut. Niissä
+löytyy ajatuksen syvyydellä ja terävyydellä tehtyjä arvosteluja Suomen
+kirjallisuuden tuotteista, niinkuin esm. kahden viimeisen vuosikymmenen
+suomenkielisestä kirjallisuudesta, Suomen historiasta, sanomalehdistä
+j. n. e.[1]. -- Snellmanin tieteellinen toimi ja ansio ei kuulu tähän.
+
+[1] Ks. Kallavettä 1846 2--3 n:roa; Litteraturbladia, 1847, 1848, 1849,
+1855, 1856, 1857; ja Saimaa 1844--1846.
+
+*Elmgren, S. G.*: on kirjoittanut elämäkertoja Suomen muistettavista
+miehistä. Ilmoittanut ja tarkastanut maamme kirjalliskasvuja
+Kirjallisuuslehdessä, niinkuin esm. Suomen sanomien vaiheita,
+hengellistä kirjallisuutta j. n. e. Arvollisin toimensa
+kirjallishistoriallisessa katsannossa ovat hänen vuosikertomuksensa
+Suomalaisen kirjallisuuden Seuran vaikutuksesta; erittäin on mainittava
+hänen kertomuksensa tästä seurasta, sen ensimäisinä 17:sta
+vaikutusvuosina[1].
+
+[1] Ks. Litteraturbladia, 1850--1854; Suomea 1847. -- Morgonbladin
+toimittajana oli Elmgren 1848--1847.
+
+† *Tengström, R.*: ennätti ainoastaan silmäillä Suomen kansaa
+Kalevalasta, tehdä johdannon kuvauksiin syntymämaan runollisuudesta, ja
+toimittaa ensimäisen osan kokouksesta Suomen valittuja runoja ja
+lauluja, vanhemmasta nykyiseen aikaan asti[1]. Alku työn kaunistaa --
+kuolema vei tämän nuoren neron kirjallishistoriamme vahingoksi.
+
+[1] Finska folket, såsom det skildras i Kalevala, Joukahainen, 2:n
+vihko, 1848; Teckningar från den fosterländska vitterhetens område.
+Inledning. I. Kalevala, Fosterländskt Album I. 1848; Finsk Anthologi
+eller samling af valda Skaldestycken af finska författare, j. n. e.,
+utgifven af R. Tengström. Första delen, 1848. -- Siis kaikki yhdellä
+vuodella.
+
+*Törnegren, C. W.*: on kuvaillut syvällä kirjallishistoriallisella
+tiedolla ruotsalaisen runollisuuden vaiheita Suomessa, Chronanderista
+Franzéniin asti, ja toimittanut luettelon Yliopistomme väitöksistä,
+v:sta 1828 v:teen 1852[1]. On myös kirjoittanut Suomen muistettavain
+miesten elämäkertoihin.
+
+[1] Föredrag af D:r C. W. Törnegren. -- Puhuttu Yliopiston juhlasalissa
+7/12 1849. -- Mainittu luettelo on painettu 1882 Suomeen.
+
+*Rancken, J. O. I.*: on antanut väitöksen Suomalaisten historiallisesta
+ja maatieteellisestä kirjallisuudesta v:teen 1722. Siinä määrätään
+Suomen kirjallishistorian aikakaudet neljäksi: 1:n -- 1640, 2:n -- 1721,
+3:s -- 1809 ja 4:s viimeisestä vuosiluvusta eteenpäin nykyaikaan.
+Helposti havaitaan nämät aikakaudet aivan vaillinaisiksi ja
+ulkopuoleisiksi[1].
+
+[1] De litteris historicis et geographicis Fennorum usque ad Acad. Ab.
+anno 1722 restitutam. 1851.
+
+*Oksanen, A.* (Ahlqvist): on vertaillut ja arvostellut Judénin,
+Gottlundin ja Korhosen runollista tointa ja ansiota, ja väittänyt suomen
+kielen tutkijoista ennen Porthania[1]. Kumpaisetki kirjoitukset ovat
+valaisevat niissä osissa kirjallisuuttamme. On myös tarkastanut
+suomalaisen kirjallisuuden tuotteita Suomettaressa, jonka alkajana ja
+toimittajana hän oli, ja Schiefnerin saksannosta Kalevalasta
+aikakirjassa Suomi[2].
+
+[1] Några drag ur Finska litteraturens historia. Luettu Lukuyhteyden
+kokouksessa ja palkittu; painettu Litteraturbladissa 1852. -- Bidrag
+till finska Språkforskningens historia före Porthan. 1854;
+
+[2] Ks. 1853 Suomea.
+
+*Renval, R.*: on antanut tietoja ja tehnyt luettelon Suomen
+sanomakirjallisuudesta v:sta 1771 v:teen 1854[1].
+
+[1] Om Finlands tidningslitteratur, painettu 1853 Litteraturbladiin
+(Kirjallisuuslehteen). Siinä luetellaan myös 1854 vuoden sanomat, josta
+näyttää niinkuin se olisi tullut maailmaan ennen syntyänsä; mutta
+erehdyttävä osoitus vuosiluvussa tulee siitä, että Litteraturblad
+silloin oli ruvennut kallistumaan alle Wenäjän aikalukua.
+
+Yrjö Koskinen on Nuijasodassansa omistanut muutamia sivuja
+suomenkieliselle kirjallisuudellemme[1].
+
+[1] Ks. Nuijasotaa. I. 1837, s. 24.
+
+Paitse yllämainittuja ovat jotkut muutkin arvostelleet yksityisiä osasia
+kirjallisuudestamme. Ulkomaalaisetkin ovat kääntäneet tarkastavan silmän
+Suomen kirjallisuuden tuotteisin. -- Kirjoittajain luku on maassamme
+sivistyksen kerällä kasvanut, varsinki suomen kielellä. Monta
+kiitettävää tiede- ja kirjoitusmiestä on Suomen kansa kadottanut heidän
+paraassa ijässänsä. Melkein vuosittain on kuolema laittanut surun ja
+kaipauksen sanomia ympäri maatamme, muistuttaen sananlaskua: *tulee mies
+meren takainen, ei tule turpehen alainen*. Nimet *R. Tengström*, *J. J.
+Nervander*, *F. Collan*, *M. A. Castrén*, *G. A. Wallin*, *A. J.
+Sjögren*, *H. Kellgren*, *J. J. Tengström* j. m. eivät katoa
+Suomalaisten muistosta.
+
+
+
+
+5:ksi Suomen kirjallishistorian aikakaudet.
+
+
+Ennen näiden aikakausien määräämistä on tarpeellinen osoittaa, mitä
+Suomen kirjallishistoria tulee sisältämään. Se jo kyllä nähdään
+yleisesti edellisistäki jaksoista; vaan kun moni ehkä lukee Suomen
+kirjallisuuteen kuuluvaksi ainoasti mitä suomeksi on kirjoitettu ja
+painettu, on tästä asiasta annettava likempi selitys.
+
+Helposti huomataan tätä kysymystä ei voitavan tyydyttäväisesti
+selvittää, puhumatta samalla kertaa sivistyksestä, johon se
+luonnollisesti juottuu yhteen. Kirjallishistorian ei pidä muka olla
+kuivan luettelon kirjallisuuden tuotteista, ynnä lyhykäisen otteen
+kanssa niiden sisällyksestä; sen tieteellinen luonto vaatii sen myös
+katsomaan ja näyttämään kirjallisen sivistyksen tilaa, kuntoa ja
+kasvantoa siinä maassa ja kansassa, jonka kirjallisuus on sen
+pää-aineena, ja niinmuodoin pää-sisältönäkin. Sivistyksen ohessa on
+tarvis puhua myös niistä kielistä, jotka ovat olleet sen välikappaleina
+maassamme.
+
+Mitä nyt sivistykseen yleensä tulee, niin muistutettava on, ettei se ole
+kenenkään erityisen ihmisen eikä kansan tekemä. Perijuurtansa on kaikki
+sivistys Jumalasta; siitä on selvä, ettei totista sivistystä löydy
+uskonnotta. Mutta ihmisillä ja kansoilla on, niinkuin vapailla
+olennoilla, tämän suhteen myös suuri osansa; monet monituiset suvut ovat
+töillänsä ja toimillansa ei ainoastaan ylläpitäneet, vaan myös
+kartuttaneet sivistyksen yleistä, rikasta aarretta. Vastaansanomatoin on
+siis se, että niinkuin taivaankappalten lukemattomilla joukoilla on
+itsekullaki tähti kunnalla aurinkonsa, josta saavat valonsa, samoin on
+sivistyski kaikkein kansain yhteinen omaisuus, josta jokaisella on
+oikeus ottaa niin paljon kuin tahtoo ja jaksaa. Tästä oikeudesta ei
+kukaan kansa tarvitse kantaa kiitoksia muille kuolevaisille, olkoot
+kutka tahansa. Kuki maa ja kuki kansa on saanut sivistyksensä siemenen
+muualta. Mutta jokaisen kansan velvollisuus on hoitaa ja kartuttaa tätä
+siementä.
+
+Sivistyksen yhteinen ja yleinen luonto ilmoittaa sen sisällön
+äärettömäksi. Jos niin ei olisi, ei se voisi olla niin hedelmäisestä
+väkevyydestä kuin ihmiskunnan historia todistaa sen olevan. Sivistyksen
+tavara-aitat ovat tyhjentymättömät; ne riittyvät kaikkein ihmisten ja
+kansain hengellisiä tarpeita täyttämään, samalla tavalla kun maa ja sen
+epälukuiset olennot ja kasvut saavat puuttumattoman eineensä ja
+elatuksensa valon, ilman, lämpimän ja kasteen yhdistyvästä
+vaikutuksesta. Mutta sivistys ei ainoastaan riity kaikille; se myös
+sovittaikse vapaasti jokaisen vapaan olennon sekä hengellisiä että
+luonnollisia avuja myöten, *joiden ylläpito ja kasvanto suurimpaan
+kukoistukseen ja hedelmäisyyteen sen päätarkoitus on*. Sivistys ei siis
+tahdo sortaa eikä kuolettaa kansain ominaisuuksia, eli niinkuin näitä
+voidaan yhdellä sanalla nimittää: *kansallisuutta*; päin vastoin tähtää
+se tämän eläväksi saattamista ja tekemistä jokaisessa kansassa. Mutta
+monenkaltaiset vastukset ovat estäneet ja estävät tätä sivistyksen
+vaikutusta, niin ettei se aina ja joka paikassa ole voinut vapaasti
+täyttää korkiaa tarkoitustansa.
+
+Kaiken ihmisellisen sivistyksen ja kasvatuksen suurimmat ja
+ihmeellisimmät välikappaleet ovat kielet. Näihin katsoen on jokaisen
+kansan oma kieli kalliimmasta arvosta ja painavimmasta merkityksestä,
+sivistyksen oikian menestyksen ja kukoistuksen vuoksi kussaki maassa.
+Kansa ja sen kieli ovat niinkuin sielu ja ruumis yhdistettyinä; ainoasti
+kuolema voi ne eroittaa toisistansa. Kieli on kulleki kansalle samasta
+arvosta sivistyksen suhteen, kun työ-aseet peltomiehelle maaviljellyksen
+puolesta. Tästä ymmärretään, ettei kukaan kansa voi hankkia eikä omistaa
+itsellensä yleisempää sivistystä muulla keinolla kun omalla kielellänsä.
+Nämät kolme: *kansa*, sen *kieli* ja *sivistys* ovat siis myöskin
+eroittumattomassa yhdistyksessä kussaki maassa. Tästä käy selväksi se
+totuus, ettei kukaan kansa saata täyttää kutsumustansa
+maailmanhistoriassa, ellei nämät kolme saa vapaasti vaikuttaa, ylläpitää
+ja avittaa toisiansa.
+
+Mutta maailmanhistoriassa ovat kunakin aikana jotkut kansat olleet muita
+edellä ja ylempänä sivistyksessä. Juuri niiden kautta on se myös
+siirtynyt muille, ja silloin on tavallisesti niiden kieliki tullut
+vieraasen maahan. On sattunut niinkin, että pienempien kansain kielet
+ovat tämän kautta lakastuneet ja se kansa sillä tavoin kadottanut
+ainijäksi oman kansallisuutensa ja itsellisyytensä, samoin kun pienet
+purot, laskettua vetensä suurempiin jokihin, kuivavat ja katoovat
+näkymättömiin. Kielet eivät kuitenkaan aina ole tehneet tämmöisiä
+murhatöitä toisillensa; ovat tavallisimmasti vaan auttaneet sivistyksen
+pysymistä vieraassa maassa, ja sen tehtyänsä antaneet vallan kansan
+omalle kielelle.
+
+Tässä sopii nyt jatkaa mitä tämän johdannon ensimäisessä jaksossa
+mainittiin (8 sivulla) muukalaiskielistä Suomessa. Näiden kutsumuksen
+seloksi maassamme, muistutettakoon ensin muinasajan sivistyneimmistä
+kielistä Europassa -- latinasta ja kreikasta. Tunnettu on näistä
+jälkimäisen suuresti vaikuttaneen edellisen kasvantoon, varsinki
+tieteellisessä katsannossa, vaikka latina sitte sai vallan kreikan yli,
+Romalaisten päästyä ylimäiseksi herraksi senaikaisessa sivistyneessä
+maailmassa. Mutta sitteki kun tämä heidän herrautensa lakastui, ja kun
+koko vanha romalainen valtakunta kaatui, vallitsi heidän kielensä
+Europan nuoremmissa kansoissa kaikkia, korkiampaan sivistykseen kuuluvia
+asioita. Epäilemättä oli tämä tarpeellinen alussa. Nämät nuoremmat
+kansat eivät voineet omilla hengellisillä varoillansa ja voimillansa
+vaikuttavasti ja edistävästi iskeä maailmanhistoriaan kiini. Heidän piti
+siihen suureen työhön saada tarpeellisen kasvatuksen ja opin.
+Kristillisyyden olivat saaneet, ja heidän piti myös omistaa itsillensä
+muinasajan sivistyksen. Tämä kaikki antoi Europan kansoille taitoa ja
+voimaa ei ainoastaan omaksi ylläpidännöksi, vaan myös yleisen
+sivistyksen vaurastumiseksi. Latina oli tämän sivistyksen välikappaleena
+kaiken keski-ajan, ja se oli tämän kielen suuri tarkoitus ihmiskunnassa.
+Vanhan tavan vuoksi pidettiin sitä kauvan aikaa jälkeenkipäin
+yleisemmässä kunnossa, vaikka niin ei olisi ollut välttämätöin tehdä.
+
+Tämä sama maailmankieli, joksi latinaa saattaa kunnian vuoksi sanoa,
+tuli kristillisyyden seurassa Suomeenki, ja sen lisäksi vielä ruotsi;
+valloittava ruotsalainen kansa toi maahamme ei ainoastaan mitä itse oli
+muilta kansoilta lahjaksi saanut, vaan myös oman kielensäki ja valtansa
+lait ja asetukset. Ihmeteltävä on se, ettei kaiken tämän muukalaisuuden
+seuraus ole ollut sortavampi -- kun sitä muka tuli yhtaikaa niin paljo.
+
+Pää-asiallinen eroitus, muukalaiskielien suhteen, suomalaisen kansan ja
+usiampien muiden kansain välillä Europassa on se, että maassamme on
+saatu latinan rinnalla vielä suuremmassa määrässä suositella ja pitää
+ruotsia. Vaan kun nämät kielet eivät yleisemmästi sointuneet Suomessa
+kristillisyyden ylevän tarkoituksen kanssa yhteen, täytyi niiden kääntyä
+syrjään uskon käytöllisissä asioissa. Uskonpuhdistus korotti niissä
+maissa, joissa se pääsi voitolle, kansain kielet kirkon kieleksi. Niin
+tapahtui Suomessaki. Mutta useimmissa muissa maissa ovat omat kielet jo
+vallalla kaikissa valtakunnallisissa ja tieteellisissäkin asioissa. Niin
+onnellinen ja oikia ei ole suomen kielen laita vielä nytkään.
+
+Mutta kun jonkun kansan elämän vaiheita tutkitaan ja tarkastetaan, ovat
+ne kokonaisessa järjestyksessänsä katsottavat ja tuomittavat. Mitä
+historiassa on tapahtunut, sitä ei voida peruuttaa; sitä vastaan
+saatetaan vanhat vahingoittavat seikat muuttaa ja parantaa, ja tämä on
+Suomen kansan ainoa turva ja lohdutus kielensä ja sivistyksensä asiassa.
+Historia sovittaa kansain kärsimykset; muisto ja toivo antavat
+toisillensa sovinnollisen käden. Suomen kansan elämän kohtaukset,
+semmoisina kun ne, ylimalkaan katsottuina, nyky-aikaan asti ovat olleet,
+saavat sovintonsa sen historian juoksusta.
+
+Edellisissä lauseissa on sanottu, ettei sivistyksen tarkoitus ole
+kenenkään kansan kuolettaminen, vaan eläväksi tekeminen. Kysytäänkö
+siis: *onko sivistys kuolettanut suomalaista kansaa, onko hävittänyt sen
+kansallisuutta?* niin siihen on vastaus: *Ei ole*. Vaikka tämän
+sivistyksen vaikuttavimpina välikappaleina ovat olleet vieraat kielet,
+on se kuitenki Suomalaisissa itsetietoon herättänyt ja saattanut heidän
+kansallistuntonsa. Suomen kansalla ei sentähden ole syytä vihata näitä
+muukalaiskieliä -- latinaa ja ruotsia; ne ovat palvelleet sen kalliinta
+asiaa: *sivistystä* ja *valistusta* Suomessa. Epäilemättä on näiden --
+sivistyksen ja valistuksen -- tarkoitus edespäinki sama kun tähän asti,
+sitteki kun oma kielemme astuu laillisen oikeutensa ja luonnollisen
+perintönsä omistukseen. Mikä tämä tarkoitus on, se on jo selitetty.
+Kuinka pian taas suomen kieli pääsee valtakieleksi maassamme, se riippuu
+paraasta päästä siinä, miten palava ja innollinen rakkaus meillä
+Suomalaisilla on tulla omituisemmiksi ja vapaammiksi jäseniksi kun tähän
+asti olemme olleet, muiden kansain joukossa sivistyksen puolesta.
+
+Kysyttäköön vielä: *ovatko Suomalaiset osanneet tiedolla ja taidolla
+käyttää latinaa ja ruotsia sivistyksen hyväksi Suomessa?* Tähän on
+totuuden mukaan kerskaamatta vastattava: *Ovat*. Ruotsalaisia on tosin
+löytynyt maamme oppineitten joukossa, mutta Suomalaisten ansio on se,
+että europalainen tiede ja taide on pysynyt ja juurtunut siinä osassa
+Pohjaa, jonka Luoja on antanut Suomen kansalle sivistyksen ja
+valistuksen kodiksi maanpiirillä. Suomen kansa on verellänsä ja
+hengellänsä puolustanut tätä kallista maatansa ja omaa itseänsä; se on
+myös sen kautta ollut lujana muurina Ruotsalaisille ja heidän
+kansallisuudellensa. Tämä sama vähäinen kansa on, kaikissa
+kärsimyksissänsä, tähän asti miehuullisesti sotinut sanalla, auralla ja
+miekalla, ja sillä tavoin voimiansa ja taitoansa myöten täyttänyt
+kutsumustansa ihmiskunnassa. Kun sivistys sulkee sisäänsä kaikki, mitä
+suurta, hyvää ja kaunista löytyy, niin tämä Suomen kansan kutsumus ei
+ole ollut eikä saata olla muu kun sivistyksen juurittaminen,
+suojeleminen ja levittäminen Pohjan kylmillä perillä; viime mainittu
+velvollisuus on likimäisesti käännettävä heimokansaimme hyväksi. Min
+pimeä ja hirvittävä ei myöskään nykyisyyden eikä tulevaisuuden otsa ole,
+että Suomalaiset tahtoisivat, kykenemättömien pelkurien tavoin, erota
+edeskäänpäin velvollisuuksiensa täytännöstä -- sekä kansallisessa että
+ihmiskunnallisessa suhteessa -- tahtoisivat vaihtaa suomalaista
+kansaallisuuttansa ruotsalaiseen, niinkuin Ruotsissa nämäkin aikoina
+vielä näytään haluavan ja toivovan. Ymmärrettävä on, että jos Suomen
+kansa semmoiseen itsessään jo mahdottomaan vaihtoon rupeisi, sen
+omituinen tila, kohta ja riento kansain joukossa sen kautta olisi
+keskeytetty. Ennenkun Suomalaiset siis sen tekevät, tahtovat he
+miekallansa puolustaa omaa elämätänsä viimeiseen veren pisaraan asti, ja
+sillä tavoin omistaa itsellensä edes kunniallisen kuoleman. Oma henki on
+rakkain ja kalliin kaikille; sitä puolustaa jokainen ketä vastaan
+tahansa kuolemaan saakka.
+
+Mutta Suomen kansan elämän säilytykseksi ja kutsumuksen täytännöksi
+omituisemmasti kun tähän asti on tapahtunut, on yksi ainoa ehto
+toteutettava: *suomen kieli on korotettava valtakieleksi*. Se ei ole
+mahdotoin; siihen on askelma askelman perään vähitellen otettu ennen, ja
+nyky-aikanaki. Latina on astunut alas tieteiden istuimelta Suomessa.
+Totta ruotsinki vuoro tulee antaa suomelle täyden vallan. Ja jos latina
+ei osaa näyttää esm. runollisuudessa Suomessa minkäänlaista Wäinämöistä,
+niin sitä ei voi sanoa ruotsista, jolla kielellä meillä on ensimäisen
+luokan runoilijoita. Tarvitseeko tämän todistukseksi mainita nimiä:
+*Franzén* ja *Runeberg*? Kun siis näiden vierasten kielien laita on
+tämmöinen maassamme, kun Suomalaiset ovat tiedollisesti ja taidollisesti
+osanneet käyttää niitä sivistyksen välikappaleina, niin aivan
+kummallinen ja käsittämätöin epätoivo hallitsisi sitä eli niitä, jotka
+uskoisivat, ettei oma äitimme kieli, voimaan ja valtaan päästyänsä,
+kelpaisi ja voisi menestyksellä ja hedelmäisyydellä, yleisemmästi kun
+tähän asti, palvella sivistystä ja valistusta Suomessa.
+
+Latina ja ruotsi ovat olleet Suomen kansalle ikäänkun ottopoikina. Niitä
+ruokkiessa ja verhoittaessa ei se ole unohtanut velvollisuuksiansa
+omaakaan kieltänsä kohtaan; on vaan liiemmaisesta kohteliaisuuden
+tunnosta pitänyt liian kauvan vieraita lapsia pöydän päässä ja omaa
+lastansa pankolla. Mutta kaikki, mitä nämät kolme lasta, (latinaa
+saatetaan kuitenki sanoa ukoksi, ruotsia ja suomea sen rinnalla
+nuorukaisiksi), ovat puheella ja kirjoituksilla julkisuuteen tuottaneet,
+kaikki se kuuluu Suomen kirjallishistoriaan.
+
+Suomen kirjallishistoria tulee siis sisältämään suomalaisen, latinaisen
+ja ruotsalaisen kirjallisuuden vaiheita maassamme. Mutta siihen kuuluu
+myös kaikki, mitä suomalaisesta ajatuksesta ja kynästä on lähtenyt
+muillaki, paitse mainituilla, kielillä. Se aikaa tulee ehkä pianki, jona
+muukalaiskieliset kirjoitukset voidaan Suomen kirjastoissa ja
+kirjallishistoriassa verrata vanhoihin sota-aseisin, joita muiston ja
+kunnian vuoksi säilytetään tulevain sukuin nähtäviksi, niitä varten
+erityisesti tehdyissä rakennuksissa. Mehiläisen tavoin ottakoot
+suomenkieliset kirjoittajat niiden sisällyksestä paraimmat osat ja
+kääntäkööt ne suomeksi, niin että koko suomalainen kansa saa tilaisuuden
+tietää, mitä hyvää sen tiede- ja kirjoitusmiehet ovat vierailla kielillä
+ilmituoneet.
+
+Mutta kun kirjallisuus kaikissa järjestetyissä valtakunnissa on
+läheisessä yhteydessä monenlaisten laitosten ja sääntöjen kanssa, niin
+Suomen kirjallishistoria ei voi olla koskematta näihinkin omassa
+maassamme. Se tulee siis lyhykäisesti katsomaan myös Yliopiston,
+kouluin, kirjallisseurain, kirjakauppain, kirjapainoin, paino-asetusten
+j. n. e. seikkoja Suomessa. Erittäin ovat suomen kielen vaiheet myöskin
+lyhyesti esitettävät. Ja kun kuki kansa, päästyänsä yleisen sivistyksen
+osallisuuteen, on omituisella tavallansa vaikuttavaisena jäsenenä
+ihmiskunnan suuressa pereessä, ja niinmuodoin enemmin eli vähemmin
+toisten kansain yhteydessä, niin Suomen kirjallishistorioitsijan ei
+pidä, esittäessänsä oman maan kirjallisuutta, välttää siihen kuuluvain
+seikkoin yleistä silmäilöä valistuneessa maailmassa. Etenkin ovat
+kirjallisuuden ja kielen asiat Ruotsissa tämän suhteen valaisevat niinä
+aikakausina, joina Suomi oli sen kanssa yhtenä valtakuntana, ja sitteki
+kun 1809 vuoden sota ja rauha eroittivat Suomalaiset ja Ruotsalaiset
+toisistansa.
+
+Seuraa vihdoin puhua Suomen kirjallishistorian aikakausista, ja määrätä
+niiden järjestyksen. Näiden suhteen on mainittava joka hetken ja
+silmänräpäyksen kansain elämässä olevan painavasta arvosta. Mutta jotkut
+vuodet ja ajat ovat sivistyksen kasvannossa verrallisesti muita
+merkillisempiä kussaki maassa. Historia valitsee ne ikäänkun
+pysähdyspaikkoiksi sisältönsä esityksessä; ne ovat sen kirjoittajalle ja
+myöski lukijalle samasta merkityksestä kun peninkulman tolpat ja
+lepopaikat matkustajalle. Niiden väliä sanotaan historiassa
+aikakausiksi.
+
+Suomen kirjallisuudella ei ole monta merkillisempää vuosilukua.
+Suorastaan siitä on sentähden melkein mahdotoin saada sen historialle
+sopivia aikakausia. Näin ollessa on paras ottaa ja järjestää ne niistä
+ulkonaisista seikoista, jotka ovat vaikuttaneet muutoksia ja parannuksia
+maamme sivistyksessä, ja siis kirjallisuutemmeki asioissa; nämät seikat
+ovat sillä tavoin katsottavat sisällisiksi ja Suomen kirjallisuuden
+piiriin kuuluviksi.
+
+Näin saadaan Suomen kirjallishistorialle 6 aikakautta. Ne ovat:
+
+1:n aikakausi v:sta O[1] ... v:teen 1157, jälk. Krist. synt.
+2:n     "       "   1157 ...    "   1543    "     "      "
+3:s     "       "   1543 ...    "   1640    "     "      "
+4:s     "       "   1640 ...    "   1770    "     "      "
+5:s     "       "   1770 ...    "   1831    "     "      "
+6:s     "       "   1831 ...    "    --     "     "      "
+
+[1] Muissa kielissä merkitään tuntemattomia vuosilukuja puustavilla X.
+Suomen kielessä on sovelias ottaa niiden merkiksi pulistavia O:ta = Outo
+vuosiluku; eli pidettäköön se tyhjän merkkinä. Ylläoleva O merkitsee
+tuntematointa vuosilukua Suomen kansan muinasajassa.
+
+Tämä on Suomen kirjallishistorian luuranko. Kirjallishistoriallinen
+tutkinto, taito ja esitys on antava tälle luurangolle lihan ja veren.
+
+Näitä aikakausia määrätessä on pidetty silmällä pää-asiallisesti kahta
+tärkeää asiaa: *sivistystä* ja *kansallisuutta*, jotka kansain elämässä
+käyvät rinnatusten, ylläpitäen ja auttaen toisiansa. Niin on tapahtunut
+suomalaiselleki kansalle, vaikka sen on täytynyt sivistyksensä juoksussa
+tehdä monia poukamia ja mutkia, jotka eivät aina ole olleet Suomalaisten
+omassa tahdossa.
+
+Nämät aikakaudet voidaan sisällyttää kahteen yleisempään jaksoon. Ne
+nimitettäkööt: *muinaisen* ja *kristillisen ajan kirjallisuudeksi*.
+Viimemainittu jakaikse: *katolisen*, *uskonpuhdistannollisen*,
+*tieteellisen* ja *kansallisen* aikakauden kirjallisuuteen.
+
+Jos kielen puolesta silmäillään näiden 6:n aikakauden kirjallisuutta,
+niin se on: 1:nä aikakautena *puhdas suomalainen*; se pistää
+tuotteillansa muiston voimalla kaikkiin sen jälkeisiinkin aikakausiin.
+Suomen kansa on sen kautta muistuttanut kutaki elävää miespolvea, etenki
+oppineita kansalaisiansa, ikäänkun sanoen: "*täällä minä olen -- elkäät
+unohtako minua, elkäätkä myös omaa itseänne!*" Muisto ja isänmaanrakkaus
+ovat valvoneet, niin ettei unohdus ole tässä saanut valtaa; -- 2:na
+aikakautena on kirjallisuus paraasta päästä *latinainen*, ja mainitun
+muistutuksen kautta myös suomalainen. On vähä ruotsiaki. -- Samoin on
+Suomen kirjallisuus sekaisin *suomalainen*, *latinainen* ja
+*ruotsalainen* 3:na, 4:nä, 5:nä ja 6:nakin aikakautena. Myös saksaa ja
+ranskaa ovat Suomen oppineet tällä vuosisadalla kirjoittaneet, ja ehkä
+vähän ennenkin.
+
+Mitä näihin aikakausiin vielä tulee, niin *ensimäinen* päättyy uuden
+uskon tultua Suomeen; sen henki vaikutti kirjallisuuden sisältöön.
+*Toinen* päättyy uskonpuhdistuksen päästyä vakinaiseksi maassamme. Se
+vaikutti hedelmällisesti Suomen kirjallisuuteen, ja korotti suomen
+kirjakieleksi. *Kolmas* loppuu Yliopiston perustettua maahamme, ja siitä
+ottaa *neljäs* alkunsa. Tämän opetus- ja tiedelaitoksen[1] toimeen pano
+vaikutti ja on vaikuttanut suuria parannuksia Suomen sivistyksen, ja
+myös kirjallisuuden kasvannolle. *Viides* alkaa kansallisista
+harrastamisista tieteissä ja kirjallisuudessa; Yliopisto oli tämän uuden
+elämän kehto. *Kuudennen* aikakauden alku on suomalaisen kansallisuuden
+aamurusko, jonka selkeys on vuosi vuodelta ollut kirkastumassa
+nykyaikaan asti, ehkä paljo on vielä tekemistä ja toivomista, ennenkun
+voidaan sanoa sivistyksen Suomessa juoksevan aivan omaa ja omituista
+uraansa.
+
+[1] Suomen Yliopisto on niin asetettu, että sen toimella on kaksi
+tarkoitusta: tieteiden opetus nuorisolle ja tieteiden viljelys Suomessa.
+Sitä voi siis kutsua opetus- ja tiedelaitokseksi.
+
+Pilvi-ajat ja hallavuodet Suomen kirjallisuudessa ovat tässä johdannossa
+jääneet erityisesti merkitsemättä; ne nähdään paremmin itsessä
+historiassa. Ei myöskään liene tarvis muuta kun lyhyesti muistuttaa
+siitä, että Suomen kirjallisuuden tuotteet ovat kunakin aikakautena
+järjestettävät eriluokkiinsa, ja esitettävät eriainettensa mukaan. Nämät
+luokat ja aineet ovat enimmästi samat kun muidenki kansain
+kirjallisuudessa.
+
+       *       *       *       *       *
+
+Moni tiedoitsija varustaa teoksensa ei juuri lyhyillä eikä vähän
+kiittävillä puheilla tieteensä arvosta ja hyödystä. Se ei ole miksikään
+viaksi katsottava, kun se tapahtuu ylevällä totuudella ja rakkaalla
+mielellä, niinkuin tieteiden korkeus ja suuruus vaatii. Näin olisi ehkä
+tässäki johdannossa erityisesti tehtävä Suomen kirjallishistorian
+ylistännöksi, paitse mitä siihen kuuluvia yleisiä lauselmia tavataan
+siellä täällä melkein kaikissa jaksoissa. Mutta "joka ei puolesta
+sanasta ymmärrä, ei se koko sanasta viisaammaksi tule"[1]. Niin paljo
+olkoon kuitenki sanottu, että kaikki tieteet koskevat jokaista jäsentä
+ja kansalaista kussaki maassa, vaikka sen pahempikin useimmat pitävät
+niiden totuudesta, menestyksestä ja kukoistuksesta sangen vähän mahtia;
+oma vatsa, sen täyttö, oma voitto ja oman onnen etsintö ovat
+tavallisesti tieteitä ja taiteita rakkaampia. Kuitenkin eivät
+yksityisten yksityisimmätkään pyrinnöt ja riennot menestyisi, jos ei
+tieteitä löytyisi. Erinomattain on historiallinen tiede niin yleisestä
+luonnosta, että se koskee likimmäisesti kaikkia ihmisiä; se näyttää,
+miten nykyisyys on syntynyt ja kasvanut menneisyydestä. Jos tämä on
+yleisesti tosi, niinkuin se epäilemättä on, niin siitä älytään, mistä
+arvosta kunki maan ja kansan historia erittäin on. Tämän todistukseksi
+löytyisi tukevia ja valaisevia lauseita esille vedettäviksi semmoisten
+tiedoitsijain teoksista kun esm. Hegel ja Geijer ovat; vaan ne jääkööt
+tähän suomentamatta.
+
+[1] Ks. Suomen kansan sanalaskuja, 177 s.
+
+Kirjallishistoriaa voidaan sanoa kansan historian sisälliseksi puoleksi.
+Se näyttää, miten kansa on käyttänyt hengellisiä lahjojansa ja voimiansa
+kalliimman asiansa auttamisessa ja kartuttamisessa, se on: *sivistyksen*
+ja *valistuksen asiassa*. Kirjallishistoria on ikäänkun kansan valveille
+herännyt sisällisin omatunto, jos niin saa sanoa; se sisältää nuhteen ja
+rangaistuksen laiminlyödyistä velvollisuuksista, ja voimallisen
+kehoituksen parantamaan ja täyttämään, mitä on jäänyt toimittamatta ja
+tekemättä. Kirjallishistoria on siis ei vähävaikuttavana ehtona ja
+kiihoituksena sivistyksen edistykselle ja kasvannolle kussaki kansassa.
+
+Mutta historia miltä nimeltä hyvänsä Suomessa ei voi kansallisessa
+katsannossa herättää eikä vaikuttaa suuria töitä, niin kauvan kuin se ei
+puhu kansan omaa kieltä. Suomen historia erityisesti ja Suomen
+kirjallishistoria vielä erityisemmästi vaikuttaa sitäki vähemmin, jos ne
+kirjoitetaan vieraalla kielellä. Niiden laita on Suomessa sama kun
+mykän, ja suurin osa kansaa on niitä kohtaan kuuro. Sentähden on Suomen
+historia ja kaikki sen eriosat suomeksi toimitettavat. Mutta tässä ei
+ole kyllä, eikä myös siinäkään, että oma kielemme vihdoinki tulee
+valtakieleksi hallitus-, laki-, oikeus-, virka- ja ammatti-asioissa;
+joka kaikki on kieltämättä yhtä toivottava kun tarpeellinen, ellemme
+aina jää häälymään osa ruotsiin, toinen venäjään, kolmas suomeen päin.
+Mutta kansallisuutemme ja sivistyksemme vaatimus on myös se, että
+tieteitä viljeltäköön Suomessa suomen kielellä. Niin kauvan kuin ne
+puhuvat maassamme muukalaiskieliä, täyttää Suomen kansa vaillinaisesti
+kutsumustansa maailmanhistoriassa. Teroittakoon etenki tämä Suomen
+oppivassa nuorisossa toimellista rakkautta omaan kieleemme, omaan
+kirjallisuuteemme, omaan kansaamme, omaan kansallisuuteemme.
+
+
+
+
+
+End of the Project Gutenberg EBook of Johdanto Suomen kirjallishistoriaan
+by Rietrik Pol�n
+
+*** END OF THIS PROJECT GUTENBERG EBOOK JOHDANTO SUOMEN ***
+
+***** This file should be named 15908-0.txt or 15908-0.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/5/9/0/15908/
+
+Produced by Matti J�rvinen and Tuija Lindholm.
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
