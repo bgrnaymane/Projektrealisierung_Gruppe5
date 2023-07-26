@@ -35,7 +35,7 @@ https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de
 
 
 ## Verwendung
-1. Starten der Webapp: `flask run` im lokalen Projektverzeichnis
+1. Starten der Webapp: `flask run` im lokalen Projektverzeichnis ausführen
 
 
 
