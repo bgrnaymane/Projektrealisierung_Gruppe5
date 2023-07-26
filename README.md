@@ -14,7 +14,7 @@ Dozierende: Enzo Hilzinger, Michael Lang
   
 ### Kriterien:
 
--Verwendung eines mehrstufigen Ansatzes (z.B. Data Selection, Preprocessing und Training des
+- Verwendung eines mehrstufigen Ansatzes (z.B. Data Selection, Preprocessing und Training des
 Modells) inkl. Auswahl und Anpassung eines geeigneten Algorithmus
 - Evaluation des erstellten Tools anhand geeigneter Metriken (nicht nur Accuracy basierend auf
 Testdaten!)
