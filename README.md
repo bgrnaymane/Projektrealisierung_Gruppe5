@@ -26,9 +26,8 @@ die o.g. Anforderungen bereits komplett abdecken!
 ## Installation
 1. Verwenden des folgenden Befehl, um das Repository in ein lokales Verzeichnis zu klonen: `git clone bnnlukas/Projektrealisierung_Gruppe5`
 2. Sicherstellen, dass die erforderlichen Abhängigkeiten installiert sind, indem der folgende Befehl ausgeführt wird: `pip install -r requirements.txt`
-3. Zusätzliche Dokumente aus dem folgenden OneDrive-Verzeichnis herunterladen und im lokalen Projektverzeichnis eingefügen:
+3. Zusätzliche Textquelle aus dem folgenden OneDrive-Verzeichnis herunterladen und im lokalen Projektverzeichnis eingefügen:
 https://caponovawarade-my.sharepoint.com/:f:/g/personal/ruedtja_caponova_wara_de/EjJkGARKPY1Jifgyz47zhDcBhckA8x31IoJbr9b7uDt6nw?e=QOGNX9
-  - finalized_model.sav in dem Order "models" einfügen
   - blogtext.csv in dem Order "data\Blogs" einfügen
 4. Installation von spaCy en_core_web_sm: `python -m spacy download en_core_web_sm`
 5. Ausführen der Datei "import_nltk.py"
