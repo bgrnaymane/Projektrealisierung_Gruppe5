@@ -218,11 +218,28 @@
     function toggleSpeechRecognition() {
       if (!recognition) {
         recognition = new webkitSpeechRecognition();
+        // Allows continuous recognition. The speech recognition will continue until the user klicks the "Stop Microphone"-Button
+        recognition.interimResults = true;
+        recognition.continuous = true; 
+        recognition.lang = 'en-US'; 
+
+        let finalTranscript = ''; 
 
         recognition.onresult = function(event) {
-          const transcript = event.results[0][0].transcript;
-          // Save the text as .txt file locally
-          const textBlob = new Blob([transcript], { type: "text/plain;charset=utf-8" });
+          let interimTranscript = ''; 
+
+          for (let i = event.resultIndex; i < event.results.length; ++i) {
+            if (event.results[i].isFinal) {
+              finalTranscript += event.results[i][0].transcript;
+            } else {
+              interimTranscript += event.results[i][0].transcript;
+            }
+          }
+        };
+
+        recognition.onend = function() {
+          // Save the final transcript as .txt file locally
+          const textBlob = new Blob([finalTranscript], { type: "text/plain;charset=utf-8" });
           const a = document.createElement("a");
           a.href = URL.createObjectURL(textBlob);
           a.download = "speech_text.txt";
