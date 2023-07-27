@@ -1,4 +1,4 @@
-zusätzlicher Link zur finalen Abgabe vom 27.07.2023: https://github.com/ruedel/Abgabe-MS-3
+zusätzlicher Link zur finalen Abgabe vom 27.07.2023: https://github.com/ruedel/Abgabe-MS-3 <br>
 Hauptabgabe inkl. Code ist diese Main-Branch, in der auch die Abgabedokumente als PDF im Ordner "Abgaben" eingefügt sind.
 
 # NLP-Tool: Textklassifizierung und Zusammenfassung
